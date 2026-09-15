@@ -5482,7 +5482,7 @@
     "location": "Portugal / Portugal",
     "posted_at": "2026-09-08T06:06:29.568000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/6af80fc0-9c80-4da8-a638-283eb4fffcbe": {
     "title": "Account Manager – Strategic Partner",
@@ -5492,7 +5492,7 @@
     "location": "Romania / Romania",
     "posted_at": "2026-09-08T06:06:58.930000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/7b570db3-6c92-44f3-bbc5-47c7bb37ed2e": {
     "title": "Account Manager – Strategic Partner",
@@ -5502,7 +5502,7 @@
     "location": "Spain / Spain",
     "posted_at": "2026-09-08T06:05:11.617000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/970b32c9-9be8-4ad8-81d0-87d3828a5d60": {
     "title": "Account Manager – Strategic Partner",
@@ -5512,7 +5512,7 @@
     "location": "Italy / Italy",
     "posted_at": "2026-09-08T06:06:43.651000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/ad905bb4-80fe-45f2-8e19-61faf4bc9251": {
     "title": "Account Manager – Strategic Partner",
@@ -5522,7 +5522,7 @@
     "location": "Switzerland / Switzerland",
     "posted_at": "2026-09-08T06:05:44.666000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/c56d07f3-683c-4668-972f-61a90cb6c799": {
     "title": "Account Manager – Strategic Partner",
@@ -5532,7 +5532,7 @@
     "location": "Netherlands / Netherlands",
     "posted_at": "2026-09-08T06:06:13.602000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/cc3789ed-0831-4db9-bd3c-74d30f49d7d8": {
     "title": "Account Manager – Strategic Partner",
@@ -5542,7 +5542,7 @@
     "location": "Ireland / Ireland",
     "posted_at": "2026-09-08T06:05:58.811000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/ce5e7811-3cbc-4ad9-aade-32fa30e06720": {
     "title": "Account Manager – Strategic Partner",
@@ -5552,7 +5552,7 @@
     "location": "France / France",
     "posted_at": "2026-09-08T06:05:26.356000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/01585260-2b54-453c-8046-07b637084734": {
     "title": "SAP Integration & Full Stack Developer",
@@ -5562,7 +5562,8 @@
     "location": "Poland / Poland",
     "posted_at": "2026-09-08T08:00:32.942000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/179fbc97-2320-4579-b8bc-ef0d9f16a3c0": {
     "title": "SAP Integration & Full Stack Developer",
@@ -5572,7 +5573,8 @@
     "location": "Portugal / Portugal",
     "posted_at": "2026-09-08T07:57:06.993000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/2ee509a9-a099-4f10-95e7-8726022560d3": {
     "title": "SAP Integration & Full Stack Developer",
@@ -5582,7 +5584,8 @@
     "location": "Germany / Germany",
     "posted_at": "2026-09-08T07:55:53.153000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/40cc3bdb-fdd5-493a-be51-ecf6397b6228": {
     "title": "SAP Integration & Full Stack Developer",
@@ -5592,7 +5595,8 @@
     "location": "Belgium / Belgium",
     "posted_at": "2026-09-08T07:59:13.538000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/41d62c0a-cc38-4d48-bcc8-53ce942b6d8f": {
     "title": "SAP Integration & Full Stack Developer",
@@ -5602,7 +5606,8 @@
     "location": "Switzerland / Switzerland",
     "posted_at": "2026-09-08T07:56:24.876000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/42e2ac84-2127-43d2-91c4-5a801f853f97": {
     "title": "SAP Integration & Full Stack Developer",
@@ -5612,7 +5617,8 @@
     "location": "Ireland / Ireland",
     "posted_at": "2026-09-08T07:56:38.265000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/65664084-cfea-412c-99ac-4d70f7babe27": {
     "title": "SAP Integration & Full Stack Developer",
@@ -5622,7 +5628,8 @@
     "location": "Romania / Romania",
     "posted_at": "2026-09-08T07:57:43.320000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/8bda4138-5748-4594-9d3d-de88f140d87a": {
     "title": "SAP Integration & Full Stack Developer",
@@ -5632,7 +5639,8 @@
     "location": "Austria / Austria",
     "posted_at": "2026-09-08T08:00:17.129000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/a511f208-f770-49b3-84f6-7de4e802403b": {
     "title": "SAP Integration & Full Stack Developer",
@@ -5642,7 +5650,7 @@
     "location": "Turkey / Turkey",
     "posted_at": "2026-09-08T07:58:45.091000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/b5e0aa2b-4ee5-4d11-a656-a358bb603c05": {
     "title": "SAP Integration & Full Stack Developer",
@@ -5652,7 +5660,8 @@
     "location": "Sweden / Sweden",
     "posted_at": "2026-09-08T07:59:59.047000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/cb1fb859-df2c-4134-92a1-f6999963874e": {
     "title": "SAP Integration & Full Stack Developer",
@@ -5662,7 +5671,8 @@
     "location": "France / France",
     "posted_at": "2026-09-08T07:56:11.161000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/ce9d4851-5d54-42fe-900d-cfb6e1fff215": {
     "title": "SAP Integration & Full Stack Developer",
@@ -5672,7 +5682,8 @@
     "location": "Spain / Spain",
     "posted_at": "2026-09-08T07:55:40.230000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/d3f104fc-fe78-4a68-9782-a3d4e9344042": {
     "title": "SAP Integration & Full Stack Developer",
@@ -5682,7 +5693,8 @@
     "location": "Italy / Italy",
     "posted_at": "2026-09-08T07:57:24.760000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/ec567aad-fcae-4fc7-ba9f-fa2c1a2cd1a7": {
     "title": "SAP Integration & Full Stack Developer",
@@ -5692,7 +5704,7 @@
     "location": "Netherlands / Netherlands",
     "posted_at": "2026-09-08T07:56:53.932000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/0ba23df4-f620-4b91-bb12-1933ca07740b": {
     "title": "Tier I Technical Support Specialist — Smart Cooler Vending",
@@ -5702,7 +5714,7 @@
     "location": "Switzerland / Switzerland",
     "posted_at": "2026-09-08T07:45:54.594000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/110a62f6-e41c-47d4-8221-448cc6697eff": {
     "title": "Tier I Technical Support Specialist — Smart Cooler Vending",
@@ -5712,7 +5724,7 @@
     "location": "Bulgaria / Bulgaria",
     "posted_at": "2026-09-08T07:51:10.540000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/16c0819d-a69b-45cf-a8b1-07c8680fe780": {
     "title": "Tier I Technical Support Specialist — Smart Cooler Vending",
@@ -5722,7 +5734,7 @@
     "location": "Turkey / Turkey",
     "posted_at": "2026-09-08T07:48:16.394000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/21b66907-da2b-4b3e-9207-d7ad6057fbeb": {
     "title": "Tier I Technical Support Specialist — Smart Cooler Vending",
@@ -5732,7 +5744,7 @@
     "location": "Czechia / Czechia",
     "posted_at": "2026-09-08T07:52:14.947000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/3753ba79-43c0-41de-a9e6-cca2964ec899": {
     "title": "Tier I Technical Support Specialist — Smart Cooler Vending",
@@ -5742,7 +5754,7 @@
     "location": "Ireland / Ireland",
     "posted_at": "2026-09-08T07:46:12.234000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/459fed6a-e08a-43c5-a177-df45b7cc0adb": {
     "title": "Tier I Technical Support Specialist — Smart Cooler Vending",
@@ -5752,7 +5764,7 @@
     "location": "Spain / Spain",
     "posted_at": "2026-09-08T07:45:11.350000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/64a2bb56-a640-4d45-a37b-6e1ff4bee31a": {
     "title": "Tier I Technical Support Specialist — Smart Cooler Vending",
@@ -5762,7 +5774,7 @@
     "location": "Norway / Norway",
     "posted_at": "2026-09-08T07:51:58.213000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/64c5765c-afe2-4fe5-b388-0ad195d82726": {
     "title": "Tier I Technical Support Specialist — Smart Cooler Vending",
@@ -5772,7 +5784,7 @@
     "location": "Italy / Italy",
     "posted_at": "2026-09-08T07:47:04.018000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/6c3fc924-d6b2-4a7f-8689-6c7872577a40": {
     "title": "Tier I Technical Support Specialist — Smart Cooler Vending",
@@ -5782,7 +5794,7 @@
     "location": "Greece / Greece",
     "posted_at": "2026-09-08T07:50:39.539000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/7938b6d1-5af8-49e6-aa3a-5ba24e770c9f": {
     "title": "Tier I Technical Support Specialist — Smart Cooler Vending",
@@ -5792,7 +5804,7 @@
     "location": "Poland / Poland",
     "posted_at": "2026-09-08T07:50:07.184000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/827480a6-b801-4f52-b784-5dc172ec3d4d": {
     "title": "Tier I Technical Support Specialist — Smart Cooler Vending",
@@ -5802,7 +5814,7 @@
     "location": "Hungary / Hungary",
     "posted_at": "2026-09-08T07:52:46.707000+00:00",
     "first_seen": "2026-09-08T08:31:52.889607+00:00",
-    "link_checked_at": "2026-09-12T08:16:54.902626+00:00"
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/83405d93-2074-41d8-9f6a-e71003080a9c": {
     "title": "Tier I Technical Support Specialist — Smart Cooler Vending",
@@ -6254,7 +6266,8 @@
     "description": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Founded by Feross…",
     "location": "Europe",
     "posted_at": "2026-09-14T14:07:56+00:00",
-    "first_seen": "2026-09-15T02:55:14.873461+00:00"
+    "first_seen": "2026-09-15T02:55:14.873461+00:00",
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/12e47517-13eb-4be1-8089-19bd9791ac43": {
     "title": "Incident Operations Lead",
@@ -6263,7 +6276,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Incident Operations Lead based in Netherlands. As an Incident Operations Lead, you will build and lead the function responsible for managing the most critical incidents across a complex, globally distributed technology environment. You will establish the operating model, severity framework, escalation paths, and 24x7 follow-the-sun coverage needed to respond effectively under pressure. The role sits at the intersection of engineering, SRE, Risk, communications, and reliability teams, ensuring every incident is managed with clarity and discipline. You will lead a distributed team of Incident Commanders while continuously improving response processes, metrics, and operational readiness. A major part of the role will be turning incident learnings into measurable reliability improvements and scalable operating practices. You will also shape the use of AI-powered automation to reduce operational toil and make incident management faster, safer, and more consistent.",
     "location": "Netherlands / Netherlands",
     "posted_at": "2026-09-15T01:17:30.288000+00:00",
-    "first_seen": "2026-09-15T02:55:14.873461+00:00"
+    "first_seen": "2026-09-15T02:55:14.873461+00:00",
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/6139ea2a-b962-4c11-9b48-7fe71f535a24": {
     "title": "Incident Operations Lead",
@@ -6272,7 +6286,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Incident Operations Lead based in Ireland. As an Incident Operations Lead, you will build and lead the function responsible for managing the most critical incidents across a complex, globally distributed technology environment. You will establish the operating model, severity framework, escalation paths, and 24x7 follow-the-sun coverage needed to respond effectively under pressure. The role sits at the intersection of engineering, SRE, Risk, communications, and reliability teams, ensuring every incident is managed with clarity and discipline. You will lead a distributed team of Incident Commanders while continuously improving response processes, metrics, and operational readiness. A major part of the role will be turning incident learnings into measurable reliability improvements and scalable operating practices. You will also shape the use of AI-powered automation to reduce operational toil and make incident management faster, safer, and more consistent.",
     "location": "Ireland / Ireland",
     "posted_at": "2026-09-15T01:17:54.625000+00:00",
-    "first_seen": "2026-09-15T02:55:14.873461+00:00"
+    "first_seen": "2026-09-15T02:55:14.873461+00:00",
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/9d03cc33-bfc7-4969-8acc-75e3da23ed84": {
     "title": "Incident Operations Lead",
@@ -6281,7 +6296,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Incident Operations Lead based in Switzerland. As an Incident Operations Lead, you will build and lead the function responsible for managing the most critical incidents across a complex, globally distributed technology environment. You will establish the operating model, severity framework, escalation paths, and 24x7 follow-the-sun coverage needed to respond effectively under pressure. The role sits at the intersection of engineering, SRE, Risk, communications, and reliability teams, ensuring every incident is managed with clarity and discipline. You will lead a distributed team of Incident Commanders while continuously improving response processes, metrics, and operational readiness. A major part of the role will be turning incident learnings into measurable reliability improvements and scalable operating practices. You will also shape the use of AI-powered automation to reduce operational toil and make incident management faster, safer, and more consistent.",
     "location": "Switzerland / Switzerland",
     "posted_at": "2026-09-15T01:18:31.074000+00:00",
-    "first_seen": "2026-09-15T02:55:14.873461+00:00"
+    "first_seen": "2026-09-15T02:55:14.873461+00:00",
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/ab0e2e42-18da-449b-914f-9d85336e97a4": {
     "title": "Incident Operations Lead",
@@ -6290,7 +6306,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Incident Operations Lead based in Germany. As an Incident Operations Lead, you will build and lead the function responsible for managing the most critical incidents across a complex, globally distributed technology environment. You will establish the operating model, severity framework, escalation paths, and 24x7 follow-the-sun coverage needed to respond effectively under pressure. The role sits at the intersection of engineering, SRE, Risk, communications, and reliability teams, ensuring every incident is managed with clarity and discipline. You will lead a distributed team of Incident Commanders while continuously improving response processes, metrics, and operational readiness. A major part of the role will be turning incident learnings into measurable reliability improvements and scalable operating practices. You will also shape the use of AI-powered automation to reduce operational toil and make incident management faster, safer, and more consistent.",
     "location": "Germany / Germany",
     "posted_at": "2026-09-15T01:19:17.042000+00:00",
-    "first_seen": "2026-09-15T02:55:14.873461+00:00"
+    "first_seen": "2026-09-15T02:55:14.873461+00:00",
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/f0a6e00a-2f7a-447d-a7c2-70e4bf6e7b0b": {
     "title": "Incident Operations Lead",
@@ -6299,7 +6316,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Incident Operations Lead based in France. As an Incident Operations Lead, you will build and lead the function responsible for managing the most critical incidents across a complex, globally distributed technology environment. You will establish the operating model, severity framework, escalation paths, and 24x7 follow-the-sun coverage needed to respond effectively under pressure. The role sits at the intersection of engineering, SRE, Risk, communications, and reliability teams, ensuring every incident is managed with clarity and discipline. You will lead a distributed team of Incident Commanders while continuously improving response processes, metrics, and operational readiness. A major part of the role will be turning incident learnings into measurable reliability improvements and scalable operating practices. You will also shape the use of AI-powered automation to reduce operational toil and make incident management faster, safer, and more consistent.",
     "location": "France / France",
     "posted_at": "2026-09-15T01:18:53.378000+00:00",
-    "first_seen": "2026-09-15T02:55:14.873461+00:00"
+    "first_seen": "2026-09-15T02:55:14.873461+00:00",
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
   },
   "https://jobs.lever.co/jobgether/fc1c887b-2994-4510-92b6-d7758ccdc957": {
     "title": "Incident Operations Lead",
@@ -6308,6 +6326,31 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Incident Operations Lead based in Spain. As an Incident Operations Lead, you will build and lead the function responsible for managing the most critical incidents across a complex, globally distributed technology environment. You will establish the operating model, severity framework, escalation paths, and 24x7 follow-the-sun coverage needed to respond effectively under pressure. The role sits at the intersection of engineering, SRE, Risk, communications, and reliability teams, ensuring every incident is managed with clarity and discipline. You will lead a distributed team of Incident Commanders while continuously improving response processes, metrics, and operational readiness. A major part of the role will be turning incident learnings into measurable reliability improvements and scalable operating practices. You will also shape the use of AI-powered automation to reduce operational toil and make incident management faster, safer, and more consistent.",
     "location": "Spain / Spain",
     "posted_at": "2026-09-15T01:19:37.923000+00:00",
-    "first_seen": "2026-09-15T02:55:14.873461+00:00"
+    "first_seen": "2026-09-15T02:55:14.873461+00:00",
+    "link_checked_at": "2026-09-15T09:06:44.745596+00:00"
+  },
+  "https://djinni.co/jobs/842196-junior-integration-analyst/": {
+    "title": "Junior Integration Analyst",
+    "url": "https://djinni.co/jobs/842196-junior-integration-analyst/",
+    "source": "Djinni",
+    "description": "Junior Integration Analyst в Luxoft – Djinni Помилка Відкрити в застосунку Djinni Провідна міжнародна ІТ-компанія шукає Junior інтеграційного аналітика на банківські проекти для одного з лідерів банківського ринку в Україні. Ми пропонуємо цікаві та масштабні проекти, що базуються на сучасних технологіях, роботу в складі високопрофесійного колективу. Responsibilities: - аналіз вимог щодо реалізації інтеграційних рішень - підготовки простої технічної документації: - опис API - мапінгів даних - sequence/integration flow diagrams - побудова, погодження та впровадження рішень у відповідності до сервіс орієнтованої архітектури - супроводження процесів розробки - проведення інтеграціного тестування - експертний аналіз та опрацювання заявок в Service Desk в рамках 3-ї лінії підтримки Mandatory Skills Description: - вища освіта або студент старших курсів (економічна/технічна/у сфері інформаційних технологій) - розуміння базових принципів розробки програмного забезпечення та інформаційних систем - розуміння принципів інтеграції ІТ-систем - базові знання REST API (HTTP-методи, статус-коди, JSON, XML) та SOAP/WSDL - розуміння клієнт‑серверної архітектури - базові знання роботи з реляційними БД (SQL: SELECT, JOIN на рівні читання) - загальне уявлення про ESB, message queues - базове розуміння принципів системного аналізу - бажано - вміння моделювання процесів за допомогою методологій та нотацій (UML) Необхідний досвід з навичками REST API 6 місяців Вимоги до володіння мовами Українська B2 – Вище середнього Опубліковано 11 серпня · Оновлено 15 вересня 153 перегляди · 22 відгуки Активність рекрутера: Низька Відповідали 2 тижні тому Подивитись статистику кандидатів що відгукнулись на цю вакансію 👀 Огляд кандидатів Для відгуку на цю та інші вакансії на Djinni увійдіть або зареєструйтеся . Виключно\n      \n      \n        від\n        1 року досвіду Тільки віддалено Україна Країни, де розглядаємо кандидатів Українська B2 – Вище середнього Business Analyst REST API 6 місяців Зайнятість: Fulltime Домен: Other Сервісна компанія Активність рекрутера: Низька Відповідали 2 тижні тому 📊 Середня зарплатна вилка схожих вакансій у аналітиці → Завантаження... We use cookies to improve your experience. Learn more Okay",
+    "region": "Україна",
+    "first_seen": "2026-09-15T09:09:07.804070+00:00"
+  },
+  "https://djinni.co/jobs/828678-account-manager/": {
+    "title": "Account Manager",
+    "url": "https://djinni.co/jobs/828678-account-manager/",
+    "source": "Djinni",
+    "description": "Account Manager в Adwa – Djinni Помилка Відкрити в застосунку Djinni Adwa is a team of innovators with deep expertise in delivering customized business solutions in the IT sector. We are looking for an outgoing extrovert and a communication skills guru to join us for inspiring projects and unlimited opportunities. Our passion for teamwork and ability to create exceptional experiences for our clients is the key to a successful future. So, let’s get ready to rewrite the rules of the IT world! Requirements: English proficiency at B2 level or higher; Experience in the gambling industry; Client-oriented mindset, empathy; Previous language practice at work (both verbal and written); Understanding of sales. Responsibilities: Communicating with clients via email, chat, and phone (in the future); Diligent management of the CRM system; Providing high-quality service and transferring potential clients to the retention team; Meeting assigned plans and targets; Constantly improving expertise (we have a coach who is always happy to help). We offer: 24 paid vacation days and three weeks of sick leave; National holidays — on-call mode for queries, if any; 2 Day Offs per year; Remote work: Mon – Fri (9:00 AM – 6:00 PM Kyiv time); Corporate English lessons, 75% compensation for relevant courses; If needed, we provide equipment (after the probation period); We operate without micromanagement — we trust each of our specialists, and all team members are open for communication. Вимоги до володіння мовами Англійська B2 – Вище середнього Українська B2 – Вище середнього Опубліковано 1 червня · Оновлено 15 вересня 515 переглядів · 111 відгуків Активність рекрутера: Дуже висока Відповідали 13 хвилин тому Подивитись статистику кандидатів що відгукнулись на цю вакансію 👀 Огляд кандидатів Для відгуку на цю та інші вакансії на Djinni увійдіть або зареєструйтеся . Виключно\n      \n      \n        від\n        1 року досвіду Тільки віддалено Країни Європи та Україна Країни, де розглядаємо кандидатів Англійська B2 – Вище середнього Українська B2 – Вище середнього Account Manager Зайнятість: Fulltime Домен: Gambling Продуктова компанія Активність рекрутера: Дуже висока Відповідали 13 хвилин тому 📊 Середня зарплатна вилка схожих вакансій у аналітиці → Завантаження... We use cookies to improve your experience. Learn more Okay",
+    "region": "Україна",
+    "first_seen": "2026-09-15T09:09:07.804070+00:00"
+  },
+  "https://jobs.dou.ua/companies/uvik-software/vacancies/358957/": {
+    "title": "Technical (Python) Support Engineer",
+    "url": "https://jobs.dou.ua/companies/uvik-software/vacancies/358957/",
+    "source": "DOU",
+    "description": "Compensation: $600–1200 . Technical (Python) Support Engineer в Uvik Software, віддалено | DOU Вхід і реєстрація Вакансії Перша робота Тренди Компанії Рейтинг Топ-50 Відгуки Додати компанію Uvik Software Всі вакансії компанії Uvik Software — інженерна команда з 50+ спеціалістів, яка допомагає клієнтам зі США та Європи масштабувати розробку та швидко підсилювати продуктову команду. Наш фокус — Python-екосистема (Django/Flask/FastAPI), Data Engineering, Data Analytics та прикладні AI/DS задачі. Всі вакансії / Python / віддалено 15 вересня 2026 Technical (Python) Support Engineer віддалено We’re looking for a Technical (Python) Support Engineer to keep our production applications stable and fast during weekend shifts. You’ll handle incident triage, bug fixes, and small improvements while collaborating with the core team when escalation is needed. What you’ll do Maintain and troubleshoot Python/Django web applications Debug and optimize database performance (PostgreSQL) Operate core AWS services (EC2, S3) Diagnose issues with cross-functional teams and implement quick fixes Keep code changes clean, documented, and secure Handle end-user requests and provide technical assistance What we’re looking for: English: Upper-Intermediate Experience: 6+ months with Python & Django OR no commercial experience but: Completed relevant courses/bootcamps (Python, Django, Databases, AWS) Strong fundamentals (data types, HTTP/REST, Git, basic Linux, debugging) Hands-on projects (pet projects, labs, internships) — GitHub links welcome Solid knowledge of PostgreSQL (or another relational DB) Basic familiarity with AWS (EC2, S3) Strong analytical and debugging skills Basic understanding of REST APIs and front-end basics (HTML, CSS, JavaScript) Clear communicator; comfortable working independently and in a team Nice to have Docker, Kubernetes, and CI/CD pipelines Web application security best practices Experience in an Agile environment What we offer Flexible choice of shift blocks Supportive team and transparent processes Fast track to real production experience Facebook Twitter LinkedIn Відгукнутися на вакансію Правила відгуків Гарячі вакансії для початківців Technical Support Specialist (IT) в UniTalk , $600–1200 , Київ Junior Creative Animator в Perion , віддалено Sales Manager (medical services) в Bookimed , $1400–2500 , віддалено Customer Support Specialist в HealthJoy , $900–1050 , віддалено Junior Support Manager в UniTalk , $700–900 , Київ Customer Support Representative в Helpware , від $800 , віддалено Learning Engagement Corporate Trainer в Galaktica , Київ, Львів, Одеса, віддалено Sales Manager/ Менеджер з продажів в Glovo , Київ Всі вакансії для початківців Схожі вакансії Python developer в Partner Dev , до $1500 , віддалено Web Scraping Specialist в Jooble , Київ, віддалено AI Engineer в SAG7 Ventures , віддалено Python Engineer в Broscorp , $1000–1500 , віддалено Python Developer в AnyforSoft , віддалено Python Database Developer в Nova Digital , віддалено Backend Developer (Python) в StarNavi , $1500–2000 , віддалено Python Engineer with AWS and AI agents experience в BigTree108 , віддалено Всі схожі вакансії Скористайтесь акаунтом × Google LinkedIn GitHub Facebook Увійти за поштою . Вхід Реєстрація Відновлення пароля Пошта Пароль Неправильний пароль Увійти Реєстрацію по email закрито Пошта Скинути пароль Ви неправильно вказали свою пошту Або скористайтесь акаунтом . Для того, щоб зробити ваш профіль повноцінним, вкажіть вашу пошту. Ми відправимо вам лист з посиланням для підтвердження. Пошта Зберегти Ви неправильно вказали свою пошту я згоден(-на) з умовами використання сайту і політикою конфіденційності .",
+    "region": "Україна",
+    "first_seen": "2026-09-15T09:09:07.804070+00:00"
   }
 }
