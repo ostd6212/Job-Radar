@@ -19,15 +19,15 @@ from job_search.config import DISPLAY_DAYS
 
 REGIONS = ["Україна", "Закордон", "Не вказано"]
 
-WORKFLOW_URL = "https://github.com/ostd6212/quietfeed/actions/workflows/scrape-and-publish.yml"
-STATUS_URL = "https://raw.githubusercontent.com/ostd6212/quietfeed/main/data/status.json"
+WORKFLOW_URL = "https://github.com/ostd6212/Job-Radar/actions/workflows/scrape-and-publish.yml"
+STATUS_URL = "https://raw.githubusercontent.com/ostd6212/Job-Radar/main/data/status.json"
 
 # Repo/path the Keywords panel's JS writes to via the GitHub Contents API --
 # see the inline <script> in generate_html for why a static GitHub Pages
 # site can still persist an edit (CORS-enabled REST API + a token the user
 # supplies themselves, kept in their own browser's localStorage).
 GH_OWNER = "ostd6212"
-GH_REPO = "quietfeed"
+GH_REPO = "Job-Radar"
 GH_KEYWORDS_PATH = "data/keywords.json"
 GH_EXCLUDE_PATH = "data/exclude_keywords.json"
 GH_JOBS_PATH = "data/jobs.json"
