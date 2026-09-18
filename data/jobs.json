@@ -18,7 +18,7 @@
     ],
     "first_seen": "2026-08-02T22:55:24.977091+00:00",
     "applied": true,
-    "link_checked_at": "2026-09-14T09:27:27.513504+00:00"
+    "link_checked_at": "2026-09-18T02:38:33.734902+00:00"
   },
   "https://jobs.dou.ua/companies/netfully/vacancies/366569/": {
     "title": "Technical Support Engineer",
@@ -42,7 +42,7 @@
     ],
     "first_seen": "2026-08-02T22:55:24.977091+00:00",
     "applied": true,
-    "link_checked_at": "2026-09-14T09:27:27.513504+00:00"
+    "link_checked_at": "2026-09-18T02:38:33.734902+00:00"
   },
   "https://jobs.dou.ua/companies/platipus-gaming/vacancies/365926/": {
     "title": "Technical Support Engineer (24/7)",
@@ -66,7 +66,7 @@
     ],
     "first_seen": "2026-08-02T22:55:24.977091+00:00",
     "applied": true,
-    "link_checked_at": "2026-09-14T09:27:27.513504+00:00"
+    "link_checked_at": "2026-09-18T02:38:33.734902+00:00"
   },
   "https://jobs.dou.ua/companies/onlyplay/vacancies/365774/": {
     "title": "Technical Support Engineer",
@@ -90,7 +90,7 @@
     ],
     "first_seen": "2026-08-02T22:55:24.977091+00:00",
     "applied": true,
-    "link_checked_at": "2026-09-14T09:27:27.513504+00:00"
+    "link_checked_at": "2026-09-18T02:38:33.734902+00:00"
   },
   "https://jobs.dou.ua/companies/peax-software/vacancies/355851/": {
     "title": "Technical Support Engineer L1-L2",
@@ -114,7 +114,7 @@
     ],
     "first_seen": "2026-08-02T22:55:24.977091+00:00",
     "applied": true,
-    "link_checked_at": "2026-09-14T09:27:27.513504+00:00"
+    "link_checked_at": "2026-09-18T02:38:33.734902+00:00"
   },
   "https://jobs.dou.ua/companies/kitsoft/vacancies/364485/": {
     "title": "Technical / Customer Support Engineer",
@@ -138,7 +138,7 @@
     ],
     "first_seen": "2026-08-02T22:55:24.977091+00:00",
     "applied": true,
-    "link_checked_at": "2026-09-14T09:27:27.513504+00:00"
+    "link_checked_at": "2026-09-18T02:38:33.734902+00:00"
   },
   "https://jobs.dou.ua/companies/wisealt-payments-consulting/vacancies/365527/": {
     "title": "Merchant Onboarding & Sales Operations Specialist",
@@ -162,7 +162,7 @@
     ],
     "first_seen": "2026-08-02T22:55:24.977091+00:00",
     "applied": true,
-    "link_checked_at": "2026-09-14T09:27:27.513504+00:00"
+    "link_checked_at": "2026-09-18T02:38:33.734902+00:00"
   },
   "https://jobicy.com/jobs/150100-strategic-account-manager-customer-success": {
     "title": "Strategic Account Manager - Customer Success",
@@ -183,7 +183,7 @@
     "cons": [],
     "first_seen": "2026-08-02T22:55:24.977091+00:00",
     "applied": true,
-    "link_checked_at": "2026-09-14T09:27:27.513504+00:00"
+    "link_checked_at": "2026-09-18T02:38:33.734902+00:00"
   },
   "https://jobs.dou.ua/companies/raccoon-gang/vacancies/365116/": {
     "title": "Account Manager / Customer Success Manager [EdTech]",
@@ -4115,7 +4115,7 @@
       "Низкая зарплата"
     ],
     "first_seen": "2026-08-06T01:59:32.103594+00:00",
-    "link_checked_at": "2026-09-14T09:27:27.513504+00:00"
+    "link_checked_at": "2026-09-18T02:38:33.734902+00:00"
   },
   "https://www.arbeitnow.com/jobs/companies/tellent/remote-senior-account-manager-dach-cologne-456488": {
     "title": "Senior Account Manager - DACH",
@@ -4141,7 +4141,7 @@
       "Низкая зарплата не указана"
     ],
     "first_seen": "2026-08-06T01:59:32.103594+00:00",
-    "link_checked_at": "2026-09-14T09:27:27.513504+00:00"
+    "link_checked_at": "2026-09-18T02:38:33.734902+00:00"
   },
   "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-412569": {
     "title": "AI Integration & Automation Engineer (m/w/d)",
@@ -4167,7 +4167,8 @@
       "Низкая зарплата не указана"
     ],
     "first_seen": "2026-08-06T01:59:32.103594+00:00",
-    "link_checked_at": "2026-09-14T09:27:27.513504+00:00"
+    "link_checked_at": "2026-09-18T02:38:33.734902+00:00",
+    "hidden": true
   },
   "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-371377": {
     "title": "AI Integration & Automation Engineer (m/w/d) GER",
@@ -4193,7 +4194,7 @@
       "Низкая зарплата не указана"
     ],
     "first_seen": "2026-08-06T01:59:32.103594+00:00",
-    "link_checked_at": "2026-09-14T09:27:27.513504+00:00"
+    "link_checked_at": "2026-09-18T02:38:33.734902+00:00"
   },
   "https://djinni.co/jobs/839011-junior-technical-support-specialist-mobile-ap/": {
     "title": "Junior Technical Support Specialist Mobile Ap",
@@ -4217,7 +4218,7 @@
       "Office-only positions"
     ],
     "first_seen": "2026-08-06T05:21:01.315923+00:00",
-    "link_checked_at": "2026-09-14T09:27:27.513504+00:00"
+    "link_checked_at": "2026-09-18T02:38:33.734902+00:00"
   },
   "https://jobs.lever.co/jobgether/0025a919-8ad8-47f1-9ffb-5eaf3dff588f": {
     "title": "Maintenance Integration Engineer",
@@ -4977,7 +4978,7 @@
       "Неповна інформація про завдання"
     ],
     "first_seen": "2026-08-06T08:25:20.274265+00:00",
-    "link_checked_at": "2026-09-14T09:27:27.513504+00:00"
+    "link_checked_at": "2026-09-18T02:38:33.734902+00:00"
   },
   "https://jobicy.com/jobs/148707-senior-technical-account-manager-spanish-speaking": {
     "title": "Senior Technical Account Manager (Spanish Speaking)",
@@ -6259,7 +6260,7 @@
     "description": "Compensation: $500-700 . Trainee - Junior Gambling Account Manager в Gentle Partners – Djinni Помилка Відкрити в застосунку Djinni Привіт! На зв’язку Gentle Partners, CPA Network for iGaming Affiliates. Ми створюємо більше, ніж просто performance-маркетинг - формуємо екосистему, де є простір для зростання, сміливих ідей та справжньої командної роботи. У нас ти знайдеш команду однодумців, які підтримують одне одного, постійно розвиваються та живуть культурою «always get better», що стала частиною нашої ДНК. Хочеш стартувати в affiliate-маркетингу? Давай з нами! Зараз ми шукаємо Trainee - Junior Gambling Account Manager. Було б круто, якщо ти маєш: – Базове розуміння digital-маркетингу та принципів роботи з онлайн-трафіком; – Розуміння основних принципів роботи з даними та метриками (CTR, CR, ROI, ROAS та інші) або готовність швидко цьому навчитись; – Готовність працювати з таблицями, аналітикою та звітністю; – Вміння комунікувати, ставити питання та знаходити спільну мову з людьми; – Відповідальність, уважність до деталей та структурований підхід до роботи; – Гнучкість та здатність швидко адаптуватися до нових задач і процесів; – Англійська на рівні, достатньому для комунікації та роботи з інформацією (буде плюсом); – Висока мотивація до навчання та професійного розвитку в affiliate-сфері. Буде перевагою: – Розуміння моделей роботи в affiliate (CPA, RevShare, Hybrid); – Знання основних каналів залучення трафіку; – Базове розуміння специфіки iGaming / betting / digital продуктів. Що ти будеш робити: – Ведення рекламодавця: запит актуальних умов, домовленості під особливі запити вебмайстрів, контроль трафіку і його якості через кабінет рекламодавця; – Ведення фінансової звітності по рекламодавцю, звірки та контроль оплат; – Пошук та підключення нових рекламодавців; – Будування та планування довгострокових відносин з партнерами з метою збільшення обсягів трафіку; – Регулярний аналіз якості надходження партнерського трафіку та моніторинг його джерел; пошук шляхів оптимізації; виявлення шахрайства; – Відвідування профільних заходів на території України та за кордоном. Що ми пропонуємо: гнучкий графік і remote формат роботи; турботу про work-life balance: 18 днів відпустки + sick leaves без довідок і бюрократії; реальні можливості для професійного росту й кар’єрного апґрейду; зустрічі на тімбілдингах, де можна побачити команду наживо й зарядитися енергією. Interview process: 1) Тестове завдання → 2) HR Interview → 3) Final Interview with Head of Account Team Вимоги до володіння мовами Англійська B1 – Середній Українська Носій мови Опубліковано 3 червня · Оновлено 13 вересня 523 перегляди · 108 відгуків Активність рекрутера: Низька Відповідали вчора Подивитись статистику кандидатів що відгукнулись на цю вакансію 👀 Огляд кандидатів Для відгуку на цю та інші вакансії на Djinni увійдіть або зареєструйтеся . Без досвіду $500-700 Тільки віддалено Країни Європи та Україна Країни, де розглядаємо кандидатів Англійська B1 – Середній Українська Носій мови Account Manager Зайнятість: Fulltime Домен: Advertising / Marketing Агенція Є тестове завдання Активність рекрутера: Низька Відповідали вчора 📊 Середня зарплатна вилка схожих вакансій у аналітиці → Завантаження... We use cookies to improve your experience. Learn more Okay",
     "region": "Україна",
     "first_seen": "2026-09-14T02:52:24.095449+00:00",
-    "link_checked_at": "2026-09-14T09:27:27.513504+00:00"
+    "link_checked_at": "2026-09-18T02:38:33.734902+00:00"
   },
   "https://djinni.co/jobs/848089-technical-customer-support-engineer/": {
     "title": "Technical Customer Support Engineer",
@@ -6420,6 +6421,87 @@
     "source": "Djinni",
     "description": "Compensation: $1200-2000 . Sales Account Manager в FRACTAL – Djinni Помилка Відкрити в застосунку Djinni select form — креативна мерч-агенція. Шукаємо системного та енергійного Account Manager-a , який стане «обличчям» компанії для клієнтів. Клієнти select form — це відомі українські та міжнародні компанії, такі як Forbes, Ajax, MacPaw, Laba, FRACTAL, Applyft, Rewish, SQUAD, PeopleForce, Cargofy, Obmify, Honeytech, LOKO, ReThink, TEKEVER, hi5 та інші. Ви відповідатимете за повний цикл роботи з клієнтом: від первинної комунікації та кваліфікації запиту до укладення угоди, супроводу співпраці та розвитку довгострокових відносин. Hard skills: Досвід роботи з B2B-клієнтами та ведення угод по воронці продажів. Досвід проведення клієнтських зустрічей, брифінгів, презентацій та переговорів. Вміння виявляти потреби клієнта та формувати релевантні рішення під його запит. Досвід підготовки та презентації комерційних пропозицій. Досвід роботи з CRM та системного ведення клієнтів. Буде перевагою: Досвід у товарному/креативному бізнесі. Вміння працювати з Figma. Soft skills: Сильні комунікаційні навички та вміння будувати довгострокові відносини з клієнтами. Системність і пріоритизація в умовах великої кількості паралельних задач. Комерційне мислення та орієнтація на результат. Самостійність та ownership у роботі з клієнтом. Product sense, креативність та візуальний смак — здатність оцінювати доречність і цілісність запропонованих рішень. Твої задачі: 1. Робота з лідами та кваліфікація: Оперативно опрацьовувати вхідні запити — до 30 хвилин у робочий час. Кваліфікувати та пріоритизувати лідів за потенціалом: бюджетом, термінами, форматом проєкту та очікуваннями клієнта. Самостійно призначати та проводити онлайн/офлайн зустрічі з клієнтами. Проводити глибинний брифінг: визначати контекст, цілі, ідеї, цільову аудиторію та потреби клієнта. Супроводжувати клієнта на етапі продажу: презентувати select form, релевантні кейси, портфоліо та можливі рішення. Відсіювати нерелевантні запити та аргументовано відмовляти. 2. Підготовка комерційних пропозицій: Формувати рішення відповідно до запиту клієнта: підбирати продукти, концепції та можливі варіанти реалізації. Залучати внутрішні команди до підготовки пропозиції: Creative — для розробки концепції та візуального рішення, Production — для прорахунку вартості та виробничої частини. Для простіших запитів самостійно підбирати айтеми та формувати рішення без залучення Creative. Збирати фінальну комерційну пропозицію у Figma та презентувати її клієнту. Опрацьовувати зворотний зв'язок, узгоджувати правки та фіналізувати пропозицію. 3. Укладення угоди та передача проєкту: Погоджувати фінальний бюджет, терміни, специфікацію та умови реалізації. Супроводжувати підписання договору та контролювати отримання передоплати. Після погодження рішення, договору та передоплати передавати реалізацію проєкту Project Manager-у з повним контекстом і домовленостями щодо клієнта. Залишатися основною контактною особою для клієнтів, тоді як Project Manager бере ownership за реалізацію конкретного проєкту. 4. Розвиток і утримання клієнтів: Після завершення проєкту повертатися до клієнта, збирати feedback / NPS та підтримувати подальшу комунікацію. Розвивати довгострокові відносини та працювати над retention і повторними замовленнями. Опрацьовувати нові запити закріплених клієнтів та запускати наступний цикл співпраці. 5. Операційна діяльність та аналітика: Вести воронку продажів у CRM (ClickUp / Sheets) та актуально фіксувати статус кожної угоди. Фіксувати причини відмов: ціна, терміни, продукт та інші фактори. Контролювати власні показники по воронці та готувати щомісячну звітність: кількість лідів, зустрічей, комерційних пропозицій та продажів. Ми пропонуємо: Гнучкий графік роботи з можливістю починати робочий день із 8:00 до 10:00 та завершувати з 17:00 до 19:00. Можливість працювати віддалено або в офісі у м. Києві. Офіс автономний на випадок відключення світла. Оплачувану відпустку — 18 робочих днів та 8 оплачуваних лікарн",
     "region": "Україна",
-    "first_seen": "2026-09-17T09:07:01.254372+00:00"
+    "first_seen": "2026-09-17T09:07:01.254372+00:00",
+    "link_checked_at": "2026-09-18T02:38:33.734902+00:00"
+  },
+  "https://djinni.co/jobs/842897-technical-support-and-qa-specialist-junior-ju/": {
+    "title": "Technical Support And Qa Specialist Junior Ju",
+    "url": "https://djinni.co/jobs/842897-technical-support-and-qa-specialist-junior-ju/",
+    "source": "Djinni",
+    "description": "Compensation: $500-800 . Technical Support  and QA Specialist (Junior / Junior+) в LeadBolid – Djinni Помилка Відкрити в застосунку Djinni Ми шукаємо Technical Support & QA Specialist (Junior / Junior+), який буде допомагати користувачам, перевіряти налаштування клієнтських проєктів, діагностувати технічні проблеми та брати участь у ручному тестуванні продукту. Розглядаємо кандидатів із досвідом від 6 місяців у технічній підтримці IT-продуктів, ручному тестуванні або супроводі SaaS-сервісів. Основні обов'язки Робота з адміністративною панеллю продукту. Перевірка налаштувань клієнтських проєктів. Контроль роботи AI-агентів у Telegram-чатах. Діагностика технічних проблем: відтворення помилок, перевірка налаштувань, пошук можливих причин та самостійне вирішення, якщо це можливо. Визначення випадків, коли проблему можна вирішити самостійно, а коли необхідно залучати команду розробки. Створення якісних bug report для розробників: кроки відтворення; очікуваний результат; фактичний результат; скріншоти або відео; інформація про проєкт. Проведення ручного тестування нового функціоналу після релізів. Перевірка виправлених багів (re-testing). Одночасне ведення кількох звернень та контроль їхнього статусу до повного вирішення. Комунікація з клієнтами простою та зрозумілою мовою без надлишкової технічної термінології. Взаємодія з командою розробки щодо технічних питань. Наші очікування Від 6 місяців досвіду в Technical Support, Manual QA, SaaS Support або суміжній технічній ролі. Досвід роботи з веб-застосунками та адміністративними панелями. Вміння самостійно локалізувати та відтворювати помилки. Розуміння принципів складання якісних bug report. Досвід ручного тестування функціоналу. Базове розуміння роботи веб-додатків, Telegram-груп, ботів, ролей користувачів та системи прав доступу. Вміння працювати з кількома задачами одночасно та контролювати їх виконання. Грамотна письмова комунікація. Уважність до деталей, відповідальність та аналітичне мислення. Буде перевагою DevTools. Postman. Робота з API. JSON. Аналіз логів. Jira, ClickUp, Linear або інші системи керування задачами. Досвід роботи з Telegram-ботами. Досвід тестування AI/LLM-продуктів або чат-ботів. Кого ми шукаємо Перевагу надаємо кандидатам із досвідом: Technical Support; SaaS Support; Manual QA; Junior QA; технічного супроводу веб-продуктів. Кандидати лише з клієнтського сервісу, продажів або call-центрів без технічного досвіду, на жаль, не розглядаються. Ми пропонуємо Віддалений формат роботи. Повну зайнятість. Роботу в команді, яка розробляє сучасний AI-продукт. Можливість професійного розвитку у напрямках Technical Support та QA. Дружню команду та цікаві технічні задачі. Вимоги до володіння мовами Опубліковано 13 серпня · Оновлено 17 вересня 565 переглядів · 139 відгуків Активність рекрутера: Низька Відповідали 2 тижні тому Подивитись статистику кандидатів що відгукнулись на цю вакансію 👀 Огляд кандидатів Для відгуку на цю та інші вакансії на Djinni увійдіть або зареєструйтеся . Виключно\n      \n      \n        від\n        0.5 років досвіду Тільки віддалено Країни Європи та Україна Країни, де розглядаємо кандидатів Customer/Technical Support Зайнятість: Fulltime Домен: Blockchain / Crypto Продуктова компанія Активність рекрутера: Низька Відповідали 2 тижні тому 📊 $500-800 Середня зарплатна вилка схожих вакансій у аналітиці → Завантаження... We use cookies to improve your experience. Learn more Okay",
+    "region": "Україна",
+    "first_seen": "2026-09-18T02:40:42.169025+00:00"
+  },
+  "https://jobs.lever.co/jobgether/441d5deb-08a5-492f-a57f-1b6416b25c08": {
+    "title": "Engineering Manager - Payments Integrations",
+    "url": "https://jobs.lever.co/jobgether/441d5deb-08a5-492f-a57f-1b6416b25c08",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Engineering Manager - Payments Integrations based in Germany. Lead a multidisciplinary engineering team responsible for connecting a global payments platform with PSPs, acquirers, and payment gateways worldwide. You will own the technical direction and delivery of critical payment integrations that support international expansion. The role combines people leadership with hands-on technical ownership across architecture, development, deployment, and production operations. You will help shape scalable, low-latency, highly available backend systems and integration frameworks used across multiple markets. Working closely with Product, Compliance, and Business teams, you will translate a fast-moving roadmap into reliable technical solutions. You will also champion AI-assisted engineering practices, embedding modern development and testing tools into the team's daily workflows. This is an opportunity for an experienced Engineering Manager to build a high-performing team while solving complex infrastructure challenges at global scale.",
+    "location": "Germany / Germany",
+    "posted_at": "2026-09-18T03:11:07.550000+00:00",
+    "first_seen": "2026-09-18T02:40:42.169025+00:00"
+  },
+  "https://jobs.lever.co/jobgether/2f3b69ad-7887-49f6-82c1-cb59897f5792": {
+    "title": "Technical Support Specialist",
+    "url": "https://jobs.lever.co/jobgether/2f3b69ad-7887-49f6-82c1-cb59897f5792",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Technical Support Specialist based in Netherlands.\nThis is a fully remote technical support role focused on helping customers successfully use a growing B2B SaaS platform.\nYou will provide hands-on assistance across software functionality, configuration, integrations, and technical troubleshooting.\nWorking primarily with French- and English-speaking customers, you will play an important role in delivering a clear, responsive, and high-quality support experience.\nYou will collaborate closely with Product Development and QA teams to investigate complex issues and communicate valuable customer feedback.\nThe role offers the opportunity to build deep product expertise while contributing to support processes, documentation, and continuous improvement.\nYou will work within an international, distributed team that values autonomy, learning, and customer focus.\nThis position is well suited to a technically curious support professional who enjoys solving problems and helping customers get measurable value from technology.",
+    "location": "Germany / Germany",
+    "posted_at": "2026-09-18T01:02:11.938000+00:00",
+    "first_seen": "2026-09-18T02:40:42.169025+00:00"
+  },
+  "https://jobs.lever.co/jobgether/3439a5ec-4ddd-498c-a87b-c2aee119c623": {
+    "title": "Technical Support Specialist",
+    "url": "https://jobs.lever.co/jobgether/3439a5ec-4ddd-498c-a87b-c2aee119c623",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Technical Support Specialist based in Netherlands.\nThis is a fully remote technical support role focused on helping customers successfully use a growing B2B SaaS platform.\nYou will provide hands-on assistance across software functionality, configuration, integrations, and technical troubleshooting.\nWorking primarily with French- and English-speaking customers, you will play an important role in delivering a clear, responsive, and high-quality support experience.\nYou will collaborate closely with Product Development and QA teams to investigate complex issues and communicate valuable customer feedback.\nThe role offers the opportunity to build deep product expertise while contributing to support processes, documentation, and continuous improvement.\nYou will work within an international, distributed team that values autonomy, learning, and customer focus.\nThis position is well suited to a technically curious support professional who enjoys solving problems and helping customers get measurable value from technology.",
+    "location": "Switzerland / Switzerland",
+    "posted_at": "2026-09-18T01:00:58.073000+00:00",
+    "first_seen": "2026-09-18T02:40:42.169025+00:00"
+  },
+  "https://jobs.lever.co/jobgether/51c3b75a-4b5b-4bb0-a1bb-e9bb258e415f": {
+    "title": "Technical Support Specialist",
+    "url": "https://jobs.lever.co/jobgether/51c3b75a-4b5b-4bb0-a1bb-e9bb258e415f",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Technical Support Specialist based in Netherlands.\nThis is a fully remote technical support role focused on helping customers successfully use a growing B2B SaaS platform.\nYou will provide hands-on assistance across software functionality, configuration, integrations, and technical troubleshooting.\nWorking primarily with French- and English-speaking customers, you will play an important role in delivering a clear, responsive, and high-quality support experience.\nYou will collaborate closely with Product Development and QA teams to investigate complex issues and communicate valuable customer feedback.\nThe role offers the opportunity to build deep product expertise while contributing to support processes, documentation, and continuous improvement.\nYou will work within an international, distributed team that values autonomy, learning, and customer focus.\nThis position is well suited to a technically curious support professional who enjoys solving problems and helping customers get measurable value from technology.",
+    "location": "France / France",
+    "posted_at": "2026-09-18T01:01:19.725000+00:00",
+    "first_seen": "2026-09-18T02:40:42.169025+00:00"
+  },
+  "https://jobs.lever.co/jobgether/94c0a8f0-c18a-483c-8e6f-ebaf3e8669fe": {
+    "title": "Technical Support Specialist",
+    "url": "https://jobs.lever.co/jobgether/94c0a8f0-c18a-483c-8e6f-ebaf3e8669fe",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Technical Support Specialist based in Netherlands.\nThis is a fully remote technical support role focused on helping customers successfully use a growing B2B SaaS platform.\nYou will provide hands-on assistance across software functionality, configuration, integrations, and technical troubleshooting.\nWorking primarily with French- and English-speaking customers, you will play an important role in delivering a clear, responsive, and high-quality support experience.\nYou will collaborate closely with Product Development and QA teams to investigate complex issues and communicate valuable customer feedback.\nThe role offers the opportunity to build deep product expertise while contributing to support processes, documentation, and continuous improvement.\nYou will work within an international, distributed team that values autonomy, learning, and customer focus.\nThis position is well suited to a technically curious support professional who enjoys solving problems and helping customers get measurable value from technology.",
+    "location": "Netherlands / Netherlands",
+    "posted_at": "2026-09-18T00:56:13.615000+00:00",
+    "first_seen": "2026-09-18T02:40:42.169025+00:00"
+  },
+  "https://jobs.lever.co/jobgether/99f1de0d-965d-4805-9291-f698eb809aa0": {
+    "title": "Technical Support Specialist",
+    "url": "https://jobs.lever.co/jobgether/99f1de0d-965d-4805-9291-f698eb809aa0",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Technical Support Specialist based in Netherlands.\nThis is a fully remote technical support role focused on helping customers successfully use a growing B2B SaaS platform.\nYou will provide hands-on assistance across software functionality, configuration, integrations, and technical troubleshooting.\nWorking primarily with French- and English-speaking customers, you will play an important role in delivering a clear, responsive, and high-quality support experience.\nYou will collaborate closely with Product Development and QA teams to investigate complex issues and communicate valuable customer feedback.\nThe role offers the opportunity to build deep product expertise while contributing to support processes, documentation, and continuous improvement.\nYou will work within an international, distributed team that values autonomy, learning, and customer focus.\nThis position is well suited to a technically curious support professional who enjoys solving problems and helping customers get measurable value from technology.",
+    "location": "Spain / Spain",
+    "posted_at": "2026-09-18T01:02:44.123000+00:00",
+    "first_seen": "2026-09-18T02:40:42.169025+00:00"
+  },
+  "https://jobs.lever.co/jobgether/ac7eba62-5ee7-4b7a-a32c-3486e2fac2bb": {
+    "title": "Technical Support Specialist",
+    "url": "https://jobs.lever.co/jobgether/ac7eba62-5ee7-4b7a-a32c-3486e2fac2bb",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Technical Support Specialist based in Netherlands.\nThis is a fully remote technical support role focused on helping customers successfully use a growing B2B SaaS platform.\nYou will provide hands-on assistance across software functionality, configuration, integrations, and technical troubleshooting.\nWorking primarily with French- and English-speaking customers, you will play an important role in delivering a clear, responsive, and high-quality support experience.\nYou will collaborate closely with Product Development and QA teams to investigate complex issues and communicate valuable customer feedback.\nThe role offers the opportunity to build deep product expertise while contributing to support processes, documentation, and continuous improvement.\nYou will work within an international, distributed team that values autonomy, learning, and customer focus.\nThis position is well suited to a technically curious support professional who enjoys solving problems and helping customers get measurable value from technology.",
+    "location": "Ireland / Ireland",
+    "posted_at": "2026-09-18T01:00:33.929000+00:00",
+    "first_seen": "2026-09-18T02:40:42.169025+00:00"
+  },
+  "https://jobs.lever.co/jobgether/a676e911-befe-4bdf-b481-3eb418f1fda9": {
+    "title": "VIP Account Manager",
+    "url": "https://jobs.lever.co/jobgether/a676e911-befe-4bdf-b481-3eb418f1fda9",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a VIP Account Manager based in Germany. Join an international iGaming environment where you will manage relationships with high-value and pre-VIP players. You will combine personalized customer support, account management, and proactive retention strategies. The role focuses on building trusted, long-term relationships while delivering a high-quality experience across multiple communication channels. You will monitor player behavior, identify retention opportunities, and proactively engage customers when action is needed. Working closely with Payments, Support, Risk, and other internal teams, you will help resolve complex player situations efficiently. You will also contribute to reactivation campaigns, personalized promotions, and player engagement initiatives. This is a dynamic, fast-paced role suited to a relationship-focused professional who enjoys ownership, communication, and measurable results.",
+    "location": "Germany / Germany",
+    "posted_at": "2026-09-18T03:07:17.629000+00:00",
+    "first_seen": "2026-09-18T02:40:42.169025+00:00"
   }
 }
