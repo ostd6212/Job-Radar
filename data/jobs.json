@@ -580,7 +580,7 @@
       "Низька відповідність до бажаних вимог"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-09-25T09:15:50.055618+00:00"
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://job-boards.greenhouse.io/twilio/jobs/8065040": {
     "title": "Senior Security Engineer, Incident Response",
@@ -640,7 +640,7 @@
       "Незрозуміла роль"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-09-25T09:15:50.055618+00:00"
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://job-boards.greenhouse.io/twilio/jobs/8059910": {
     "title": "Technical Account Manager 3",
@@ -698,7 +698,7 @@
       "Незрозуміла роль"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-09-25T09:15:50.055618+00:00"
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://job-boards.greenhouse.io/vercel/jobs/5818258004": {
     "title": "Senior Customer Support Engineer",
@@ -756,7 +756,7 @@
       "Незрозуміла роль"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-09-25T09:15:50.055618+00:00"
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.lever.co/netomi/71934132-49f9-4553-9870-e70f77ec9819": {
     "title": "Senior Product Manager – Integrations Platform",
@@ -2578,7 +2578,7 @@
       "Низька оцінка компанії за технічним досвідом"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-09-25T09:15:50.055618+00:00"
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.ashbyhq.com/posthog/f8af3807-3595-4580-a65c-dad2e268ace5": {
     "title": "Technical Account Executive",
@@ -2607,7 +2607,7 @@
       "Незрозуміла бізнес-модель компанії"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-09-25T09:15:50.055618+00:00"
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.ashbyhq.com/posthog/b42fd20b-b647-4f42-b725-b29ca472cba8": {
     "title": "Technical Account Manager - EMEA",
@@ -2665,7 +2665,7 @@
       "Незрозуміла бізнес-модель компанії"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-09-25T09:15:50.055618+00:00"
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.ashbyhq.com/openai/b0729478-f363-498e-a088-b659c40d4580": {
     "title": "Lead, Incidents & Escalations, User Operations",
@@ -2694,7 +2694,7 @@
       "Незрозуміла бізнес-модель компанії"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-09-25T09:15:50.055618+00:00"
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.ashbyhq.com/openai/759dd316-cbe9-4e73-af57-808502568b29": {
     "title": "AI Support Engineer, Biosciences - San Francisco",
@@ -2723,7 +2723,7 @@
       "Незрозуміла бізнес-модель компанії"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-09-25T09:15:50.055618+00:00"
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.ashbyhq.com/elevenlabs/71f84d23-fda9-45af-a249-8bbdb258bc18": {
     "title": "Account Manager Lead - North America - Enterprise",
@@ -2753,7 +2753,7 @@
       "Немає інформації про рівень досвіду кандидата"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-09-25T09:15:50.055618+00:00"
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.ashbyhq.com/elevenlabs/3a25ed8a-5870-4a0e-90e4-6e5a4b2c7e04": {
     "title": "Account Manager - North America - Enterprise Segment",
@@ -6551,7 +6551,8 @@
     "location": "Germany / Germany",
     "posted_at": "2026-09-18T03:07:17.629000+00:00",
     "first_seen": "2026-09-18T02:40:42.169025+00:00",
-    "link_checked_at": "2026-09-25T09:15:50.055618+00:00"
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00",
+    "hidden": true
   },
   "https://himalayas.app/companies/opentable/jobs/account-manager-hotels-emea": {
     "title": "Account Manager Hotels EMEA",
@@ -6561,7 +6562,7 @@
     "location": "Germany",
     "posted_at": "2026-09-18T07:40:19+00:00",
     "first_seen": "2026-09-18T08:41:54.909461+00:00",
-    "link_checked_at": "2026-09-25T09:15:50.055618+00:00"
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.lever.co/jobgether/1e4819e4-1b93-4c41-bd8e-b8f568ce3c1b": {
     "title": "Engineering Manager - Payments Integrations",
@@ -6571,7 +6572,8 @@
     "location": "Netherlands / Netherlands",
     "posted_at": "2026-09-18T08:22:42.534000+00:00",
     "first_seen": "2026-09-18T08:41:54.909461+00:00",
-    "link_checked_at": "2026-09-25T09:15:50.055618+00:00"
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/6d4a1c7e-b851-486b-83f3-fa37d8973c09": {
     "title": "Engineering Manager - Payments Integrations",
@@ -6636,7 +6638,8 @@
     "location": "Ireland / Ireland",
     "posted_at": "2026-09-18T08:17:23.518000+00:00",
     "first_seen": "2026-09-18T08:41:54.909461+00:00",
-    "link_checked_at": "2026-09-25T09:15:50.055618+00:00"
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/5f44f0ac-5722-4cec-89d3-3d874985d28c": {
     "title": "VIP Account Manager",
@@ -6646,7 +6649,8 @@
     "location": "Switzerland / Switzerland",
     "posted_at": "2026-09-18T08:17:08.954000+00:00",
     "first_seen": "2026-09-18T08:41:54.909461+00:00",
-    "link_checked_at": "2026-09-25T09:15:50.055618+00:00"
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/5f66e207-2469-4625-aa2c-4be1ed60828a": {
     "title": "VIP Account Manager",
@@ -6656,7 +6660,8 @@
     "location": "Spain / Spain",
     "posted_at": "2026-09-18T08:16:40.004000+00:00",
     "first_seen": "2026-09-18T08:41:54.909461+00:00",
-    "link_checked_at": "2026-09-25T09:15:50.055618+00:00"
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/9b023f0c-d72e-4b09-a255-ca1aaa3e362e": {
     "title": "VIP Account Manager",
@@ -6666,7 +6671,8 @@
     "location": "France / France",
     "posted_at": "2026-09-18T08:16:54.898000+00:00",
     "first_seen": "2026-09-18T08:41:54.909461+00:00",
-    "link_checked_at": "2026-09-25T09:15:50.055618+00:00"
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/c5736a19-d250-47d0-8683-6142087458e7": {
     "title": "VIP Account Manager",
@@ -6676,7 +6682,8 @@
     "location": "Romania / Romania",
     "posted_at": "2026-09-18T08:18:24.398000+00:00",
     "first_seen": "2026-09-18T08:41:54.909461+00:00",
-    "link_checked_at": "2026-09-25T09:15:50.055618+00:00"
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/ca1092fc-d1b6-4db8-b349-dc5b0ed77364": {
     "title": "VIP Account Manager",
@@ -6686,7 +6693,8 @@
     "location": "Netherlands / Netherlands",
     "posted_at": "2026-09-18T08:17:37.887000+00:00",
     "first_seen": "2026-09-18T08:41:54.909461+00:00",
-    "link_checked_at": "2026-09-25T09:15:50.055618+00:00"
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/cf725a3d-409f-48a2-a83e-d4a60a17516e": {
     "title": "VIP Account Manager",
@@ -6696,7 +6704,8 @@
     "location": "Italy / Italy",
     "posted_at": "2026-09-18T08:18:07.594000+00:00",
     "first_seen": "2026-09-18T08:41:54.909461+00:00",
-    "link_checked_at": "2026-09-25T09:15:50.055618+00:00"
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00",
+    "hidden": true
   },
   "https://jobs.ashbyhq.com/openai/deacd43e-9c1b-467c-96e2-11f4f6bdb139": {
     "title": "Dedicated Support Engineering Lead",
@@ -6706,7 +6715,7 @@
     "location": "San Francisco",
     "posted_at": "2026-09-18T03:51:38.928000+00:00",
     "first_seen": "2026-09-18T08:41:54.909461+00:00",
-    "link_checked_at": "2026-09-25T09:15:50.055618+00:00"
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-technical-product-manager-api-integrations-all-genders-berlin-234093": {
     "title": "Technical Product Manager, API Integrations (all genders)",
@@ -6811,7 +6820,7 @@
     "description": "Compensation: $1500–2500, . AI Integration Specialist / LLM Engineer (Gemini, Месенджери, 3CX / SIP) в BUKETEXPRESS, $1500–2500, віддалено | DOU Донатимо на підготовку військових! Допоможи закрити збір! × Вхід і реєстрація Вакансії Перша робота Тренди Компанії Рейтинг Топ-50 Відгуки Додати компанію BUKETEXPRESS Всі вакансії компанії Buket Express — національний сервіс доставки квітів та подарунків по Києву та всій Україні з власним салоном флористики. Ми поєднуємо авторську квіткову естетику із сучасними e-commerce та IT-рішеннями, забезпечуючи високу швидкість обробки замовлень і цілодобовий клієнтський сервіс. Всі вакансії / AI/ML / віддалено 20 вересня 2026 AI Integration Specialist / LLM Engineer (Gemini, Месенджери, 3CX / SIP) віддалено $1500–2500 Шукаємо AI Integration Specialist / LLM Engineer, який допоможе розвантажити команду флористів українського бренду квітів та автоматизувати процеси за допомогою штучного інтелекту (Gemini) у месенджерах та телефонії. Про проєкт та мету: Ми оптимізуємо прийом замовлень і консультацію, щоб перейти на модель: «1 флорист на зміні + розумний AI-асистент 24/7». У команді вже є інженер IP-телефонії (3CX) та веброзробник сайту. Шукаємо фахівця для розробки ядра: оркестратор, бізнес-логіка LLM, інтеграція з Gemini та зв’язка каналів. Специфіка флористики: • Відсутність суворого поштучного обліку квітів: AI оперує концептом, палітрою, настроєм, бюджетом та правилами гармонійних замін. • «Ранковий бриф»: флорист вранці скидає список свіжих квітів у вільній формі — AI використовує це як актуальний контекст дня. • Синхронізація «голос + фото»: під час телефонного дзвінка AI вміє ініціювати надсилання добірки фото букетів клієнту у Viber/Telegram. Що потрібно буде робити: 1. Текстовий AI-асистент (Месенджери): • Інтегрувати AI у Telegram, Viber, Instagram Direct. • Налаштувати консультування щодо стилю, приводів і гами, підбір букетів із каталогу (картки з фото та посиланнями). • Налаштувати збір повних даних на доставку та генерацію посилань на оплату (Privat / LiqPay). • Реалізувати врахування щоденного контексту «ранкового брифу». 2. Голосовий асистент (Телефонія 3CX / SIP): • Підключити голосового full-duplex асистента (Gemini Multimodal Live API) до 3CX спільно з нашим VoIP-інженером. • Реалізувати сценарій надсилання фото букетів у месенджер під час дзвінка. • Налаштувати безшовне переведення дзвінка на живого флориста у нестандартних ситуаціях. 3. Інтеграція: • Скласти лаконічне ТЗ для веброзробника сайту на необхідні API-ендпоінти. Наші очікування від кандидата: • Практичний досвід роботи з LLM (Gemini / OpenAI) та Function Calling / Tool Use. • Досвід роботи з WebSockets і потоковими даними (Realtime Audio). • Бекенд-стек: Python (FastAPI, Asyncio) або Node.js (TypeScript). • Досвід роботи з API месенджерів (Telegram, Viber, Meta Graph API). • Розуміння передачі аудіопотоків (PCM) та базових принципів SIP/VoIP. Умови: • Віддалений формат співпраці (проєктна робота з можливістю подальшого супроводу). • Поетапна оплата за результат (Етап 1: Месенджери, Етап 2: Телефонія). Як відгукнутися: Напишіть, будь ласка: 1. Чи мали ви досвід із потоковим Live/Realtime Audio API чи WebSockets? 2. Приклади ваших проєктів із чат-ботами, e-commerce або телефонією. 3. Орієнтовна оцінка вартості/погодинної ставки за етапами. Facebook Twitter LinkedIn Відгукнутися на вакансію Правила відгуків Гарячі AI/ML вакансії Senior AI Engineer в VisiQuate , Харків, Львів, віддалено ML-engineer (Building human-like chat bot) в Interactive Online Technologies , $10000–15000 , за кордоном, віддалено Middle AI Engineer в Galaktica , $3000–4000 , віддалено Senior AI Software Engineer — Infrastructure & Tooling в SplendidScore Ukraine , $3000–5000 , віддалено Всі AI/ML вакансії Схожі вакансії AI Automation Engineer | Kosmo в Boosta , віддалено Викладач курсу AI Creator / Content maker в Prog.kiev.ua , віддалено AI Delivery Manager в Forte Group , Польща, віддалено Machine Learning/AI Specialist (part-time) в TechMagic ,",
     "region": "Україна",
     "first_seen": "2026-09-21T02:49:24.672993+00:00",
-    "link_checked_at": "2026-09-25T09:15:50.055618+00:00"
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.dou.ua/companies/holy-water/vacancies/366032/": {
     "title": "IAM&Technical Support Engineer",
@@ -7677,7 +7686,8 @@
     "source": "DOU",
     "description": "Compensation: $600–900 . IT Support Engineer в Kyivstar.Tech, Київ, віддалено | DOU Якої теми вам бракує на DOU? Запропонуйте свою → × Вхід і реєстрація Вакансії Перша робота Тренди Компанії Рейтинг Топ-50 Відгуки Додати компанію Kyivstar.Tech Всі вакансії компанії Kyivstar.Tech — нова IT-компанія, резидент Дія City. Компанію створено в січні 2023. Всі вакансії / Support / Київ 28 вересня 2026 IT Support Engineer Київ, віддалено Команда адміністраторів підтримки IT-систем шукає Адміністратора Fraud Management , який/яка відповідатиме за підтримку та стабільну роботу Fraud Management системи. У цій ролі ви будете не лише адмініструвати сучасні IT-рішення, а й брати участь у їх розвитку та вдосконаленні. Ми активно взаємодіємо з різними департаментами компанії, тому для нас важливі відповідальність, клієнтоорієнтованість та готовність ефективно працювати в команді. Про нас Kyivstar.Tech — українська гібридна ІТ-компанія, резидент Дія.City. Ми є дочірньою компанією Київстар, одного з найбільших українських операторів зв’язку. Наша місія — змінювати життя в Україні та у світі, створюючи технологічні рішення і продукти, що реалізують потенціал компаній і потреби користувачів. Понад 700 спеціалістів KS.Tech щодня працюють у різних сферах: мобільні та вебрішення, а також проєктування, розробка, підтримка та технічне обслуговування високопродуктивних систем і сервісів. Ми віримо в інновації, що дійсно приносять якісні зміни, та постійно кидаємо виклик традиційним підходам і рішенням. Кожен з нас є адептом підприємницької культури, яка дозволяє ніколи не зупинятися, розвиватися і створювати нове. Що ти будеш робити Забезпечувати технічну підтримку системи Fraud Management System. Виконувати адміністративні роботи в системах (усунення помилок, інцидентів, відновлення роботи системи, адміністрування користувачів, виконання заявок користувачів) Керувати основним функціоналом системи Fraud Management System: a. Конфігурування систем b. Управління доступом c. Управлення ролями d. Інтеграція з іншими системами Створювати оперативні звіти в системах Розробляти макрокоманди, які необхідні для автоматизації процесів в системах Налаштовувати метрики моніторингу, контроль за виконанням резервування систем Встановлювати, тестувати нові патчі, оновлення системи Fraud Management System Взаємодіяти з розробниками системи, контроль виконання поставлених завдань розробникам Брати участь в проєктах з розвитку системи Написання та актуалізація документацій до систем Яка кваліфікація та досвід необхідні Досвід адміністрування IT систем (від 3 років) Глибоке розуміння архітектури клієнт-серверних застосунків Просунуті навички роботи з ОС Linux (написання bash-скриптів) Навички роботи з СУБД Oracle (написання скриптів) Англійська мова — upper intermediate (B2) Що ми пропонуємо Офіс або ремоут — вирішувати тобі Ремоут онбординг Перформанс бонуси для всіх (річні чи квартальні — залежить від ролі) Навчаємо працівників: є безліч внутрішніх ресурсів і програм від партнерів, власна бібліотека Страхування здоров’я і життя для працівників Wellbeing-програма та корпоративний психолог Компенсація витрат на мобільний зв’язок Київстар Facebook Twitter LinkedIn Відгукнутися на вакансію Правила відгуків Гарячі Support вакансії Director of support services в Nova Digital , Київ Junior Technical Support Manager в UniTalk , $600–900 , Київ Customer Support Team Lead в Growe , віддалено Всі Support вакансії Схожі вакансії Support Engineer в Kyivstar.Tech , Київ Middle Support Engineer (ERP systems) в Kyivstar.Tech , Київ, віддалено Integration Manager в Solidgate , Київ, Львів, віддалено L1 Support Engineer (Jira & SharePoint Specialist) в NDA Recruitment , Київ Customer Success Manager | EN в Forward® , $1000–1500 , Kalynivka, Київ, віддалено Customer / Technical Support Specialist в Corefy , Київ Керівник служби технічної підтримки (Head of Technical Support) в ІнфоПлюс , Київ Applications Administrator в Quipu , $1200 , Київ, віддалено Всі схожі вакансії Скористайтесь ака",
     "region": "Україна",
-    "first_seen": "2026-09-28T10:25:18.752533+00:00"
+    "first_seen": "2026-09-28T10:25:18.752533+00:00",
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.dou.ua/companies/corewide/vacancies/250496/": {
     "title": "Technical Support Engineer (L2)",
@@ -7685,7 +7695,8 @@
     "source": "DOU",
     "description": "Compensation: $600–900 . Technical Support Engineer (L2) в Corewide, від $600, віддалено | DOU Якої теми вам бракує на DOU? Запропонуйте свою → × Вхід і реєстрація Вакансії Перша робота Тренди Компанії Рейтинг Топ-50 Відгуки Додати компанію Corewide Всі вакансії компанії Founded on April 1, 2015, Corewide has firmly established its mark in the dynamic DevOps landscape. Driven by a team of DevOps and automation professionals, we’re all about precision, speed, and engineering finesse. Our commitment is to deliver impeccable DevOps services each time, every time. Our suite of services is as extensive as it is profound. Всі вакансії / Support / віддалено 28 вересня 2026 Перша робота Technical Support Engineer (L2) віддалено від $600 We are searching for a smart and efficient person with basic Linux experience, understanding of networking principles and at least intermediate English level to join us as a Technical Support Engineer. This role includes providing SRE-level technical support to our clients, monitoring clients’ infrastructure, handling incidents and creating basic documentation on a shift basis (including graveyard shifts). Our primary area of competence is providing DevOps services and our technical support engineers can take free corporate DevOps course provided by our experienced mentors. The most prominent technical support engineers can be offered a transfer to DevOps department. Duties: Providing 1–3 level technical support services Monitoring of Infrastructure and Integrations to other systems Incident and escalation reporting Reporting status and progress according to the project and company demands Creating and updating support and maintenance-related documentation Mandatory skills: Experience with Linux Intermediate English level (writing and speaking) Basic network protocol knowledge Understanding how the Internet works Ability to accumulate information and create conclusions Bonus points for: Git experience Grafana and Prometheus experience Experience with at least one cloud provider (AWS/GCP/Azure/DigitalOcean) Understanding of containers Understanding of CI/CD and Infrastructure as Code principles We offer: Remote-first working model Accounting support Tax compensation Paid sick leaves and vacations Flexible working schedule English classes Health insurance Sports compensation Educational budget We are looking forward to hearing from you! Facebook Twitter LinkedIn Відгукнутися на вакансію Правила відгуків Гарячі вакансії для початківців Talent Sourcer в NDA Recruitment , Київ, віддалено Trainee User Acquisition Manager (Meta Ads) в expla , Київ Lead Generation Specialist в Solid Software , віддалено Junior Technical Support Manager в UniTalk , $600–900 , Київ Corporate Business Intern в UKRSIBTECH , Київ Sales Manager/ Менеджер з продажів в Glovo , Київ IT Support Specialist в HealthJoy , Дніпро Marketing Manager в DOU.ua , віддалено Всі вакансії для початківців Схожі вакансії Customer Support Specialist (German) в GG.BET , Київ, за кордоном, віддалено Customer Support Specialist (Polish) в GG.BET , Київ, за кордоном, віддалено Authorizations Representative в Pharmbills , $900–1100 , віддалено Healthcare Customer Support в Pharmbills , $800–1000 , віддалено Data Entry Specialist в Pharmbills , $900–1100 , віддалено Customer Support Agent в SKELAR , віддалено Junior Content Moderator в SKELAR , віддалено Customer Support Agent (Shifts) в Solidgate , Київ, віддалено Всі схожі вакансії Курси і стажування 28 вересня, Online Business Analyst Trainee by SysGears 17 жовтня, Online Black Sea AI School 19 жовтня, Київ Materialise Medical Engineering School 2026 26 жовтня, Варшава Оплачуване навчання на email-маркетолога в EPC Network Скористайтесь акаунтом × Google LinkedIn GitHub Facebook Увійти за поштою . Вхід Реєстрація Відновлення пароля Пошта Пароль Неправильний пароль Увійти Реєстрацію по email закрито Пошта Скинути пароль Ви неправильно вказали свою пошту Або скористайтесь акаунтом . я згоден(-на) з умовами",
     "region": "Україна",
-    "first_seen": "2026-09-28T10:25:18.752533+00:00"
+    "first_seen": "2026-09-28T10:25:18.752533+00:00",
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobicy.com/jobs/151920-account-manager-3": {
     "title": "Account Manager",
@@ -7694,7 +7705,8 @@
     "description": "What Makes Cloudbeds UniqueAt Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And we…",
     "location": "Europe",
     "posted_at": "2026-09-28T05:25:17+00:00",
-    "first_seen": "2026-09-28T10:25:18.752533+00:00"
+    "first_seen": "2026-09-28T10:25:18.752533+00:00",
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobicy.com/jobs/149309-senior-security-engineer-security-incident-response-team-sirt-emea": {
     "title": "Senior Security Engineer, Security Incident Response Team (SIRT) - EMEA",
@@ -7703,7 +7715,8 @@
     "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into…",
     "location": "EMEA",
     "posted_at": "2026-09-28T05:25:13+00:00",
-    "first_seen": "2026-09-28T10:25:18.752533+00:00"
+    "first_seen": "2026-09-28T10:25:18.752533+00:00",
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.lever.co/jobgether/34d4a70d-c98e-456d-abdb-058e91ac917a": {
     "title": "Senior Technical Account Manager",
@@ -7712,7 +7725,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Technical Account Manager based in Italy. This is a senior, customer-facing role focused on driving successful adoption and long-term value for strategic technology accounts. You will act as a trusted technical partner, helping customers implement solutions, overcome challenges, and expand their use of the platform. The role combines technical expertise, strategic account management, customer advocacy, and executive-level communication. You will work closely with Sales, Product, Engineering, Marketing, and Support to resolve issues and influence product evolution. A key part of the position is developing personalized success plans, identifying growth opportunities, and proactively managing churn risks. You will also translate complex technical topics into clear business outcomes for both practitioners and executive stakeholders. The role is remote and suited to a strategic problem-solver who thrives in a fast-paced technology environment and enjoys building trusted customer relationships.",
     "location": "Italy / Italy",
     "posted_at": "2026-09-28T08:35:28.082000+00:00",
-    "first_seen": "2026-09-28T10:25:18.752533+00:00"
+    "first_seen": "2026-09-28T10:25:18.752533+00:00",
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.lever.co/jobgether/39c2c03e-f36b-43df-a432-213e1068b1c4": {
     "title": "Senior Technical Account Manager",
@@ -7721,7 +7735,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Technical Account Manager based in Poland. This is a senior, customer-facing role focused on driving successful adoption and long-term value for strategic technology accounts. You will act as a trusted technical partner, helping customers implement solutions, overcome challenges, and expand their use of the platform. The role combines technical expertise, strategic account management, customer advocacy, and executive-level communication. You will work closely with Sales, Product, Engineering, Marketing, and Support to resolve issues and influence product evolution. A key part of the position is developing personalized success plans, identifying growth opportunities, and proactively managing churn risks. You will also translate complex technical topics into clear business outcomes for both practitioners and executive stakeholders. The role is remote and suited to a strategic problem-solver who thrives in a fast-paced technology environment and enjoys building trusted customer relationships.",
     "location": "Poland / Poland",
     "posted_at": "2026-09-28T08:38:59.461000+00:00",
-    "first_seen": "2026-09-28T10:25:18.752533+00:00"
+    "first_seen": "2026-09-28T10:25:18.752533+00:00",
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.lever.co/jobgether/5283075c-ea2f-4670-ac63-9f4206976d7d": {
     "title": "Senior Technical Account Manager",
@@ -7730,7 +7745,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Technical Account Manager based in Romania. This is a senior, customer-facing role focused on driving successful adoption and long-term value for strategic technology accounts. You will act as a trusted technical partner, helping customers implement solutions, overcome challenges, and expand their use of the platform. The role combines technical expertise, strategic account management, customer advocacy, and executive-level communication. You will work closely with Sales, Product, Engineering, Marketing, and Support to resolve issues and influence product evolution. A key part of the position is developing personalized success plans, identifying growth opportunities, and proactively managing churn risks. You will also translate complex technical topics into clear business outcomes for both practitioners and executive stakeholders. The role is remote and suited to a strategic problem-solver who thrives in a fast-paced technology environment and enjoys building trusted customer relationships.",
     "location": "Romania / Romania",
     "posted_at": "2026-09-28T08:35:47.838000+00:00",
-    "first_seen": "2026-09-28T10:25:18.752533+00:00"
+    "first_seen": "2026-09-28T10:25:18.752533+00:00",
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.lever.co/jobgether/6f071cab-8c71-41f2-b139-e136fbfb6862": {
     "title": "Senior Technical Account Manager",
@@ -7739,7 +7755,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Technical Account Manager based in Belgium. This is a senior, customer-facing role focused on driving successful adoption and long-term value for strategic technology accounts. You will act as a trusted technical partner, helping customers implement solutions, overcome challenges, and expand their use of the platform. The role combines technical expertise, strategic account management, customer advocacy, and executive-level communication. You will work closely with Sales, Product, Engineering, Marketing, and Support to resolve issues and influence product evolution. A key part of the position is developing personalized success plans, identifying growth opportunities, and proactively managing churn risks. You will also translate complex technical topics into clear business outcomes for both practitioners and executive stakeholders. The role is remote and suited to a strategic problem-solver who thrives in a fast-paced technology environment and enjoys building trusted customer relationships.",
     "location": "Belgium / Belgium",
     "posted_at": "2026-09-28T08:37:29.310000+00:00",
-    "first_seen": "2026-09-28T10:25:18.752533+00:00"
+    "first_seen": "2026-09-28T10:25:18.752533+00:00",
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.lever.co/jobgether/72617430-5fd0-4474-9146-9dd44ffb0c3c": {
     "title": "Senior Technical Account Manager",
@@ -7748,7 +7765,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Technical Account Manager based in France. This is a senior, customer-facing role focused on driving successful adoption and long-term value for strategic technology accounts. You will act as a trusted technical partner, helping customers implement solutions, overcome challenges, and expand their use of the platform. The role combines technical expertise, strategic account management, customer advocacy, and executive-level communication. You will work closely with Sales, Product, Engineering, Marketing, and Support to resolve issues and influence product evolution. A key part of the position is developing personalized success plans, identifying growth opportunities, and proactively managing churn risks. You will also translate complex technical topics into clear business outcomes for both practitioners and executive stakeholders. The role is remote and suited to a strategic problem-solver who thrives in a fast-paced technology environment and enjoys building trusted customer relationships.",
     "location": "France / France",
     "posted_at": "2026-09-28T08:34:12.083000+00:00",
-    "first_seen": "2026-09-28T10:25:18.752533+00:00"
+    "first_seen": "2026-09-28T10:25:18.752533+00:00",
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.lever.co/jobgether/7a3f6cdc-ff69-4355-8b08-9e2cc6ce9d8d": {
     "title": "Senior Technical Account Manager",
@@ -7757,7 +7775,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Technical Account Manager based in Netherlands. This is a senior, customer-facing role focused on driving successful adoption and long-term value for strategic technology accounts. You will act as a trusted technical partner, helping customers implement solutions, overcome challenges, and expand their use of the platform. The role combines technical expertise, strategic account management, customer advocacy, and executive-level communication. You will work closely with Sales, Product, Engineering, Marketing, and Support to resolve issues and influence product evolution. A key part of the position is developing personalized success plans, identifying growth opportunities, and proactively managing churn risks. You will also translate complex technical topics into clear business outcomes for both practitioners and executive stakeholders. The role is remote and suited to a strategic problem-solver who thrives in a fast-paced technology environment and enjoys building trusted customer relationships.",
     "location": "Netherlands / Netherlands",
     "posted_at": "2026-09-28T08:34:57.077000+00:00",
-    "first_seen": "2026-09-28T10:25:18.752533+00:00"
+    "first_seen": "2026-09-28T10:25:18.752533+00:00",
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.lever.co/jobgether/7d7d5a48-69c7-4ee5-b939-d76ce1ee960e": {
     "title": "Senior Technical Account Manager",
@@ -7766,7 +7785,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Technical Account Manager based in Turkey. This is a senior, customer-facing role focused on driving successful adoption and long-term value for strategic technology accounts. You will act as a trusted technical partner, helping customers implement solutions, overcome challenges, and expand their use of the platform. The role combines technical expertise, strategic account management, customer advocacy, and executive-level communication. You will work closely with Sales, Product, Engineering, Marketing, and Support to resolve issues and influence product evolution. A key part of the position is developing personalized success plans, identifying growth opportunities, and proactively managing churn risks. You will also translate complex technical topics into clear business outcomes for both practitioners and executive stakeholders. The role is remote and suited to a strategic problem-solver who thrives in a fast-paced technology environment and enjoys building trusted customer relationships.",
     "location": "Turkey / Turkey",
     "posted_at": "2026-09-28T08:36:59.980000+00:00",
-    "first_seen": "2026-09-28T10:25:18.752533+00:00"
+    "first_seen": "2026-09-28T10:25:18.752533+00:00",
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.lever.co/jobgether/9952108f-34cb-44cd-9548-16003f130609": {
     "title": "Senior Technical Account Manager",
@@ -7775,7 +7795,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Technical Account Manager based in Germany. This is a senior, customer-facing role focused on driving successful adoption and long-term value for strategic technology accounts. You will act as a trusted technical partner, helping customers implement solutions, overcome challenges, and expand their use of the platform. The role combines technical expertise, strategic account management, customer advocacy, and executive-level communication. You will work closely with Sales, Product, Engineering, Marketing, and Support to resolve issues and influence product evolution. A key part of the position is developing personalized success plans, identifying growth opportunities, and proactively managing churn risks. You will also translate complex technical topics into clear business outcomes for both practitioners and executive stakeholders. The role is remote and suited to a strategic problem-solver who thrives in a fast-paced technology environment and enjoys building trusted customer relationships.",
     "location": "Germany / Germany",
     "posted_at": "2026-09-28T08:33:46.314000+00:00",
-    "first_seen": "2026-09-28T10:25:18.752533+00:00"
+    "first_seen": "2026-09-28T10:25:18.752533+00:00",
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.lever.co/jobgether/9a8ab700-2c27-4e91-8288-57725aad0338": {
     "title": "Senior Technical Account Manager",
@@ -7784,7 +7805,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Technical Account Manager based in Sweden. This is a senior, customer-facing role focused on driving successful adoption and long-term value for strategic technology accounts. You will act as a trusted technical partner, helping customers implement solutions, overcome challenges, and expand their use of the platform. The role combines technical expertise, strategic account management, customer advocacy, and executive-level communication. You will work closely with Sales, Product, Engineering, Marketing, and Support to resolve issues and influence product evolution. A key part of the position is developing personalized success plans, identifying growth opportunities, and proactively managing churn risks. You will also translate complex technical topics into clear business outcomes for both practitioners and executive stakeholders. The role is remote and suited to a strategic problem-solver who thrives in a fast-paced technology environment and enjoys building trusted customer relationships.",
     "location": "Sweden / Sweden",
     "posted_at": "2026-09-28T08:38:14.798000+00:00",
-    "first_seen": "2026-09-28T10:25:18.752533+00:00"
+    "first_seen": "2026-09-28T10:25:18.752533+00:00",
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.lever.co/jobgether/b986495c-910e-4ce5-b37a-1ae4cd59d27e": {
     "title": "Senior Technical Account Manager",
@@ -7793,7 +7815,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Technical Account Manager based in Ireland. This is a senior, customer-facing role focused on driving successful adoption and long-term value for strategic technology accounts. You will act as a trusted technical partner, helping customers implement solutions, overcome challenges, and expand their use of the platform. The role combines technical expertise, strategic account management, customer advocacy, and executive-level communication. You will work closely with Sales, Product, Engineering, Marketing, and Support to resolve issues and influence product evolution. A key part of the position is developing personalized success plans, identifying growth opportunities, and proactively managing churn risks. You will also translate complex technical topics into clear business outcomes for both practitioners and executive stakeholders. The role is remote and suited to a strategic problem-solver who thrives in a fast-paced technology environment and enjoys building trusted customer relationships.",
     "location": "Ireland / Ireland",
     "posted_at": "2026-09-28T08:34:39.751000+00:00",
-    "first_seen": "2026-09-28T10:25:18.752533+00:00"
+    "first_seen": "2026-09-28T10:25:18.752533+00:00",
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.lever.co/jobgether/bc678806-c869-499d-ad63-e8dad99836c9": {
     "title": "Senior Technical Account Manager",
@@ -7802,7 +7825,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Technical Account Manager based in Switzerland. This is a senior, customer-facing role focused on driving successful adoption and long-term value for strategic technology accounts. You will act as a trusted technical partner, helping customers implement solutions, overcome challenges, and expand their use of the platform. The role combines technical expertise, strategic account management, customer advocacy, and executive-level communication. You will work closely with Sales, Product, Engineering, Marketing, and Support to resolve issues and influence product evolution. A key part of the position is developing personalized success plans, identifying growth opportunities, and proactively managing churn risks. You will also translate complex technical topics into clear business outcomes for both practitioners and executive stakeholders. The role is remote and suited to a strategic problem-solver who thrives in a fast-paced technology environment and enjoys building trusted customer relationships.",
     "location": "Switzerland / Switzerland",
     "posted_at": "2026-09-28T08:34:26.510000+00:00",
-    "first_seen": "2026-09-28T10:25:18.752533+00:00"
+    "first_seen": "2026-09-28T10:25:18.752533+00:00",
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.lever.co/jobgether/d6563745-3657-4660-be70-5bd94627b86c": {
     "title": "Senior Technical Account Manager",
@@ -7811,7 +7835,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Technical Account Manager based in Portugal. This is a senior, customer-facing role focused on driving successful adoption and long-term value for strategic technology accounts. You will act as a trusted technical partner, helping customers implement solutions, overcome challenges, and expand their use of the platform. The role combines technical expertise, strategic account management, customer advocacy, and executive-level communication. You will work closely with Sales, Product, Engineering, Marketing, and Support to resolve issues and influence product evolution. A key part of the position is developing personalized success plans, identifying growth opportunities, and proactively managing churn risks. You will also translate complex technical topics into clear business outcomes for both practitioners and executive stakeholders. The role is remote and suited to a strategic problem-solver who thrives in a fast-paced technology environment and enjoys building trusted customer relationships.",
     "location": "Portugal / Portugal",
     "posted_at": "2026-09-28T08:35:11.893000+00:00",
-    "first_seen": "2026-09-28T10:25:18.752533+00:00"
+    "first_seen": "2026-09-28T10:25:18.752533+00:00",
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.lever.co/jobgether/f269a044-9527-40b9-aa1d-170497c4d269": {
     "title": "Senior Technical Account Manager",
@@ -7820,7 +7845,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Technical Account Manager based in Austria. This is a senior, customer-facing role focused on driving successful adoption and long-term value for strategic technology accounts. You will act as a trusted technical partner, helping customers implement solutions, overcome challenges, and expand their use of the platform. The role combines technical expertise, strategic account management, customer advocacy, and executive-level communication. You will work closely with Sales, Product, Engineering, Marketing, and Support to resolve issues and influence product evolution. A key part of the position is developing personalized success plans, identifying growth opportunities, and proactively managing churn risks. You will also translate complex technical topics into clear business outcomes for both practitioners and executive stakeholders. The role is remote and suited to a strategic problem-solver who thrives in a fast-paced technology environment and enjoys building trusted customer relationships.",
     "location": "Austria / Austria",
     "posted_at": "2026-09-28T08:38:34.458000+00:00",
-    "first_seen": "2026-09-28T10:25:18.752533+00:00"
+    "first_seen": "2026-09-28T10:25:18.752533+00:00",
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
   },
   "https://jobs.lever.co/jobgether/ff65d821-810a-4e1c-9883-043c9e151dbe": {
     "title": "Senior Technical Account Manager",
@@ -7829,6 +7855,70 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Technical Account Manager based in Spain. This is a senior, customer-facing role focused on driving successful adoption and long-term value for strategic technology accounts. You will act as a trusted technical partner, helping customers implement solutions, overcome challenges, and expand their use of the platform. The role combines technical expertise, strategic account management, customer advocacy, and executive-level communication. You will work closely with Sales, Product, Engineering, Marketing, and Support to resolve issues and influence product evolution. A key part of the position is developing personalized success plans, identifying growth opportunities, and proactively managing churn risks. You will also translate complex technical topics into clear business outcomes for both practitioners and executive stakeholders. The role is remote and suited to a strategic problem-solver who thrives in a fast-paced technology environment and enjoys building trusted customer relationships.",
     "location": "Spain / Spain",
     "posted_at": "2026-09-28T08:33:32.581000+00:00",
-    "first_seen": "2026-09-28T10:25:18.752533+00:00"
+    "first_seen": "2026-09-28T10:25:18.752533+00:00",
+    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
+  },
+  "https://www.arbeitnow.ch/jobs/companies/datadog/remote-major-account-manager-emea-126206": {
+    "title": "Major Account Manager (EMEA)",
+    "url": "https://www.arbeitnow.ch/jobs/companies/datadog/remote-major-account-manager-emea-126206",
+    "source": "Arbeitnow",
+    "description": "<p>The Datadog Major Accounts Team is focused on driving new business and expanding the current Datadog footprint with our largest and most strategic clients. The success of the Major Accounts Team directly impacts the success of Datadog and is a highly visible position with bold revenue targets. We are searching for seasoned and successful Account Executives that have a passion for technology and a fast-paced sales environment. The Major Accounts Team has experienced unprecedented success since its inception in 2021 and we are continuing to expand the team. This is a lucrative opportunity for any driven and competitive salesperson.</p>\n<p>&nbsp;<em>At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.</em></p>\n<p><strong>What You’ll Do:</strong></p>\n<ul>\n<li>Prospect into a targeted set of accounts while running an efficient sales process</li>\n<li>Nurture existing client relationships and grow the Datadog footprint</li>\n<li>Maintain, build and own specific relationship maps for your territory including existing relationships and aspirational contacts</li>\n<li>Develop a deep comprehension of the customer's business</li>\n<li>Negotiate favorable pricing and business terms by selling value and ROI</li>\n<li>Demonstrate resourcefulness when faced with challenges</li>\n<li>Determine necessary",
+    "location": "Remote",
+    "posted_at": "2026-09-28T11:55:07+00:00",
+    "first_seen": "2026-09-29T03:42:31.126349+00:00"
+  },
+  "https://jobs.lever.co/jobgether/3ba913c1-e75e-4831-b650-07400ea56a09": {
+    "title": "Linux Platform Integration - Ubuntu Systems Senior Engineer",
+    "url": "https://jobs.lever.co/jobgether/3ba913c1-e75e-4831-b650-07400ea56a09",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Linux Platform Integration - Ubuntu Systems Senior Engineer based in Switzerland. Work across the full Linux stack to optimize Ubuntu for the latest generation of desktop, server, and IoT hardware platforms. You will collaborate closely with major silicon and technology partners to integrate new features, improve performance, and deliver high-quality Linux experiences. The role spans areas including kernel integration, networking, virtualization, graphics, operating systems, and application technologies. You will take a holistic view of platform architecture, contributing to technical planning, testing strategies, quality metrics, and system optimization. As a senior technical contributor, you will also support customer engagements involving complete architectures from cloud to edge. You will help partners integrate applications and SDKs, build device operating system images, and optimize workloads across Ubuntu Core, Desktop, and Server. This globally remote role offers exposure to emerging technologies, international collaboration, and continuous opportunities for technical growth.",
+    "location": "Switzerland / Switzerland",
+    "posted_at": "2026-09-28T13:57:11.211000+00:00",
+    "first_seen": "2026-09-29T03:42:31.126349+00:00"
+  },
+  "https://jobs.lever.co/jobgether/6fb73e82-d317-410f-b03f-3580535df66a": {
+    "title": "Linux Platform Integration - Ubuntu Systems Senior Engineer",
+    "url": "https://jobs.lever.co/jobgether/6fb73e82-d317-410f-b03f-3580535df66a",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Linux Platform Integration - Ubuntu Systems Senior Engineer based in Germany. Work across the full Linux stack to optimize Ubuntu for the latest generation of desktop, server, and IoT hardware platforms. You will collaborate closely with major silicon and technology partners to integrate new features, improve performance, and deliver high-quality Linux experiences. The role spans areas including kernel integration, networking, virtualization, graphics, operating systems, and application technologies. You will take a holistic view of platform architecture, contributing to technical planning, testing strategies, quality metrics, and system optimization. As a senior technical contributor, you will also support customer engagements involving complete architectures from cloud to edge. You will help partners integrate applications and SDKs, build device operating system images, and optimize workloads across Ubuntu Core, Desktop, and Server. This globally remote role offers exposure to emerging technologies, international collaboration, and continuous opportunities for technical growth.",
+    "location": "Germany / Germany",
+    "posted_at": "2026-09-28T13:56:29.139000+00:00",
+    "first_seen": "2026-09-29T03:42:31.126349+00:00"
+  },
+  "https://jobs.lever.co/jobgether/8c397c8a-18a9-4e77-be42-6a889cd35ac3": {
+    "title": "Linux Platform Integration - Ubuntu Systems Senior Engineer",
+    "url": "https://jobs.lever.co/jobgether/8c397c8a-18a9-4e77-be42-6a889cd35ac3",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Linux Platform Integration - Ubuntu Systems Senior Engineer based in Ireland. Work across the full Linux stack to optimize Ubuntu for the latest generation of desktop, server, and IoT hardware platforms. You will collaborate closely with major silicon and technology partners to integrate new features, improve performance, and deliver high-quality Linux experiences. The role spans areas including kernel integration, networking, virtualization, graphics, operating systems, and application technologies. You will take a holistic view of platform architecture, contributing to technical planning, testing strategies, quality metrics, and system optimization. As a senior technical contributor, you will also support customer engagements involving complete architectures from cloud to edge. You will help partners integrate applications and SDKs, build device operating system images, and optimize workloads across Ubuntu Core, Desktop, and Server. This globally remote role offers exposure to emerging technologies, international collaboration, and continuous opportunities for technical growth.",
+    "location": "Ireland / Ireland",
+    "posted_at": "2026-09-28T13:57:27.522000+00:00",
+    "first_seen": "2026-09-29T03:42:31.126349+00:00"
+  },
+  "https://jobs.lever.co/jobgether/aa0402e3-12f3-499d-85e2-e818b58c8822": {
+    "title": "Linux Platform Integration - Ubuntu Systems Senior Engineer",
+    "url": "https://jobs.lever.co/jobgether/aa0402e3-12f3-499d-85e2-e818b58c8822",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Linux Platform Integration - Ubuntu Systems Senior Engineer based in Netherlands. Work across the full Linux stack to optimize Ubuntu for the latest generation of desktop, server, and IoT hardware platforms. You will collaborate closely with major silicon and technology partners to integrate new features, improve performance, and deliver high-quality Linux experiences. The role spans areas including kernel integration, networking, virtualization, graphics, operating systems, and application technologies. You will take a holistic view of platform architecture, contributing to technical planning, testing strategies, quality metrics, and system optimization. As a senior technical contributor, you will also support customer engagements involving complete architectures from cloud to edge. You will help partners integrate applications and SDKs, build device operating system images, and optimize workloads across Ubuntu Core, Desktop, and Server. This globally remote role offers exposure to emerging technologies, international collaboration, and continuous opportunities for technical growth.",
+    "location": "Netherlands / Netherlands",
+    "posted_at": "2026-09-28T13:57:50.386000+00:00",
+    "first_seen": "2026-09-29T03:42:31.126349+00:00"
+  },
+  "https://jobs.lever.co/jobgether/c6188018-ef2e-4581-b390-5428d771d421": {
+    "title": "Linux Platform Integration - Ubuntu Systems Senior Engineer",
+    "url": "https://jobs.lever.co/jobgether/c6188018-ef2e-4581-b390-5428d771d421",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Linux Platform Integration - Ubuntu Systems Senior Engineer based in Spain. Work across the full Linux stack to optimize Ubuntu for the latest generation of desktop, server, and IoT hardware platforms. You will collaborate closely with major silicon and technology partners to integrate new features, improve performance, and deliver high-quality Linux experiences. The role spans areas including kernel integration, networking, virtualization, graphics, operating systems, and application technologies. You will take a holistic view of platform architecture, contributing to technical planning, testing strategies, quality metrics, and system optimization. As a senior technical contributor, you will also support customer engagements involving complete architectures from cloud to edge. You will help partners integrate applications and SDKs, build device operating system images, and optimize workloads across Ubuntu Core, Desktop, and Server. This globally remote role offers exposure to emerging technologies, international collaboration, and continuous opportunities for technical growth.",
+    "location": "Spain / Spain",
+    "posted_at": "2026-09-28T13:55:59.887000+00:00",
+    "first_seen": "2026-09-29T03:42:31.126349+00:00"
+  },
+  "https://jobs.lever.co/jobgether/f0bb5a56-1763-4f8b-b72e-40ecc5561934": {
+    "title": "Linux Platform Integration - Ubuntu Systems Senior Engineer",
+    "url": "https://jobs.lever.co/jobgether/f0bb5a56-1763-4f8b-b72e-40ecc5561934",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Linux Platform Integration - Ubuntu Systems Senior Engineer based in France. Work across the full Linux stack to optimize Ubuntu for the latest generation of desktop, server, and IoT hardware platforms. You will collaborate closely with major silicon and technology partners to integrate new features, improve performance, and deliver high-quality Linux experiences. The role spans areas including kernel integration, networking, virtualization, graphics, operating systems, and application technologies. You will take a holistic view of platform architecture, contributing to technical planning, testing strategies, quality metrics, and system optimization. As a senior technical contributor, you will also support customer engagements involving complete architectures from cloud to edge. You will help partners integrate applications and SDKs, build device operating system images, and optimize workloads across Ubuntu Core, Desktop, and Server. This globally remote role offers exposure to emerging technologies, international collaboration, and continuous opportunities for technical growth.",
+    "location": "France / France",
+    "posted_at": "2026-09-28T13:56:51.674000+00:00",
+    "first_seen": "2026-09-29T03:42:31.126349+00:00"
   }
 }
