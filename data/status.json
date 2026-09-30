@@ -1,6 +1,7 @@
 {
-  "stage": "scoring",
-  "updated_at": "2026-09-30T03:30:05.997707+00:00",
+  "stage": "idle",
+  "updated_at": "2026-09-30T03:30:07.421346+00:00",
   "found": 4,
-  "scored": 4
+  "scored": 4,
+  "deferred": 0
 }
