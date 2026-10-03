@@ -7903,7 +7903,7 @@
     "location": "Austria / Austria",
     "posted_at": "2026-09-28T08:38:34.458000+00:00",
     "first_seen": "2026-09-28T10:25:18.752533+00:00",
-    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
+    "link_checked_at": "2026-10-03T03:17:21.568198+00:00"
   },
   "https://jobs.lever.co/jobgether/ff65d821-810a-4e1c-9883-043c9e151dbe": {
     "title": "Senior Technical Account Manager",
@@ -7913,7 +7913,7 @@
     "location": "Spain / Spain",
     "posted_at": "2026-09-28T08:33:32.581000+00:00",
     "first_seen": "2026-09-28T10:25:18.752533+00:00",
-    "link_checked_at": "2026-09-29T03:40:17.573694+00:00"
+    "link_checked_at": "2026-10-03T03:17:21.568198+00:00"
   },
   "https://www.arbeitnow.ch/jobs/companies/datadog/remote-major-account-manager-emea-126206": {
     "title": "Major Account Manager (EMEA)",
@@ -8183,5 +8183,41 @@
     "posted_at": "2026-10-01T12:42:26.020000+00:00",
     "first_seen": "2026-10-02T03:34:47.618972+00:00",
     "link_checked_at": "2026-10-02T10:13:26.377615+00:00"
+  },
+  "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-hcm-solution-integration-architect-freelance-bonn-416412": {
+    "title": "Senior SAP HCM Solution & Integration Architect - Freelance",
+    "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-hcm-solution-integration-architect-freelance-bonn-416412",
+    "source": "Arbeitnow",
+    "description": "For an international enterprise environment, we are looking for an experienced Senior HR IT / SAP HCM Solution & Integration Architect to support a global HR technology transformation and transition program. The role combines HR application architecture, integration architecture, technical governance and hands-on SAP HCM expertise . This is not a classic Payroll role and not a purely functional SAP HCM consulting position. Start: Mid-November 2026 Duration: 6 months+ Go-live: Planned for January / February 2027 Contract: Freelance Workload: 100% Location: Remote Language: English We are specifically looking for a technically strong SAP HCM Solution / Integration Architect . Profiles focused primarily on SAP Payroll, SuccessFactors Payroll or purely functional SAP HCM consulting without architecture and integration responsibility are not suitable for this assignment. Tasks Design and further develop the global HR application and integration architecture Act as technical lead and design authority for the implementation team Design and review integrations between SAP HCM, S/4HANA, SuccessFactors and other enterprise systems Work with SAP Integration Suite / CPI, APIs, OData, REST, SOAP and middleware technologies Define architecture principles, technical standards, data flows and integration governance Support security architecture, IAM, RBAC, segregation of duties and GDPR requirements Support audit findings, test cycles, technical issue resolution and go-live preparation Take ",
+    "location": "Bonn",
+    "posted_at": "2026-10-02T17:30:42+00:00",
+    "first_seen": "2026-10-03T03:19:23.920736+00:00"
+  },
+  "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-lead-technical-product-manager-rail-integrations-all-genders-berlin-261229": {
+    "title": "Lead Technical Product Manager, Rail Integrations (all genders)",
+    "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-lead-technical-product-manager-rail-integrations-all-genders-berlin-261229",
+    "source": "Arbeitnow",
+    "description": "Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail, and ferry operators in 70+ countries with the biggest online retailers, including Google Maps and Booking.com . We are shaping the future of travel and building the largest global network of transport providers and retailers. We are one of the fastest-growing startups in travel, backed by leading venture capital investors including TQ Ventures, Lightrock, Creandum, and Northzone, and are headquartered in Berlin, Germany. Following our recent $80m Series C funding, we are ready to push beyond. We are looking for a Lead Technical Product Manager to join our Supply domain , more specifically in the Rail Integrations team, which is responsible for onboarding carriers onto our system (integrating external systems and harmonising data structures). This is key to scaling our business; therefore, our focus is on innovation and automation. What you will do: Lead and grow a team of Technical Product Managers and Integration Analysts, setting the standard for technical excellence and ownership. Define the strategy for partner integrations — how the world's largest ground transportation marketplace integrates with operators across 70+ countries. Turn integration into a competitive advantage by driving automation, slashing time-to-live, and bu",
+    "location": "Remote job",
+    "posted_at": "2026-10-02T17:30:13+00:00",
+    "first_seen": "2026-10-03T03:19:23.920736+00:00"
+  },
+  "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/oracle-payroll-hcm-integration-consultant-freelance-bonn-86374": {
+    "title": "Oracle Payroll & HCM Integration Consultant (Freelance)",
+    "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/oracle-payroll-hcm-integration-consultant-freelance-bonn-86374",
+    "source": "Arbeitnow",
+    "description": "For a long-term Oracle HCM support service, we are looking for a technically strong Oracle Payroll & HCM Integration Consultant . We are not looking for a traditional full-time project consultant. The role combines functional payroll expertise with technical troubleshooting and integration capabilities. Project setup: Contract: Freelance Location: Remote Workload: Flexible assignments based on actual demand with no guaranteed minimum volume Tasks Support for Oracle Payroll Analysis of complex payroll and integration issues Root cause analysis Support with payroll configuration and smaller changes Fast Formula HCM Extracts HDL / HSDL BI Publisher Support with Oracle Integration Cloud and external payroll interfaces Support with releases, testing and hypercare Requirements Several years of Oracle HCM Cloud experience Strong Oracle Payroll expertise Productive support and troubleshooting experience Good knowledge of Fast Formula Experience with HCM Extracts Experience with HDL/HSDL Experience with payroll integrations Very good English skills Nice-to-haves Oracle Integration Cloud BI Publisher ADP GlobalView or other external payroll systems International payroll landscapes Core HR Find more English Speaking Jobs in Germany on Arbeitnow",
+    "location": "Bonn",
+    "posted_at": "2026-10-02T15:30:39+00:00",
+    "first_seen": "2026-10-03T03:19:23.920736+00:00"
+  },
+  "https://job-boards.greenhouse.io/gitlab/jobs/8860281002": {
+    "title": "Major Account Manager, Sweden ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8860281002",
+    "source": "Greenhouse",
+    "description": "Job Application for Major Account Manager, Sweden  at GitLab New Major Account Manager, Sweden Remote, Sweden Apply GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software. * Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab. An overview of this role As a Major Account Executive, you'll own a portfolio of our largest, most strategic customers and prospects in Sweden, helping them get the most value from GitLab's AI-powered DevSecOps platform. You'll win new enterprise accounts and expand GitLab's footprint within existing customers, using a consultative approach to understand their business needs and guide successful adoption and expansion. You'll also act as the voice of your customers by sharing their feedback and product ideas in GitLab's public issue tracker. GitLab is an open core software company that develops the most comprehensive AI-powered DevSecOps platform. Our mission is to enable everyone to contribute to and co-create the software that powers our world. What you'll do Manage and support GitLab's major accounts, providing account leadership throughout the pre- and post-sales process. Own the end-to-end sales process, coordinating solutions architects, customer success managers, professional services, marketing, executives, partners, and the channel. Prospect and develop opportunities in new and existing major accounts to meet or exceed your sales quota. Use solution selling to respond to customer needs, identify business opportunities, and build strategic, long-term partnerships. Develop account plans based on a deep understanding of your customers' performance metrics, business strategies, and goals. Discuss business needs with prospects and develop formal quotes, written sales proposals, or sales presentations that address those needs. Coordinate pre- and post-sales engineering and support resources to ensure successful rollout and adoption of GitLab products. Deepen your knowledge of the industry and GitLab's competitive position, contribute to root cause analysis of wins and losses, and share lessons with account managers, marketing, and technical teams. What you'll bring Experience selling into highly complex organizations. A track record of consistent results and exceeding quota. Strong communication and presentation skills, including presenting to C-level executives. Experience with solution selling and positioning value based on customer needs. A deep understanding of Git, software development tools, and application lifecycle management. Alignment with GitLab's values and an ability to work in accordance with them. Ability to travel when needed and comply with GitLab's travel policy. About the team We work across our pre- and post-sales teams and with strategic channel partners to ",
+    "location": "Remote, Sweden",
+    "posted_at": "2026-10-02T15:33:05+00:00",
+    "first_seen": "2026-10-03T03:19:23.920736+00:00"
   }
 }
