@@ -2694,7 +2694,7 @@
       "Незрозуміла бізнес-модель компанії"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-10-06T04:16:48.508516+00:00"
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00"
   },
   "https://jobs.ashbyhq.com/openai/759dd316-cbe9-4e73-af57-808502568b29": {
     "title": "AI Support Engineer, Biosciences - San Francisco",
@@ -2723,7 +2723,7 @@
       "Незрозуміла бізнес-модель компанії"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-10-06T04:16:48.508516+00:00"
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00"
   },
   "https://jobs.ashbyhq.com/elevenlabs/71f84d23-fda9-45af-a249-8bbdb258bc18": {
     "title": "Account Manager Lead - North America - Enterprise",
@@ -2753,7 +2753,7 @@
       "Немає інформації про рівень досвіду кандидата"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-10-06T04:16:48.508516+00:00"
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00"
   },
   "https://jobs.ashbyhq.com/elevenlabs/3a25ed8a-5870-4a0e-90e4-6e5a4b2c7e04": {
     "title": "Account Manager - North America - Enterprise Segment",
@@ -6564,7 +6564,7 @@
     "location": "Germany",
     "posted_at": "2026-09-18T07:40:19+00:00",
     "first_seen": "2026-09-18T08:41:54.909461+00:00",
-    "link_checked_at": "2026-10-06T04:16:48.508516+00:00"
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00"
   },
   "https://jobs.lever.co/jobgether/1e4819e4-1b93-4c41-bd8e-b8f568ce3c1b": {
     "title": "Engineering Manager - Payments Integrations",
@@ -6717,7 +6717,7 @@
     "location": "San Francisco",
     "posted_at": "2026-09-18T03:51:38.928000+00:00",
     "first_seen": "2026-09-18T08:41:54.909461+00:00",
-    "link_checked_at": "2026-10-06T04:16:48.508516+00:00"
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00"
   },
   "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-technical-product-manager-api-integrations-all-genders-berlin-234093": {
     "title": "Technical Product Manager, API Integrations (all genders)",
@@ -6822,7 +6822,7 @@
     "description": "Compensation: $1500–2500, . AI Integration Specialist / LLM Engineer (Gemini, Месенджери, 3CX / SIP) в BUKETEXPRESS, $1500–2500, віддалено | DOU Донатимо на підготовку військових! Допоможи закрити збір! × Вхід і реєстрація Вакансії Перша робота Тренди Компанії Рейтинг Топ-50 Відгуки Додати компанію BUKETEXPRESS Всі вакансії компанії Buket Express — національний сервіс доставки квітів та подарунків по Києву та всій Україні з власним салоном флористики. Ми поєднуємо авторську квіткову естетику із сучасними e-commerce та IT-рішеннями, забезпечуючи високу швидкість обробки замовлень і цілодобовий клієнтський сервіс. Всі вакансії / AI/ML / віддалено 20 вересня 2026 AI Integration Specialist / LLM Engineer (Gemini, Месенджери, 3CX / SIP) віддалено $1500–2500 Шукаємо AI Integration Specialist / LLM Engineer, який допоможе розвантажити команду флористів українського бренду квітів та автоматизувати процеси за допомогою штучного інтелекту (Gemini) у месенджерах та телефонії. Про проєкт та мету: Ми оптимізуємо прийом замовлень і консультацію, щоб перейти на модель: «1 флорист на зміні + розумний AI-асистент 24/7». У команді вже є інженер IP-телефонії (3CX) та веброзробник сайту. Шукаємо фахівця для розробки ядра: оркестратор, бізнес-логіка LLM, інтеграція з Gemini та зв’язка каналів. Специфіка флористики: • Відсутність суворого поштучного обліку квітів: AI оперує концептом, палітрою, настроєм, бюджетом та правилами гармонійних замін. • «Ранковий бриф»: флорист вранці скидає список свіжих квітів у вільній формі — AI використовує це як актуальний контекст дня. • Синхронізація «голос + фото»: під час телефонного дзвінка AI вміє ініціювати надсилання добірки фото букетів клієнту у Viber/Telegram. Що потрібно буде робити: 1. Текстовий AI-асистент (Месенджери): • Інтегрувати AI у Telegram, Viber, Instagram Direct. • Налаштувати консультування щодо стилю, приводів і гами, підбір букетів із каталогу (картки з фото та посиланнями). • Налаштувати збір повних даних на доставку та генерацію посилань на оплату (Privat / LiqPay). • Реалізувати врахування щоденного контексту «ранкового брифу». 2. Голосовий асистент (Телефонія 3CX / SIP): • Підключити голосового full-duplex асистента (Gemini Multimodal Live API) до 3CX спільно з нашим VoIP-інженером. • Реалізувати сценарій надсилання фото букетів у месенджер під час дзвінка. • Налаштувати безшовне переведення дзвінка на живого флориста у нестандартних ситуаціях. 3. Інтеграція: • Скласти лаконічне ТЗ для веброзробника сайту на необхідні API-ендпоінти. Наші очікування від кандидата: • Практичний досвід роботи з LLM (Gemini / OpenAI) та Function Calling / Tool Use. • Досвід роботи з WebSockets і потоковими даними (Realtime Audio). • Бекенд-стек: Python (FastAPI, Asyncio) або Node.js (TypeScript). • Досвід роботи з API месенджерів (Telegram, Viber, Meta Graph API). • Розуміння передачі аудіопотоків (PCM) та базових принципів SIP/VoIP. Умови: • Віддалений формат співпраці (проєктна робота з можливістю подальшого супроводу). • Поетапна оплата за результат (Етап 1: Месенджери, Етап 2: Телефонія). Як відгукнутися: Напишіть, будь ласка: 1. Чи мали ви досвід із потоковим Live/Realtime Audio API чи WebSockets? 2. Приклади ваших проєктів із чат-ботами, e-commerce або телефонією. 3. Орієнтовна оцінка вартості/погодинної ставки за етапами. Facebook Twitter LinkedIn Відгукнутися на вакансію Правила відгуків Гарячі AI/ML вакансії Senior AI Engineer в VisiQuate , Харків, Львів, віддалено ML-engineer (Building human-like chat bot) в Interactive Online Technologies , $10000–15000 , за кордоном, віддалено Middle AI Engineer в Galaktica , $3000–4000 , віддалено Senior AI Software Engineer — Infrastructure & Tooling в SplendidScore Ukraine , $3000–5000 , віддалено Всі AI/ML вакансії Схожі вакансії AI Automation Engineer | Kosmo в Boosta , віддалено Викладач курсу AI Creator / Content maker в Prog.kiev.ua , віддалено AI Delivery Manager в Forte Group , Польща, віддалено Machine Learning/AI Specialist (part-time) в TechMagic ,",
     "region": "Україна",
     "first_seen": "2026-09-21T02:49:24.672993+00:00",
-    "link_checked_at": "2026-10-06T04:16:48.508516+00:00"
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00"
   },
   "https://jobs.dou.ua/companies/holy-water/vacancies/366032/": {
     "title": "IAM&Technical Support Engineer",
@@ -7750,7 +7750,7 @@
     "description": "Compensation: $600–900 . IT Support Engineer в Kyivstar.Tech, Київ, віддалено | DOU Якої теми вам бракує на DOU? Запропонуйте свою → × Вхід і реєстрація Вакансії Перша робота Тренди Компанії Рейтинг Топ-50 Відгуки Додати компанію Kyivstar.Tech Всі вакансії компанії Kyivstar.Tech — нова IT-компанія, резидент Дія City. Компанію створено в січні 2023. Всі вакансії / Support / Київ 28 вересня 2026 IT Support Engineer Київ, віддалено Команда адміністраторів підтримки IT-систем шукає Адміністратора Fraud Management , який/яка відповідатиме за підтримку та стабільну роботу Fraud Management системи. У цій ролі ви будете не лише адмініструвати сучасні IT-рішення, а й брати участь у їх розвитку та вдосконаленні. Ми активно взаємодіємо з різними департаментами компанії, тому для нас важливі відповідальність, клієнтоорієнтованість та готовність ефективно працювати в команді. Про нас Kyivstar.Tech — українська гібридна ІТ-компанія, резидент Дія.City. Ми є дочірньою компанією Київстар, одного з найбільших українських операторів зв’язку. Наша місія — змінювати життя в Україні та у світі, створюючи технологічні рішення і продукти, що реалізують потенціал компаній і потреби користувачів. Понад 700 спеціалістів KS.Tech щодня працюють у різних сферах: мобільні та вебрішення, а також проєктування, розробка, підтримка та технічне обслуговування високопродуктивних систем і сервісів. Ми віримо в інновації, що дійсно приносять якісні зміни, та постійно кидаємо виклик традиційним підходам і рішенням. Кожен з нас є адептом підприємницької культури, яка дозволяє ніколи не зупинятися, розвиватися і створювати нове. Що ти будеш робити Забезпечувати технічну підтримку системи Fraud Management System. Виконувати адміністративні роботи в системах (усунення помилок, інцидентів, відновлення роботи системи, адміністрування користувачів, виконання заявок користувачів) Керувати основним функціоналом системи Fraud Management System: a. Конфігурування систем b. Управління доступом c. Управлення ролями d. Інтеграція з іншими системами Створювати оперативні звіти в системах Розробляти макрокоманди, які необхідні для автоматизації процесів в системах Налаштовувати метрики моніторингу, контроль за виконанням резервування систем Встановлювати, тестувати нові патчі, оновлення системи Fraud Management System Взаємодіяти з розробниками системи, контроль виконання поставлених завдань розробникам Брати участь в проєктах з розвитку системи Написання та актуалізація документацій до систем Яка кваліфікація та досвід необхідні Досвід адміністрування IT систем (від 3 років) Глибоке розуміння архітектури клієнт-серверних застосунків Просунуті навички роботи з ОС Linux (написання bash-скриптів) Навички роботи з СУБД Oracle (написання скриптів) Англійська мова — upper intermediate (B2) Що ми пропонуємо Офіс або ремоут — вирішувати тобі Ремоут онбординг Перформанс бонуси для всіх (річні чи квартальні — залежить від ролі) Навчаємо працівників: є безліч внутрішніх ресурсів і програм від партнерів, власна бібліотека Страхування здоров’я і життя для працівників Wellbeing-програма та корпоративний психолог Компенсація витрат на мобільний зв’язок Київстар Facebook Twitter LinkedIn Відгукнутися на вакансію Правила відгуків Гарячі Support вакансії Director of support services в Nova Digital , Київ Junior Technical Support Manager в UniTalk , $600–900 , Київ Customer Support Team Lead в Growe , віддалено Всі Support вакансії Схожі вакансії Support Engineer в Kyivstar.Tech , Київ Middle Support Engineer (ERP systems) в Kyivstar.Tech , Київ, віддалено Integration Manager в Solidgate , Київ, Львів, віддалено L1 Support Engineer (Jira & SharePoint Specialist) в NDA Recruitment , Київ Customer Success Manager | EN в Forward® , $1000–1500 , Kalynivka, Київ, віддалено Customer / Technical Support Specialist в Corefy , Київ Керівник служби технічної підтримки (Head of Technical Support) в ІнфоПлюс , Київ Applications Administrator в Quipu , $1200 , Київ, віддалено Всі схожі вакансії Скористайтесь ака",
     "region": "Україна",
     "first_seen": "2026-09-28T10:25:18.752533+00:00",
-    "link_checked_at": "2026-10-06T04:16:48.508516+00:00"
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00"
   },
   "https://jobs.dou.ua/companies/corewide/vacancies/250496/": {
     "title": "Technical Support Engineer (L2)",
@@ -7759,7 +7759,7 @@
     "description": "Compensation: $600–900 . Technical Support Engineer (L2) в Corewide, від $600, віддалено | DOU Якої теми вам бракує на DOU? Запропонуйте свою → × Вхід і реєстрація Вакансії Перша робота Тренди Компанії Рейтинг Топ-50 Відгуки Додати компанію Corewide Всі вакансії компанії Founded on April 1, 2015, Corewide has firmly established its mark in the dynamic DevOps landscape. Driven by a team of DevOps and automation professionals, we’re all about precision, speed, and engineering finesse. Our commitment is to deliver impeccable DevOps services each time, every time. Our suite of services is as extensive as it is profound. Всі вакансії / Support / віддалено 28 вересня 2026 Перша робота Technical Support Engineer (L2) віддалено від $600 We are searching for a smart and efficient person with basic Linux experience, understanding of networking principles and at least intermediate English level to join us as a Technical Support Engineer. This role includes providing SRE-level technical support to our clients, monitoring clients’ infrastructure, handling incidents and creating basic documentation on a shift basis (including graveyard shifts). Our primary area of competence is providing DevOps services and our technical support engineers can take free corporate DevOps course provided by our experienced mentors. The most prominent technical support engineers can be offered a transfer to DevOps department. Duties: Providing 1–3 level technical support services Monitoring of Infrastructure and Integrations to other systems Incident and escalation reporting Reporting status and progress according to the project and company demands Creating and updating support and maintenance-related documentation Mandatory skills: Experience with Linux Intermediate English level (writing and speaking) Basic network protocol knowledge Understanding how the Internet works Ability to accumulate information and create conclusions Bonus points for: Git experience Grafana and Prometheus experience Experience with at least one cloud provider (AWS/GCP/Azure/DigitalOcean) Understanding of containers Understanding of CI/CD and Infrastructure as Code principles We offer: Remote-first working model Accounting support Tax compensation Paid sick leaves and vacations Flexible working schedule English classes Health insurance Sports compensation Educational budget We are looking forward to hearing from you! Facebook Twitter LinkedIn Відгукнутися на вакансію Правила відгуків Гарячі вакансії для початківців Talent Sourcer в NDA Recruitment , Київ, віддалено Trainee User Acquisition Manager (Meta Ads) в expla , Київ Lead Generation Specialist в Solid Software , віддалено Junior Technical Support Manager в UniTalk , $600–900 , Київ Corporate Business Intern в UKRSIBTECH , Київ Sales Manager/ Менеджер з продажів в Glovo , Київ IT Support Specialist в HealthJoy , Дніпро Marketing Manager в DOU.ua , віддалено Всі вакансії для початківців Схожі вакансії Customer Support Specialist (German) в GG.BET , Київ, за кордоном, віддалено Customer Support Specialist (Polish) в GG.BET , Київ, за кордоном, віддалено Authorizations Representative в Pharmbills , $900–1100 , віддалено Healthcare Customer Support в Pharmbills , $800–1000 , віддалено Data Entry Specialist в Pharmbills , $900–1100 , віддалено Customer Support Agent в SKELAR , віддалено Junior Content Moderator в SKELAR , віддалено Customer Support Agent (Shifts) в Solidgate , Київ, віддалено Всі схожі вакансії Курси і стажування 28 вересня, Online Business Analyst Trainee by SysGears 17 жовтня, Online Black Sea AI School 19 жовтня, Київ Materialise Medical Engineering School 2026 26 жовтня, Варшава Оплачуване навчання на email-маркетолога в EPC Network Скористайтесь акаунтом × Google LinkedIn GitHub Facebook Увійти за поштою . Вхід Реєстрація Відновлення пароля Пошта Пароль Неправильний пароль Увійти Реєстрацію по email закрито Пошта Скинути пароль Ви неправильно вказали свою пошту Або скористайтесь акаунтом . я згоден(-на) з умовами",
     "region": "Україна",
     "first_seen": "2026-09-28T10:25:18.752533+00:00",
-    "link_checked_at": "2026-10-06T04:16:48.508516+00:00"
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00"
   },
   "https://jobicy.com/jobs/151920-account-manager-3": {
     "title": "Account Manager",
@@ -7769,7 +7769,7 @@
     "location": "Europe",
     "posted_at": "2026-09-28T05:25:17+00:00",
     "first_seen": "2026-09-28T10:25:18.752533+00:00",
-    "link_checked_at": "2026-10-06T04:16:48.508516+00:00"
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00"
   },
   "https://jobicy.com/jobs/149309-senior-security-engineer-security-incident-response-team-sirt-emea": {
     "title": "Senior Security Engineer, Security Incident Response Team (SIRT) - EMEA",
@@ -7779,7 +7779,7 @@
     "location": "EMEA",
     "posted_at": "2026-09-28T05:25:13+00:00",
     "first_seen": "2026-09-28T10:25:18.752533+00:00",
-    "link_checked_at": "2026-10-06T04:16:48.508516+00:00"
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00"
   },
   "https://jobs.lever.co/jobgether/34d4a70d-c98e-456d-abdb-058e91ac917a": {
     "title": "Senior Technical Account Manager",
@@ -8114,7 +8114,7 @@
     "location": "Remote - Ireland",
     "posted_at": "2026-10-01T14:27:46+00:00",
     "first_seen": "2026-10-02T03:34:47.618972+00:00",
-    "link_checked_at": "2026-10-06T04:16:48.508516+00:00"
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00"
   },
   "https://himalayas.app/companies/soti/jobs/senior-account-manager-1921930388": {
     "title": "Senior Account Manager",
@@ -8124,7 +8124,7 @@
     "location": "Netherlands",
     "posted_at": "2026-10-02T03:02:57+00:00",
     "first_seen": "2026-10-02T03:34:47.618972+00:00",
-    "link_checked_at": "2026-10-06T04:16:48.508516+00:00"
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00"
   },
   "https://jobs.lever.co/jobgether/0088f94d-8e5b-4b20-b569-eff07ade0926": {
     "title": "National Account Manager",
@@ -8134,7 +8134,8 @@
     "location": "Ireland / Ireland",
     "posted_at": "2026-10-01T12:40:43.275000+00:00",
     "first_seen": "2026-10-02T03:34:47.618972+00:00",
-    "link_checked_at": "2026-10-06T04:16:48.508516+00:00"
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/3335a4e4-cfac-4a38-bf6d-e5639b032acc": {
     "title": "National Account Manager",
@@ -8144,7 +8145,8 @@
     "location": "Romania / Romania",
     "posted_at": "2026-10-01T12:37:37.928000+00:00",
     "first_seen": "2026-10-02T03:34:47.618972+00:00",
-    "link_checked_at": "2026-10-06T04:16:48.508516+00:00"
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/5ff80c18-403e-4950-a594-3f72cb3df93d": {
     "title": "National Account Manager",
@@ -8154,7 +8156,8 @@
     "location": "Netherlands / Netherlands",
     "posted_at": "2026-10-01T12:40:22.877000+00:00",
     "first_seen": "2026-10-02T03:34:47.618972+00:00",
-    "link_checked_at": "2026-10-06T04:16:48.508516+00:00"
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/86b1ee4d-7bbe-4205-89e9-86fed04cb40f": {
     "title": "National Account Manager",
@@ -8164,7 +8167,8 @@
     "location": "Switzerland / Switzerland",
     "posted_at": "2026-10-01T12:41:03.961000+00:00",
     "first_seen": "2026-10-02T03:34:47.618972+00:00",
-    "link_checked_at": "2026-10-06T04:16:48.508516+00:00"
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/8f330ac4-ba7c-453c-9027-853391acf4d6": {
     "title": "National Account Manager",
@@ -8174,7 +8178,8 @@
     "location": "Portugal / Portugal",
     "posted_at": "2026-10-01T12:39:04.895000+00:00",
     "first_seen": "2026-10-02T03:34:47.618972+00:00",
-    "link_checked_at": "2026-10-06T04:16:48.508516+00:00"
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/9a75cadd-d815-48c4-b84b-007c6484637d": {
     "title": "National Account Manager",
@@ -8184,7 +8189,8 @@
     "location": "Italy / Italy",
     "posted_at": "2026-10-01T12:38:34.298000+00:00",
     "first_seen": "2026-10-02T03:34:47.618972+00:00",
-    "link_checked_at": "2026-10-06T04:16:48.508516+00:00"
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/cf6a8d7f-ae4d-421b-821c-2cad21799e2c": {
     "title": "National Account Manager",
@@ -8194,7 +8200,8 @@
     "location": "France / France",
     "posted_at": "2026-10-01T12:41:23.169000+00:00",
     "first_seen": "2026-10-02T03:34:47.618972+00:00",
-    "link_checked_at": "2026-10-06T04:16:48.508516+00:00"
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/de039958-ce0a-40eb-a12e-c8b0b02e5554": {
     "title": "National Account Manager",
@@ -8204,7 +8211,8 @@
     "location": "Germany / Germany",
     "posted_at": "2026-10-01T12:41:47.290000+00:00",
     "first_seen": "2026-10-02T03:34:47.618972+00:00",
-    "link_checked_at": "2026-10-06T04:16:48.508516+00:00"
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/fae387c2-1c71-4588-963b-e2e455bbfec1": {
     "title": "National Account Manager",
@@ -8214,7 +8222,8 @@
     "location": "Spain / Spain",
     "posted_at": "2026-10-01T12:42:26.020000+00:00",
     "first_seen": "2026-10-02T03:34:47.618972+00:00",
-    "link_checked_at": "2026-10-06T04:16:48.508516+00:00"
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00",
+    "hidden": true
   },
   "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-hcm-solution-integration-architect-freelance-bonn-416412": {
     "title": "Senior SAP HCM Solution & Integration Architect - Freelance",
@@ -8264,7 +8273,7 @@
     "location": "Ukraine",
     "posted_at": "2026-10-05T10:42:13+00:00",
     "first_seen": "2026-10-05T11:06:32.459053+00:00",
-    "link_checked_at": "2026-10-06T04:16:48.508516+00:00"
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00"
   },
   "https://jobicy.com/jobs/154664-technical-account-manager-france": {
     "title": "Technical Account Manager - France",
@@ -8652,7 +8661,8 @@
     "source": "Djinni",
     "description": "Account Manager в Digis (a Fiverr company) – Djinni Помилка Відкрити в застосунку Djinni IT Outstaffing / Outsourcing Digis is looking for an experienced Account Manager to manage existing client relationships, coordinate cooperation between clients and internal teams, and drive account growth. Most of our cooperation is based on the IT outstaffing model , although we also work with projects developed from scratch. Requirements 5+ years of relevant experience in IT At least 1 recent year as an Account Manager in an IT outsourcing/outstaffing company Experience managing multiple client accounts simultaneously Upper-Intermediate English or higher Strong communication, ownership, problem-solving, and relationship-building skills Experience working directly with developers and participating in hiring for existing clients Ability to independently manage priorities, follow-ups, and deadlines Responsibilities Act as the main point of contact for assigned clients Build strong client relationships, gather feedback, identify risks, and resolve cooperation issues Coordinate communication between clients, developers, recruitment, finance, and management Maintain regular communication with developers regarding project status, workload, and challenges Identify upsell and account growth opportunities Coordinate hiring for existing clients: clarify requirements, open vacancies, monitor recruitment progress, and organize client interviews Manage operational matters including vacations, sick leaves, time logs, reporting, billing, invoices, and payment follow-ups Team & Work Setup Team: 5 Account Managers + Account Management Team Lead + CEO Around 10–15 accounts per Account Manager Average client team size: approximately 3 developers Working schedule: approximately 10:00–19:00 CET Tools: Google Workspace, HubSpot, Notion Benefits Competitive fixed salary + bonuses for upsells 20 paid vacation days per year 5 paid sick days per year Company-provided laptop and monitor Regular performance and salary reviews Long-term cooperation and direct involvement in client and business growth Вимоги до володіння мовами Англійська B2 – Вище середнього Українська Носій мови Опубліковано 1 жовтня · Оновлено 8 жовтня 121 перегляд · 16 відгуків Активність рекрутера: Дуже висока Відповідали вчора Подивитись статистику кандидатів що відгукнулись на цю вакансію 👀 Огляд кандидатів Для відгуку на цю та інші вакансії на Djinni увійдіть або зареєструйтеся . Виключно\n      \n      \n        від\n        5 років досвіду Тільки віддалено Країни ЄС Країни, де розглядаємо кандидатів Англійська B2 – Вище середнього Українська Носій мови Account Manager Зайнятість: Fulltime Домен: Other Сервісна компанія Активність рекрутера: Дуже висока Відповідали вчора 📊 Середня зарплатна вилка схожих вакансій у аналітиці → Завантаження... We use cookies to improve your experience. Learn more Okay",
     "region": "Україна",
-    "first_seen": "2026-10-09T04:05:17.556167+00:00"
+    "first_seen": "2026-10-09T04:05:17.556167+00:00",
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00"
   },
   "https://job-boards.greenhouse.io/twilio/jobs/8247286": {
     "title": "Technical Support Engineer 2",
@@ -8661,7 +8671,8 @@
     "description": "Job Application for Technical Support Engineer 2 at Twilio Back to jobs New Technical Support Engineer 2 Remote - Ireland Apply Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands. . Hiring and how we work We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions! Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings. . See yourself at Twilio Join the team as Twilio’s next Technical Support Engineer 2. About the job This position is needed for you to join the Support team and provide excellent technical support to users of the Email platform. Wearing the customer’s shoes is one of the core values of our company and excellent Support is what our customers have come to expect and love about Twilio. If you are a technically savvy individual who enjoys mentoring and raising the bar, and is also customer-focused with excellent communication skills, keep reading! Responsibilities In this role, you will: Provide product support for a wide range of customer inquiries received via telephone, email, social media and chat. Assess the nature of product or service issues and resolve a variety of complex  support problems. Log customer interactions and tag/categorize issues accordingly. Resolve a monthly volume of tickets consistent Be the point of escalation for middle complex issues within support, and escalate to Product and Engineering teams as necessary. Identify ways to improve existing processes and procedures. Mentor  newer members of the Customer Support team with customer issues. Contribute content to knowledge base to support team and customer enablement Ensure Support SLAs and CSAT goals are consistently met and ticket queues are well managed Other duties as required Incident report and Oncall Qualifications Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people who will bring something new to the table! *Required: 3+ years experience in a client-facing customer/technical support role, supporting Email, Communications, SaaS or related technologies A demonstrated history of customer focus, empathy, active listening, and the ability to diplomatically address customer concerns and provide feedback Experience communicating complex technical issues to both technical and non-technical audiences via phone or email Strong, creative problem solving skills Quick learner, willing to take initiative, and has great follow through A demonstrated ability to remain calm and effective at higher workloads as well as excelling at prioritization and evaluation of situational urgency A high-energy, optimistic outlook and positive attitude An empathetic approach to troubleshooting and customer service A demonstrated attention to detail, with the ability to quickly ramp up on new products, new technologies, and evolving customer or business needs Accountability - Being willing to answer for the outcomes resulting from their own choices, behaviors, and actions. Take ownership of situations that they're involved in Self Motivation - Motivated to do ",
     "location": "Remote - Ireland",
     "posted_at": "2026-10-08T17:05:56+00:00",
-    "first_seen": "2026-10-09T04:05:17.556167+00:00"
+    "first_seen": "2026-10-09T04:05:17.556167+00:00",
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00"
   },
   "https://job-boards.greenhouse.io/twilio/jobs/8258962": {
     "title": "Technical Support Engineer 2",
@@ -8670,7 +8681,8 @@
     "description": "Job Application for Technical Support Engineer 2 at Twilio Back to jobs New Technical Support Engineer 2 Remote - Ireland Apply Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands. . Hiring and how we work We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions! Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings. . See yourself at Twilio Join the team as Twilio’s next Technical Support Engineer 2. About the job This position is needed to support our customers’ use of Twilio’s Programmable Messaging product. This role will function as the voice of Twilio to our customers and partners and operate as a subject matter expert for Twilio’s Programmable Messaging API. In addition, focus on providing friendly, professional customer service, while problem-solving and demonstrating a high competency in communicating complex technical issues to both technical and non-technical audiences via phone, email, and chat mediums. Advanced time management skills are able to work well under pressure, and are proficient at developing workflows to remain efficient at tasks while still following standard processes and procedures. Responsibilities In this role, you will: Work on messaging email cases submitted by both individual developers and major brands. Assist customers with troubleshooting message deliverability issues and debug customer code. Speak with a customer on the phone and chat in order to guide them through the development of their SMS application. Collaborate with your teammates and the Twilio Product and Engineering teams via Slack. File Jira’s to report reproducible bugs and review our internal knowledge base to stay up to speed with industry shifts and standards. Work with your manager to surface customer problems to assist in process betterment. Qualifications Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people who will bring something new to the table! *Required: Bachelor’s degree or equivalent work experience 2+ years of experience in a client-facing technical role, preferably in supporting REST API or enterprise software A firm understanding of the technology stacks common to the Web ecosystem. Functional knowledge of general-purpose programming languages. Strong problem-solving and technical troubleshooting skills Ability to professionally and diplomatically address customer concerns and provide concise feedback. Ability to de-escalate tense/tough customer situations in a live environment. Excellent reading comprehension, listening, and writing skills. Desired: Previous exposure or knowledge of Twilio products. Coding experience in any language. (reading and debugging) Previous experience with JIRA or a similar ticketing system. Location This role will be remote, and based in Ireland. Travel We prioritize connection and opportunities to build relationships with our customers and each other. For this role, you may be required to travel occasionally to participate in project or team in-person meetings. What We Offer W",
     "location": "Remote - Ireland",
     "posted_at": "2026-10-08T17:10:31+00:00",
-    "first_seen": "2026-10-09T04:05:17.556167+00:00"
+    "first_seen": "2026-10-09T04:05:17.556167+00:00",
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00"
   },
   "https://jobs.ashbyhq.com/vanta/22ba8036-10cb-405d-82fb-9cb07324934c": {
     "title": "Senior Product Manager, Integrations",
@@ -8679,7 +8691,8 @@
     "description": "At Vanta, our mission is to help businesses earn and prove trust. We believe that security should be monitored and verified continuously, and we empower companies to practice better security and prove it with ease. Vanta has a kind and talented team, and while some have prior security experience, many have been successful at Vanta without it. \n\n\n\nAs the Senior Product Manager for Integrations at Vanta, you will be responsible for the ongoing development of integrations across categories, driving direct customer impact through new integrations and expanded capabilities. Vanta currently manages a catalog of over 400 integrations that help customers continuously monitor their compliance and generate the evidence needed to satisfy audit. You’ll drive planning and delivery for a wide range of integration categories and capabilities, such as HRIS/IDP systems, cloud and security platforms, and ticketing systems, building on top of the integrations platform.\n\n \n\nYou’ll be part of Vanta’s Automation group, which owns how customers discover and connect to other platforms through integrations, use that data to power product experiences and tests, drive customers toward compliance-related security outcomes, and ultimately generate the evidence required for audit. You will operate in a few different modes to build your roadmap, balancing direction from other product teams, customer input, and your own prioritization framework to make the right investments.  Plus, you will get wide exposur",
     "location": "Remote U.S.",
     "posted_at": "2026-10-08T21:22:54.039000+00:00",
-    "first_seen": "2026-10-09T04:05:17.556167+00:00"
+    "first_seen": "2026-10-09T04:05:17.556167+00:00",
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00"
   },
   "https://jobs.ashbyhq.com/openai/539aa9e9-76e0-4408-b47b-3bd569a81f91": {
     "title": "Technical Accounting Lead, Ads Revenue",
@@ -8688,6 +8701,61 @@
     "description": "About the Team\n\nOpenAI Finance ensures the organization is positioned for long-term success as we pursue our mission. The Revenue team plays a critical role in enabling OpenAI to scale commercial offerings by overseeing billing operations, deal desk, revenue systems, revenue accounting, and controllership. We work cross-functionally with Product, Engineering, Go-To-Market, Tax, Legal, and Technical Accounting to support new monetization strategies, improve operational efficiency, and maintain financial integrity as the business grows.\n\nAbout the Role\n\nThis senior leader will own key elements of Ads revenue accounting from technical assessment through operational execution. The role will guide accounting for products, pricing, contracts, incentives, credits, refunds, makegoods, international expansion, and new go-to-market motions. It will establish governance and translate approved accounting positions into launch, billing, data, close, reconciliation, and control requirements. Success requires deep technical revenue expertise, strong business partnership, and the ability to build durable 0-to-1 processes in a fast-changing environment.\n\nAdvertising is a critical and growing monetization vector for OpenAI, and this role will help shape the financial foundations that enable Ads to scale responsibly and transparently.\n\nThis role can be based in San Francisco or New York City. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new empl",
     "location": "San Francisco / New York City",
     "posted_at": "2026-10-08T23:38:34.938000+00:00",
-    "first_seen": "2026-10-09T04:05:17.556167+00:00"
+    "first_seen": "2026-10-09T04:05:17.556167+00:00",
+    "link_checked_at": "2026-10-09T12:24:14.198984+00:00"
+  },
+  "https://jobicy.com/jobs/154903-product-support-engineer-emea": {
+    "title": "Product Support Engineer - EMEA",
+    "url": "https://jobicy.com/jobs/154903-product-support-engineer-emea",
+    "source": "Jobicy",
+    "description": "Hello! I’m Allie, Head of Support at Ashby. I’m excited to share that we’re hiring a Product Support Engineer in EMEA  We’re expanding our global Support team to provide 24/7 coverage across time zones. You’ll join a global team while establishing the technical Support Engineering presence in EMEA, with the ownership and visibility that…",
+    "location": "EMEA",
+    "posted_at": "2026-10-09T06:22:41+00:00",
+    "first_seen": "2026-10-09T12:26:38.567588+00:00"
+  },
+  "https://himalayas.app/companies/centric-software-inc/jobs/technical-support-consultant": {
+    "title": "Technical Support Consultant",
+    "url": "https://himalayas.app/companies/centric-software-inc/jobs/technical-support-consultant",
+    "source": "Himalayas",
+    "description": "About Centric Software: Centric Software® is a global leader, providing an innovative and AI-enabled product-concept-to-commercialization platform for retailers, brands and manufacturers of all sizes. We equip retail, fashion, luxury, footwear, outdoor, home and consumer goods brands with pioneering best-of-breed solutions to plan, design, develop, source, comply, buy, make, price, allocate, sell and replenish products. Our technology powers brands to streamline processes, drive efficiency and operate with confidence in an ever-changing market. Our story is one of rapid growth, bold ideas and extraordinary opportunities. We’re here to challenge the status quo—and we’re looking for brilliant people who want to do the same. No matter where you are in the world, this is your chance to be part of something exceptional. Job Title: Technical Support Consultant Location: EMEA / Germany We are seeking a meticulous and seasoned Technical Support Consultant to join our growing European team. In this pivotal role, you'll be instrumental in delivering exceptional customer support and technical guidance. With a primary focus on our German customers, you'll swiftly address their inquiries and provide efficient solutions. Given Centric Software's specialization in fashion and consumer goods technology, you'll play a critical role in empowering businesses to bring their products to market. Reporting directly to the Customer Support Manager, you will have ample opportunities to contribute to ",
+    "location": "Germany",
+    "posted_at": "2026-10-09T10:47:09+00:00",
+    "first_seen": "2026-10-09T12:26:38.567588+00:00"
+  },
+  "https://jobs.lever.co/jobgether/04a935d2-9e0f-4633-955a-1ae7895e7687": {
+    "title": "M&A Integration and Carve-Out Practitioner",
+    "url": "https://jobs.lever.co/jobgether/04a935d2-9e0f-4633-955a-1ae7895e7687",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a M&A Integration and Carve-Out Practitioner based in Spain. The M&A Integration and Carve-Out Practitioner will help private equity investors and portfolio company leaders navigate complex technology decisions during mergers, acquisitions, integrations, and business separations. This senior, hands-on role focuses on assessing technology risks, validating transaction assumptions, and building realistic plans for Day 1 readiness and long-term value creation. You will work directly with investment teams, operating partners, and senior technology executives in fast-paced transaction environments where decisions often need to be made with incomplete information. The role spans pre-close diligence, sign-to-close planning, and post-close execution, with opportunities to lead integration or separation workstreams and provide interim technology leadership. Success requires strong operational judgment, commercial awareness, and the ability to translate technical complexity into clear investment and execution decisions. You will join a collaborative team of experienced practitioners that combines proven methodologies, technology expertise, and data-driven insights to deliver measurable outcomes.",
+    "location": "Spain / Spain",
+    "posted_at": "2026-10-09T00:38:42.296000+00:00",
+    "first_seen": "2026-10-09T12:26:38.567588+00:00"
+  },
+  "https://jobs.lever.co/jobgether/5ac784aa-9027-408b-9633-f8c411e90d01": {
+    "title": "M&A Integration and Carve-Out Practitioner",
+    "url": "https://jobs.lever.co/jobgether/5ac784aa-9027-408b-9633-f8c411e90d01",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a M&A Integration and Carve-Out Practitioner based in Switzerland. The M&A Integration and Carve-Out Practitioner will help private equity investors and portfolio company leaders navigate complex technology decisions during mergers, acquisitions, integrations, and business separations. This senior, hands-on role focuses on assessing technology risks, validating transaction assumptions, and building realistic plans for Day 1 readiness and long-term value creation. You will work directly with investment teams, operating partners, and senior technology executives in fast-paced transaction environments where decisions often need to be made with incomplete information. The role spans pre-close diligence, sign-to-close planning, and post-close execution, with opportunities to lead integration or separation workstreams and provide interim technology leadership. Success requires strong operational judgment, commercial awareness, and the ability to translate technical complexity into clear investment and execution decisions. You will join a collaborative team of experienced practitioners that combines proven methodologies, technology expertise, and data-driven insights to deliver measurable outcomes.",
+    "location": "Switzerland / Switzerland",
+    "posted_at": "2026-10-09T00:37:40.175000+00:00",
+    "first_seen": "2026-10-09T12:26:38.567588+00:00"
+  },
+  "https://jobs.lever.co/jobgether/71fca43c-318b-4077-9395-18f9a384e781": {
+    "title": "M&A Integration and Carve-Out Practitioner",
+    "url": "https://jobs.lever.co/jobgether/71fca43c-318b-4077-9395-18f9a384e781",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a M&A Integration and Carve-Out Practitioner based in Germany. The M&A Integration and Carve-Out Practitioner will help private equity investors and portfolio company leaders navigate complex technology decisions during mergers, acquisitions, integrations, and business separations. This senior, hands-on role focuses on assessing technology risks, validating transaction assumptions, and building realistic plans for Day 1 readiness and long-term value creation. You will work directly with investment teams, operating partners, and senior technology executives in fast-paced transaction environments where decisions often need to be made with incomplete information. The role spans pre-close diligence, sign-to-close planning, and post-close execution, with opportunities to lead integration or separation workstreams and provide interim technology leadership. Success requires strong operational judgment, commercial awareness, and the ability to translate technical complexity into clear investment and execution decisions. You will join a collaborative team of experienced practitioners that combines proven methodologies, technology expertise, and data-driven insights to deliver measurable outcomes.",
+    "location": "Germany / Germany",
+    "posted_at": "2026-10-09T00:38:21.640000+00:00",
+    "first_seen": "2026-10-09T12:26:38.567588+00:00"
+  },
+  "https://jobs.lever.co/jobgether/8990f1d6-3681-43c5-b1c5-3a6bb46112b8": {
+    "title": "M&A Integration and Carve-Out Practitioner",
+    "url": "https://jobs.lever.co/jobgether/8990f1d6-3681-43c5-b1c5-3a6bb46112b8",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a M&A Integration and Carve-Out Practitioner based in France. The M&A Integration and Carve-Out Practitioner will help private equity investors and portfolio company leaders navigate complex technology decisions during mergers, acquisitions, integrations, and business separations. This senior, hands-on role focuses on assessing technology risks, validating transaction assumptions, and building realistic plans for Day 1 readiness and long-term value creation. You will work directly with investment teams, operating partners, and senior technology executives in fast-paced transaction environments where decisions often need to be made with incomplete information. The role spans pre-close diligence, sign-to-close planning, and post-close execution, with opportunities to lead integration or separation workstreams and provide interim technology leadership. Success requires strong operational judgment, commercial awareness, and the ability to translate technical complexity into clear investment and execution decisions. You will join a collaborative team of experienced practitioners that combines proven methodologies, technology expertise, and data-driven insights to deliver measurable outcomes.",
+    "location": "France / France",
+    "posted_at": "2026-10-09T00:38:01.033000+00:00",
+    "first_seen": "2026-10-09T12:26:38.567588+00:00"
   }
 }
