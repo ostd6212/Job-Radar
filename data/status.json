@@ -1,7 +1,4 @@
 {
-  "stage": "idle",
-  "updated_at": "2026-10-17T08:13:09.178895+00:00",
-  "found": 0,
-  "scored": 0,
-  "deferred": 0
+  "stage": "fetching",
+  "updated_at": "2026-10-18T02:32:19.072789+00:00"
 }
