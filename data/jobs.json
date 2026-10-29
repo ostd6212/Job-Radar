@@ -263,7 +263,7 @@
       "Невідомий керівник"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.dou.ua/companies/winner-group-ukraine/vacancies/366885/": {
     "title": "Technical Support Engineer (T-SQL, SSRS, API) — L2/L3",
@@ -290,7 +290,7 @@
       "Невідомий керівник"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.dou.ua/companies/oxtech/vacancies/366458/": {
     "title": "Technical support engineer",
@@ -316,7 +316,7 @@
       "Невідомий керівник"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.dou.ua/companies/akurateco/vacancies/365233/": {
     "title": "Technical Support Engineer",
@@ -342,7 +342,7 @@
       "Неподібна роль"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.dou.ua/companies/liki24/vacancies/360790/": {
     "title": "Merchant Onboarding & Integration Specialist",
@@ -369,7 +369,7 @@
       "Непідтверджена інформація"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobicy.com/jobs/150101-senior-customer-support-engineer": {
     "title": "Senior Customer Support Engineer",
@@ -456,7 +456,7 @@
       "Непідтверджена інформація"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://job-boards.greenhouse.io/twilio/jobs/8089122": {
     "title": "Incident Commander",
@@ -518,7 +518,7 @@
       "Низька відповідність до бажаних вимог"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://job-boards.greenhouse.io/twilio/jobs/8055481": {
     "title": "Security Engineer, Incident Response",
@@ -580,7 +580,7 @@
       "Низька відповідність до бажаних вимог"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://job-boards.greenhouse.io/twilio/jobs/8065040": {
     "title": "Senior Security Engineer, Incident Response",
@@ -640,7 +640,7 @@
       "Незрозуміла роль"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://job-boards.greenhouse.io/twilio/jobs/8059910": {
     "title": "Technical Account Manager 3",
@@ -757,7 +757,7 @@
       "Незрозуміла роль"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.lever.co/netomi/71934132-49f9-4553-9870-e70f77ec9819": {
     "title": "Senior Product Manager – Integrations Platform",
@@ -2579,7 +2579,8 @@
       "Низька оцінка компанії за технічним досвідом"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00",
+    "hidden": true
   },
   "https://jobs.ashbyhq.com/posthog/f8af3807-3595-4580-a65c-dad2e268ace5": {
     "title": "Technical Account Executive",
@@ -2608,7 +2609,8 @@
       "Незрозуміла бізнес-модель компанії"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00",
+    "hidden": true
   },
   "https://jobs.ashbyhq.com/posthog/b42fd20b-b647-4f42-b725-b29ca472cba8": {
     "title": "Technical Account Manager - EMEA",
@@ -2666,7 +2668,8 @@
       "Незрозуміла бізнес-модель компанії"
     ],
     "first_seen": "2026-08-03T17:03:31.734376+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00",
+    "hidden": true
   },
   "https://jobs.ashbyhq.com/openai/b0729478-f363-498e-a088-b659c40d4580": {
     "title": "Lead, Incidents & Escalations, User Operations",
@@ -5087,7 +5090,7 @@
     "description": "Compensation: $10000–15000 . Account Manager / Customer Success Manager (Outsourcing/Outstaffing) в NETFORCE Ukraine LLC, віддалено | DOU Join us for a new WAWTech Live workshop with Ivan Lapa, Senior UI Engineer at Netflix 📅 September 10, 19:00 EEST × Вхід і реєстрація Вакансії Перша робота Тренди Компанії Рейтинг Топ-50 Відгуки Додати компанію NETFORCE Ukraine LLC Всі вакансії компанії Всі вакансії / Account Manager / віддалено 28 серпня 2026 Account Manager / Customer Success Manager (Outsourcing/Outstaffing) віддалено NETFORCE Ukraine шукає Account Manager / Customer Success спеціаліста , який стане основною точкою контакту для існуючих клієнтів і допомагатиме підбирати DevOps інженерів на запити (проєкти) клієнтів. Ми працюємо у сфері системного адміністрування та DevOps, по форматам аутсорсу та аутстафу . Допомагаємо компаніям посилювати свої команди інженерами — від part-time до full-time залучення. Це роль для того, хто: — вміє чітко визначити потребу клієнта — структурує запити і тримає процес під контролем — швидко підбирає і пропонує релевантних спеціалістів — отримує задоволення від точного «метчу» між клієнтом та інженером 💼 Що потрібно буде робити: підтримувати комунікацію з існуючими клієнтами та обробляти їхні запити опрацьовувати inbound-запити на DevOps спеціалістів (part-time / full-time) підбирати та презентувати релевантних інженерів із внутрішньої команди або бази кандидатів під конкретний запит клієнта організовувати та координувати інтерв’ю між клієнтом і DevOps спеціалістами (outstaff формат) збирати та обробляти фідбек після інтерв’ю супроводжувати процес від запиту до старту співпраці моніторити ринок і вакансії як додаткове джерело потенційних лідів на наші послуги 🎯 Що ми очікуємо від тебе? досвід у Account Management / Customer Success / Staffing від 1 року розуміння IT-аутсорс/аутстаф моделі (досвід з DevOps або інженерними профілями буде плюсом) вміння швидко розібратись у запиті клієнта і трансформувати його у чіткий профіль кандидата сильні комунікаційні навички: вміти уточнювати, пояснювати та аргументувати досвід роботи з CRM системами та таск-трекерами навички тайм-менеджменту на високому рівні англійська — Intermediate (достатній для участі в дзвінках із клієнтами) 💰 Що ти отримаєш: full remote формат графік роботи з гнучким стартом робочого дня з 9:00 / 10:00 — 18:00 / 19:00, без системних overtimes фіксовану ставку + прозору бонусну систему (прив’язану до результатів по запитах/клієнтах) оформлення по ФОП з повним супроводом та підтримкою можливість впливати на процеси взаємодії з клієнтами та підбору інженерів команду без мікро-менеджменту і «зайвої бюрократії» обмін експертизою та best practices всередині команди підтримку з боку рекрутингу у підборі інженерів під запити клієнтів Якщо відчуваєш, що це твій метч, приєднуйся до нас 🙂 Hiring process: ✅ Intro call with a Recruiter — ✅ Interview with Lead — ✅ Offer Facebook Twitter LinkedIn Відгукнутися на вакансію Правила відгуків Гарячі вакансії DSP/FPGA/Edge-ML Engineer в Kozak Group , Київ ML-engineer (Building human-like chat bot) в Interactive Online Technologies , $10000–15000 , за кордоном, віддалено Recovery manager в Galaktica , Київ, Львів, Одеса, Ларнака (Кіпр), віддалено Java Developer до IT-підрозділу ЗСУ в 12-й ОЦСП Product Manager в Міністерство оборони України , Київ Business Development Manager (Payments) в Galaktica , Київ, Львів, Одеса, Ларнака (Кіпр), віддалено HR-менеджер(-ка) в Повернись живим , Київ Head of Analytics в Galaktica , Київ, Львів, Одеса, Ларнака (Кіпр), віддалено Всі вакансії Схожі вакансії Release Account Manager в Infingame , віддалено Account Manager — Barbara Bang в talentC , віддалено Account Manager, AdTech в Spalah , Київ, Лісабон (Португалія), віддалено Partner Success / Middle Account Manager (e-commerce, B2B) в Omnicore , віддалено Head of Affiliate Management (Nutra Vertical) в Affscale , $3000–5000 , віддалено B2B Account Manager в Akurateco , Київ, за кордоном, віддалено Акаунт-менеджер (фін",
     "region": "Україна",
     "first_seen": "2026-09-08T05:03:15.822191+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.dou.ua/companies/weltrade/vacancies/372118/": {
     "title": "Technical Support Engineer",
@@ -5096,7 +5099,7 @@
     "description": "Compensation: $600–1200 . Technical Support Engineer в Weltrade, за кордоном, віддалено | DOU Join us for a new WAWTech Live workshop with Ivan Lapa, Senior UI Engineer at Netflix 📅 September 10, 19:00 EEST × Вхід і реєстрація Вакансії Перша робота Тренди Компанії Рейтинг Топ-50 Відгуки Додати компанію Weltrade Всі вакансії компанії Weltrade is a leading international Fintech innovator with over two decades of stability and trust. Established in 2006, we are committed to providing secure, efficient, and accessible trading solutions in the global FX and online trading market. Всі вакансії / Support / за кордоном 4 вересня 2026 Technical Support Engineer за кордоном, віддалено About Weltrade Weltrade is a leading international Fintech company with over two decades of stability and trust in the global FX and online trading industry. Established in 2006, we operate as a truly global, remote-first organization, bringing together high-performing professionals across multiple time zones. We focus on building scalable trading infrastructure and high-impact commercial ecosystems that drive sustainable client acquisition worldwide. At Weltrade, we value ownership, autonomy, and measurable impact. About your Role We are looking for a Technical Support Engineer (L2) to join our 24/7 infrastructure monitoring team. You will be responsible for monitoring system health, responding to alerts, managing incidents, and maintaining documentation for a distributed VPS infrastructure. The team operates on a continuous three-shift schedule, and the role requires flexibility to work morning, day/evening, or night shifts on a monthly rotation. You Have — Experience working with Zabbix and Grafana — processing, analyzing, and responding to alerts — Experience monitoring alerts through Google Chat and Telegram — Hands-on experience supporting VPS servers at various levels — Experience working with both Windows and macOS — Understanding of incident management principles — Confident working in Jira — investigating, tracking, and closing tasks — Experience maintaining or updating a knowledge base (Confluence) — English level B1 or higher — for written communication and occasional calls with English-speaking cross-functional teams — Readiness to work a flexible 5/2 shift schedule, including night or morning hours — Clear and articulate communication skills — close daily coordination with other teams is required — Analytical mindset — ability to dig into the root cause of an issue Responsibilities — Monitor infrastructure health via Zabbix and Grafana; process, analyze, and respond to alerts — Track and act on alerts received through Google Chat and Telegram — Support and troubleshoot VPS servers across different levels of complexity — Follow incident management processes — investigate, track, and close tasks in Jira — Maintain and update the knowledge base in Confluence — Communicate with cross-functional English-speaking teams via written channels and occasional calls — Work rotating shifts (morning / day-evening / night) every month, following the team schedule Good to have — Ability to read and analyze logs — Basic experience in QA / testing Working Conditions — Format: 100% remote (candidate’s time zone matters; location is negotiable) — Schedule: 5/2 with floating days off, on a continuous 24/7 three-shift rotation — Shifts are fixed every month (one month mornings, one month days, one month nights) — Shift hours (EET time): Morning: 06:00 — 14:00 Day/Evening: 14:00 — 22:00 Night: 22:00 — 06:00 — Night shifts are compensated with a +30% pay premium What We Offer — Remote-First Flexibility: We operate fully remotely and offer a global and cross-functional environment. — Ownership & Impact: A chance to own your ideas and make a measurable impact on Weltrade’s global growth. — Wellbeing: A balanced leave allowance (paid vacation, sick leave, public holidays, etc.) and a supportive culture that values every employee. Recruitment Process Application Review ",
     "region": "Україна",
     "first_seen": "2026-09-08T05:03:15.822191+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.dou.ua/companies/playson/vacancies/370066/": {
     "title": "Technical Support Engineer — night shifts",
@@ -5105,7 +5108,7 @@
     "description": "Compensation: $600–1200 . Technical Support Engineer — night shifts в Playson, за кордоном, віддалено | DOU Join us for a new WAWTech Live workshop with Ivan Lapa, Senior UI Engineer at Netflix 📅 September 10, 19:00 EEST × Вхід і реєстрація Вакансії Перша робота Тренди Компанії Рейтинг Топ-50 Відгуки Додати компанію Playson Всі вакансії компанії 🤘Playson is a B2B game provider with 12+ years of experience on the market.  Since 2012, we have ambitiously developed worldwide recognition in the industry. Nowadays, our main focus is on regulated European markets, and we operate in 27+ different jurisdictions. Всі вакансії / Support / за кордоном 17 серпня 2026 GameDev Technical Support Engineer — night shifts за кордоном, віддалено Due to dynamic growth, we are excited to invite a Technical Support Engineer for night shifts with a relevant background to apply for the role in our Integration Department. Technical Support Engineers at Playson are responsible for a full customer support for our current partner’s integrations. To succeed in the advertised role, you have: ready for night shifts only Familiarity with monitoring tools (e.g., Elastic, Dynatrace, Grafana) A proactive, client-focused attitude and strong work ethic Strong problem-solving and troubleshooting skills Effective communication skills, both written and verbal At least Upper-Intermediate English (written and spoken) Eagerness to learn quickly and grow technically Working knowledge of XML and JSON Basic experience with Git and version control workflows Understanding of API protocols (e.g., REST) Awareness of the software development lifecycle (SDLC) Would be beneficial to know: Familiarity with the iGaming industry Hands-on software development experience with Java, C#, Node.js, or TypeScript Experience with cloud infrastructure (AWS, Azure, or GCP) and Kubernetes Experience using Jira and the Atlassian stack Basic understanding of QA processes and test environments Previous experience in a technical support, DevOps, or site reliability role Practical experience with monitoring systems Exposure to Agile frameworks (Scrum or Kanban) and basic project management skills The importance of the role is in: Understand and analyse issues, be able to find appropriate solutions Integration protocol testing Second-level customer support Delivering excellent customer service with 5 shifts a week What you get in return: Competitive Salary: We offer a competitive salary in EUR, subject to annual performance reviews Quarterly Bonuses: Benefit from a transparent and systematic quarterly bonus system Flexible Schedule: We offer a flexible work schedule to accommodate your needs Remote Work Option: Choose to work remotely, providing greater flexibility and comfort Medical Insurance: Receive comprehensive medical insurance for both you and a significant other Financial Support for Life Events: We provide financial support during special life events Unlimited Paid Vacation: Enjoy unlimited paid vacation leave Unlimited Paid Sick Leave: Take unlimited paid sick leave whenever necessary Professional Development: Get reimbursement for professional courses for your development The recruitment process looks like this: 1. HR interview (30 min) 2. Technical interview (60 min) 3. Final Interview (60 min) Looking forward to welcoming you to the iGaming world! Ambitious goals require a quick ability to manoeuvre through changes in the world. Playson is all about that. 🚀 Join us today! By submitting your application, you acknowledge that your personal data will be processed in accordance with our Privacy Policy . Facebook Twitter LinkedIn Відгукнутися на вакансію Правила відгуків Гарячі Support вакансії Director of support services в Nova Digital , Київ Recovery manager в Galaktica , Київ, Львів, Одеса, Ларнака (Кіпр), віддалено UAV Support Engineer | Інженер технічної підтримки в Warbirds , Київ Technical Support Specialist (IT) в UniTalk , $600–1200 , Київ Founders Associate | Talent Acquisition ",
     "region": "Україна",
     "first_seen": "2026-09-08T05:03:15.822191+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.dou.ua/companies/mcpk/vacancies/370956/": {
     "title": "Staff Backend Engineer / FHIR & Integrations Specialist (EU based)",
@@ -5114,7 +5117,7 @@
     "description": "Compensation: $2200–3200 . Staff Backend Engineer / FHIR & Integrations Specialist (EU based) в mcpk., за кордоном, віддалено | DOU Join us for a new WAWTech Live workshop with Ivan Lapa, Senior UI Engineer at Netflix 📅 September 10, 19:00 EEST × Вхід і реєстрація Вакансії Перша робота Тренди Компанії Рейтинг Топ-50 Відгуки Додати компанію mcpk. Всі вакансії компанії mcpk. is connecting the best СЕЕ software engineers with IT businesses from Germany, Austria, and Switzerland. What makes us different from other IT companies? First of all — our philosophy! We believe that we have two kinds of customers — the businesses and the developers. So we treat each developer as our customer! Всі вакансії / Node.js / за кордоном 25 серпня 2026 Staff Backend Engineer / FHIR & Integrations Specialist (EU based) за кордоном, віддалено mcpk. is connecting the best European software engineers and tech leaders with IT businesses from Germany, Austria, and Switzerland. What makes us different from other IT companies? First of all, our philosophy! We believe that we have two kinds of customers: businesses and professionals. So we treat each candidate as our customer! Our cooperation is based on one simple principle: you work directly for the company from the DACH region. mcpk. , in turn, ensures that everything is functioning well and that you have everything needed for your work, like hardware, insurance, contracts, etc. We do not interfere in your daily work as we are big fans of simplicity and transparency. We are seeking an exceptional Staff Backend Engineer / FHIR & Integrations Specialist to become the foundational technical leader for a rapidly expanding Digital Health scale-up in Germany. Your core mandate is to guide complex architectural transitions (monolith to services), own the integration domain, and act as the technical gatekeeper for quality and vendor delivery. Why This is a Rare Play: The platform is already live, generating real revenue, and actively used by a massive patient base across a hybrid primary care network. With a Series A closing soon (backed by a top-tier European VC), you will join at the ground floor, laying the technical foundation for a nationwide footprint of 100+ physical clinics and a hospital. You will be a key builder of a European “Lighthouse” project that sets the standard for data governance, system of record, and the safe use of AI in regulated healthcare. There is a clear, strategic trajectory to execute a highly lucrative exit within the next 3 to 4 years, offering significant career and financial upside. Your Tasks & Responsibilities: Architect and lead the decomposition of a monolithic system into modular services using strangler-fig patterns, schema-per-domain migrations, and contract testing. Comfortable owning and running an ADR process: writing decision records, chairing the review, saying no to a proposed extraction that isn’t ready. Hold external vendors accountable to exit criteria, including pushing back on the vendor’s own CEO/Head of Engineering when a phase isn’t actually done. Take full ownership of the integration domain, building seamless and scalable connections between the core platform and external German healthcare infrastructure. Design and implement secure, DSGVO-native architectural solutions that support the platform’s transition from an internal tool to a commercially licensable B2B SaaS. Your Qualifications: Senior/staff-level backend engineering experience, with a strong background in Node.js/TypeScript and PostgreSQL/Prisma (experience with NestJS is a bonus). Hands-on experience actually decomposing a monolith into services, schema-per-domain migrations, contract testing, and strangler-fig patterns. Prior experience in a regulated or healthcare-adjacent domain, with hands-on work in healthcare interoperability standards (FHIR, HL7). Working knowledge of authorization/RBAC design, including patient data access, consent, and audit logging. Enough seniority and independence t",
     "region": "Україна",
     "first_seen": "2026-09-08T05:03:15.822191+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.dou.ua/companies/add-talent-solutions/vacancies/370691/": {
     "title": "PSP/QA Integration Specialist",
@@ -5123,7 +5126,7 @@
     "description": "Compensation: $2000–2500, . PSP/QA Integration Specialist в Add Talent Solutions, $2000–2500, за кордоном, віддалено | DOU Join us for a new WAWTech Live workshop with Ivan Lapa, Senior UI Engineer at Netflix 📅 September 10, 19:00 EEST × Вхід і реєстрація Вакансії Перша робота Тренди Компанії Рейтинг Топ-50 Відгуки Додати компанію Add Talent Solutions Всі вакансії компанії As a progressive digital specialist recruitment agency, our commitment to remotely pairing top-tier digital talent with international organizations in the UK and the world is unmatched. Всі вакансії / QA / за кордоном 21 серпня 2026 PSP/QA Integration Specialist за кордоном, віддалено $2000–2500 PSP/QA Integration Specialist We are looking for an experienced and detail-oriented PSP/QA Integration Specialist to own the quality and reliability of our payment integrations. The ideal candidate combines a strong QA/testing background with deep knowledge of payment methods and PSP (Payment Service Provider) integrations, and will play a key role in validating and certifying payment methods across our Tier 1 gambling brands. Requirements 3+ years of QA/testing experience, including hands-on work testing payment systems or PSP integrations Strong understanding of payment methods, payment flows, and PSP integration processes (cards, e-wallets, bank transfers, crypto, local payment methods, etc.) Strong analytical skills — able to trace transaction flows, identify discrepancies, and troubleshoot integration issues end-to-end Solid QA methodologies knowledge (test planning, test case design, defect lifecycle) Java core knowledge Tools and technologies: Maven/Gradle, TestNG, REST Assured, Git, SQL (PostgreSQL) CI/CD basic understanding Performance & Observability: k6/JMeter, Prometheus/Grafana, Kibana/Sentry, distributed tracing Experience working in a microservices architecture Familiarity with iGaming industry payment specifics and Tier 1 licensing/compliance requirements is a strong plus Responsibilities Test and validate new and existing payment methods and PSP integrations across Tier 1 brands, reporting results and flagging issues Design and implement test strategies and automation frameworks specifically for payment/PSP flows Build and maintain test scripts, test suites, and libraries covering functional and non-functional payment integration testing Analyze transaction data and payment flow quality to proactively identify issues and drive improvements Maintain and improve CI/CD pipelines related to payment integration testing Maintain fully integrated test automation covering the infrastructure layer of payment-related client applications Collaborate closely with Payments, Product, Compliance, and Engineering teams to validate new PSP partnerships and payment method launches Identify new tools and approaches to improve automation coverage for payment testing Ensure all payment integrations meet regulatory, security, and Tier 1 brand compliance standards before go-live Why You Should Join Us: Competitive Compensation: Enjoy a highly competitive salary and performance-based bonuses Remote Flexibility: Work from anywhere as part of an international and geographically diverse team Professional Growth: We invest in your career development with ample opportunities for learning and growth Exciting Challenges: Join a forward-thinking, fast-growing company at the forefront of the iGaming industry Facebook Twitter LinkedIn Відгукнутися на вакансію Правила відгуків Гарячі QA вакансії QA Engineer (Remote) в Bookmap , до $2300 , віддалено Automation QA Engineer в Kevych Solutions , Львів Automation QA/тестувальник до IT-підрозділу ЗСУ в 12-й ОЦСП Всі QA вакансії Схожі вакансії QA Automation Engineer (C++) в CHI Software , віддалено Middle Software Development Engineer in Test в Vector Software , Львів, віддалено Middle/Senior Product QA (Manual) — AI Product в Genesis , Київ, віддалено QA Automation Engineer — Backend Focused, Full Stack Automation в Hiringwise , віддалено Q",
     "region": "Україна",
     "first_seen": "2026-09-08T05:03:15.822191+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://stripe.com/jobs/search?gh_jid=8080454": {
     "title": "Integration Engineer, Metronome",
@@ -5133,7 +5136,7 @@
     "location": "Remote",
     "posted_at": "2026-09-04T20:07:22+00:00",
     "first_seen": "2026-09-08T05:03:15.822191+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.lever.co/jobgether/0f55fc91-6e01-4954-8ad0-ba0ae58fdfe5": {
     "title": "Account Manager",
@@ -6246,7 +6249,7 @@
     "location": "NYC (SoHo)",
     "posted_at": "2026-09-09T16:15:13.588000+00:00",
     "first_seen": "2026-09-10T02:35:46.723504+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobicy.com/jobs/150355-senior-account-manager-emea": {
     "title": "Senior Account Manager - EMEA",
@@ -6439,7 +6442,7 @@
     "description": "Digital Account Manager в Universal Parallel – Djinni Помилка Відкрити в застосунку Djinni As a Digital Growth Account Manager , you will own the relationship with newly acquired clients, ensuring a seamless onboarding experience, successful campaign launches, outstanding communication, and long-term account growth. This role combines strategic consulting, client success, operational excellence, and business development. The ideal candidate enjoys building relationships, loves structured processes, communicates proactively, and can confidently coordinate multiple stakeholders without losing attention to detail. What You’ll Do Client Success & Relationship Management Become the primary point of contact throughout the client lifecycle Lead onboarding and campaign kickoff meetings Build trusted long-term client relationships through proactive communication Ensure every client always knows the current project status Maintain high client satisfaction Campaign Launch & Delivery Coordinate media planning and campaign setup Ensure campaigns launch on time and according to agreed KPIs Coordinate reporting schedules and campaign documentation Strategic Growth Identify opportunities for upselling and expanding services Develop long-term account growth strategies Reporting & Analytics Prepare weekly and monthly client reports Present campaign performance and business insights Track account health and delivery KPIs What We’re Looking For: 3+ years of Digital Account Management experience Agency experience is highly preferred Experience managing multiple client accounts simultaneously Experience with international clients Middle East market experience is a strong advantage Technical Skills Strong understanding of: Google Ads,Meta Ads Familiarity with digital media planning Soft Skills We’re looking for someone who is: Highly organized and detail-oriented Proactive rather than reactive Excellent at stakeholder management Confident communicating with senior client representatives Able to simplify complex information Process-driven and systematic Comfortable making decisions and taking ownership Language Requirements English — Upper-Intermediate (B2+) or higher Why Join Universal Parallel? Remote-first culture: Work from anywhere while collaborating with an international team. Warsaw Office: Prefer an office environment? You’re welcome to work from our Warsaw office. Career Growth: Work directly with experienced Digital leaders and gain exposure to international brands. Real Ownership: You’ll influence not only client success but also how our agency operates and scales. Вимоги до володіння мовами Англійська B2 – Вище середнього Опубліковано 7 серпня · Оновлено 16 вересня 195 переглядів · 65 відгуків Активність рекрутера: Середня Відповідали 4 хвилини тому Подивитись статистику кандидатів що відгукнулись на цю вакансію 👀 Огляд кандидатів Для відгуку на цю та інші вакансії на Djinni увійдіть або зареєструйтеся . від\n        2 років досвіду Також розглядаємо з досвідом 1 рік Тільки віддалено Країни Європи та Україна Країни, де розглядаємо кандидатів Англійська B2 – Вище середнього Account Manager Зайнятість: Fulltime Домен: Advertising / Marketing Агенція Є тестове завдання Активність рекрутера: Середня Відповідали 4 хвилини тому 📊 Середня зарплатна вилка схожих вакансій у аналітиці → Завантаження... We use cookies to improve your experience. Learn more Okay",
     "region": "Україна",
     "first_seen": "2026-09-16T09:01:28.345660+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.dou.ua/companies/uvik-software/vacancies/373529/": {
     "title": "Technical Support Engineer (Weekdays)",
@@ -6814,7 +6817,7 @@
     "location": "Europe",
     "posted_at": "2026-09-19T13:19:21+00:00",
     "first_seen": "2026-09-20T02:52:03.139413+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobicy.com/jobs/153650-technical-account-manager-zephr": {
     "title": "Technical Account Manager, Zephr",
@@ -6824,7 +6827,7 @@
     "location": "Bulgaria,  Italy",
     "posted_at": "2026-09-19T12:43:59+00:00",
     "first_seen": "2026-09-20T02:52:03.139413+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.dou.ua/companies/buketexpress/vacancies/373921/": {
     "title": "AI Integration Specialist / LLM Engineer (Gemini, Месенджери, 3CX / SIP)",
@@ -6890,7 +6893,7 @@
     "description": "Data Integration Specialist в ORIL, Львів, віддалено | DOU Маркетологи, зустрічаємося офлайн!🤩 DOU Marketing Day — 30 жовтня в Києві! × Вхід і реєстрація Вакансії Перша робота Тренди Компанії Рейтинг Топ-50 Відгуки Додати компанію ORIL Всі вакансії компанії ORIL is a custom software development company dedicated to simplifying digital transformation. Our expertise lies in devising advanced tech solutions that enhance business processes and drive growth. We’re committed to delivering impactful results that positively shape the businesses we work with. Всі вакансії / Data Engineer / Львів 22 вересня 2026 Data Integration Specialist Львів, віддалено ORIL is looking for a Data Integration Specialist to lead and manage the data integration architecture of our AI-driven facilities management platform. The ideal candidate will possess strong expertise in optimizing data pipelines, resolving intricate integration issues, and ensuring uncompromising data quality. About the project A platform shaping the future of facilities management by connecting buildings, occupants, service providers, and operatives. It streamlines soft FM services so property managers and service providers can plan, source, and manage their portfolios more efficiently and at lower cost, delivering real-time transparency across every site. The ecosystem spans FM service workflows, IoT-connected building sensors, third-party FM platforms, mobile and web clients, and event-driven microservices. What will you do? Design, build, and maintain scalable data pipelines and integrations across internal microservices, third-party FM platforms, IoT sensors, and external APIs. Design and implement ETL/ELT pipelines on Azure Databricks, building on Delta Lake and Lakehouse architecture to ingest, model, transform, and serve structured and semi-structured data. Define and own the data modelling layer — schemas and domain models that keep data structured and validated before ingestion, avoiding raw data sprawl. Work with event-driven architectures (message queues, pub/sub, event streams) to enable real-time data propagation and workflow automation. Define and enforce data mapping, transformation rules, and validation standards across all data flows. Collaborate with backend engineers, product managers, and data stakeholders to translate integration requirements into robust solutions. Monitor integration health, set up alerting, and diagnose pipeline failures to maintain high availability and data fidelity. Document integration patterns, data contracts, and API specifications for the wider engineering team. Contribute to platform-wide data quality, observability, and reliability standards. What are we looking for? 4+ years of professional experience in a data integration, data engineering, or backend integration role. Hands-on experience with Azure Databricks for data engineering, pipeline orchestration, and large-scale transformations. Strong proficiency in Python for data engineering, pipeline development, and transformation logic. Strong understanding of data modelling, schema design, and data transformation patterns. Experience with relational and/or NoSQL databases (PostgreSQL, Cosmos DB, or similar). Understanding of distributed systems, microservices architectures, and cloud-native environments. High attention to detail and a strong sense of ownership over data quality and integration reliability. Comfort working across engineering, product, and business teams. English: Upper-Intermediate+ Nice to have: Experience with Azure Service Bus or similar event-driven messaging platforms (pub/sub, message queues, async workflows). Exposure to real-time streaming data and sensor telemetry workflows. Knowledge of data governance, lineage tracking, or observability tooling. We offer: Competitive compensation; Accounting support services; Flexibility to work from anywhere (fully remotely or in our office in Lviv); Comprehensive day-off policy, including public holidays and special even",
     "region": "Україна",
     "first_seen": "2026-09-23T02:51:12.096064+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobicy.com/jobs/153898-technical-support-specialist-hospitality-german-speaking-all-genders": {
     "title": "Technical Support Specialist (Hospitality) German speaking- all genders",
@@ -6987,7 +6990,7 @@
     "description": "Compensation: $1500–3000 . IT Support Engineer L2/L3 (BPMS system) в Kyivstar.Tech, Київ, віддалено | DOU Маркетологи, зустрічаємося офлайн!🤩 DOU Marketing Day — 30 жовтня в Києві! × Вхід і реєстрація Вакансії Перша робота Тренди Компанії Рейтинг Топ-50 Відгуки Додати компанію Kyivstar.Tech Всі вакансії компанії Kyivstar.Tech — нова IT-компанія, резидент Дія City. Компанію створено в січні 2023. Всі вакансії / Support / Київ 23 вересня 2026 IT Support Engineer L2/L3 (BPMS system) Київ, віддалено Команда Київстар.Тех у пошуку нового колеги або коліжанки на роль IT Support Engineer L2/L3 (BPMS system). Ця роль дозволить тобі розвиватися в DevOps-культурі, задіювати та вдосконалювати навички кодування, автоматизації та адміністрування сучасних ІТ-рішень. Про нас Kyivstar.Tech — українська гібридна ІТ-компанія, резидент Дія.City. Ми є дочірньою компанією Київстар, одного з найбільших українських операторів зв’язку. Наша місія — змінювати життя в Україні та у світі, створюючи технологічні рішення і продукти, що реалізують потенціал компаній і потреби користувачів. Понад 700 спеціалістів KS.Tech щодня працюють у різних сферах: мобільні та вебрішення, а також проєктування, розробка, підтримка та технічне обслуговування високопродуктивних систем і сервісів. Ми віримо в інновації, що дійсно приносять якісні зміни, та постійно кидаємо виклик традиційним підходам і рішенням. Кожен з нас є адептом підприємницької культури, яка дозволяє ніколи не зупинятися, розвиватися і створювати нове. Що ти будеш робити Займатись технічною підтримкою системи BPMS (Business Process Management System) Виконувати адміністративні роботи в системі (усунення помилок, інцидентів, відновлення роботи системи, виконання заявок користувачів) Конфігурувати систему BPMS Створювати оперативні звіти з БД (СУБД MS SQL) Розробляти макрокоманди необхідні для автоматизації процесів в системі Налаштовувати метрики моніторингу, контролювати виконання резервування системи Встановлювати та тестувати нові патчі для системи Взаємодіяти з розробниками системи, контролювати виконання поставлених завдань розробникам системи Брати участь в проєктах з розвитку системи Яка кваліфікація та досвід необхідні Не менше 3 років в галузі IT Знання принципів функціонування автоматизованих систем управління підприємством Просунуті навички роботи з Linux OS (написання bash скриптів) Навички роботи з Docker Навички володіння PL/SQL (написання скриптів, процедур) Навички конфігурування системи BPMS (як перевага) Що ми пропонуємо Офіс або ремоут — вирішувати тобі Ремоут онбординг Перформанс бонуси для всіх (річні чи квартальні — залежить від ролі) Навчаємо працівників: є безліч внутрішніх ресурсів і програм від партнерів, власна бібліотека Страхування здоров’я і життя для працівників Wellbeing-програма та корпоративний психолог Компенсація витрат на мобільний зв’язок Київстар Facebook Twitter LinkedIn Відгукнутися на вакансію Правила відгуків Гарячі Support вакансії UAV Support Engineer | Інженер технічної підтримки в Warbirds , Київ Founders Associate | Talent Acquisition в Occam Industries , $1500–3000 , Київ Customer Support Representative в Helpware , від $800 , віддалено Director of support services в Nova Digital , Київ Junior Technical Support Manager в UniTalk , $600–900 , Київ Customer Support Specialist в HealthJoy , $900–1050 , віддалено Всі Support вакансії Схожі вакансії L3 Support Engineer в Glorium Technologies , Київ, Краків (Польща), Пафос (Кіпр), віддалено Customer Support Lead в OBRIO , Київ, Львів, Варшава (Польща), віддалено Керівник відділу сервісу та технічної підтримки в NETRONIC , Київ Middle Support Engineer (ERP systems) в Kyivstar.Tech , Київ, віддалено Customer Success Manager | EN в Forward® , $1000–1500 , Kalynivka, Київ, віддалено Customer / Technical Support Specialist в Corefy , Київ Керівник служби технічної підтримки (Head of Technical Support) в ІнфоПлюс , Київ Applications Administrator в Quipu , $1200 , Київ, віддалено Всі схожі вакансії Скористайтесь акаун",
     "region": "Україна",
     "first_seen": "2026-09-23T09:03:07.418671+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobicy.com/jobs/149574-linux-platform-integration-ubuntu-systems-senior-engineer": {
     "title": "Linux Platform Integration - Ubuntu Systems Senior Engineer",
@@ -6997,7 +7000,7 @@
     "location": "Anywhere",
     "posted_at": "2026-09-23T04:00:33+00:00",
     "first_seen": "2026-09-23T09:03:07.418671+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://job-boards.greenhouse.io/algolia/jobs/6206200004": {
     "title": "Account Manager - Dutch speaking ",
@@ -7007,7 +7010,7 @@
     "location": "Remote - Netherlands",
     "posted_at": "2026-09-23T08:56:53+00:00",
     "first_seen": "2026-09-23T09:03:07.418671+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.lever.co/jobgether/0683ab18-b735-4012-b7b7-4e48ef165a16": {
     "title": "Senior Accountant - Technical Accounting",
@@ -8029,7 +8032,7 @@
     "description": "Technical Support Consultant (German) в 3Shape Ukraine, віддалено | DOU ШІ в дронах уже не майбутнє. Розберемо, що реально працює сьогодні → × Вхід і реєстрація Вакансії Перша робота Тренди Компанії Рейтинг Топ-50 Відгуки Додати компанію 3Shape Ukraine Всі вакансії компанії 3Shape develops 3D scanners and software solutions that enable dental and hearing professionals to treat more people, more effectively. Our products are market leading innovative solutions that make a real difference in the lives of both patients and dental professionals around the world. Всі вакансії / Support / віддалено 29 вересня 2026 Technical Support Consultant (German) віддалено We’re looking for a Customer Support Consultant to join our dynamic, multicultural team — someone who shares our passion for solving problems and building strong relationships with our reselling partners and end-users worldwide. Areas of responsibility: Provide excellent, efficient technical support on 3Shape hardware (3D scanners) and software — via online sessions, phone, email, and occasional on-site events Manage support cases: gather all relevant information from customers according to company procedures, and record it in the company’s CRM Collaborate with other departments and escalate customer feedback as needed To succeed in this role, you should have: A customer-oriented approach Strong communication skills — the ability to ask the right questions and truly listen Strong verbal and written German (B2 level and higher) Upper-Intermediate English or higher (used for internal communication) Problem-solving and logical thinking skills A results-driven, stress-resistant mindset A genuine drive for self-development and continuous learning Analytical, multitasking, and empathetic skills Being the part of us means: Meaningful work that helps to change the future of dentistry Work in a unique professional, friendly and supportive environment Constant professional growth and development A healthy work-life balance Comprehensive benefits incl. 24 working days of annual vacation; medical insurance; paid sick leaves and child sick leaves; maternity and paternity leaves etc Occasional business trips to Western Europe Opportunity to become a part of the success that 3Shape has created over the past 25 years. Facebook Twitter LinkedIn Відгукнутися на вакансію Правила відгуків Гарячі Support вакансії Customer Support Representative в Helpware , від $800 , віддалено Customer Support Team Lead в Growe , віддалено Всі Support вакансії Схожі вакансії Junior Customer Support Consultant (German) в 3Shape , віддалено Customer Support Agent (GDS/Ticketing Experience Required) в DRCT , віддалено L1/L2 Support Specialist в TrueLabel , Лісабон (Португалія), віддалено IT Support Engineer в Kyivstar.Tech , Київ, віддалено FL Support Team Lead в SEOBROTHERS , за кордоном, віддалено Middle Technical Support Specialist (Rotating shift schedule, including weekends. Shifts are from 4 p.m.—1 a.m. and 1 a.m.—9 a.m) в Agiliway , Львів, Чернівці, віддалено Junior Technical Support Engineer в ICONIC21 , віддалено Customer Support Agent в Kolo Wallet , віддалено Всі схожі вакансії Скористайтесь акаунтом × Google LinkedIn GitHub Facebook Увійти за поштою . Вхід Реєстрація Відновлення пароля Пошта Пароль Неправильний пароль Увійти Реєстрацію по email закрито Пошта Скинути пароль Ви неправильно вказали свою пошту Або скористайтесь акаунтом . я згоден(-на) з умовами використання сайту і політикою конфіденційності .",
     "region": "Україна",
     "first_seen": "2026-09-30T03:29:45.573132+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.lever.co/jobgether/4edba0de-1d93-406b-bcf3-544ae21e47dc": {
     "title": "Account Manager (Email Marketing)",
@@ -8915,7 +8918,7 @@
     "location": "Remote",
     "posted_at": "2026-10-13T00:40:11+00:00",
     "first_seen": "2026-10-13T13:21:35.120259+00:00",
-    "link_checked_at": "2026-10-25T02:43:00.176500+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.lever.co/netomi/bd9d56b2-4ba4-4454-9e91-ab7ab63c110f": {
     "title": "Product Support Engineer (AI Platform)",
@@ -8925,7 +8928,7 @@
     "location": "Gurugram / Gurugram",
     "posted_at": "2026-10-13T06:31:39.351000+00:00",
     "first_seen": "2026-10-13T13:21:35.120259+00:00",
-    "link_checked_at": "2026-10-25T02:43:00.176500+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://www.arbeitnow.com/jobs/companies/haut-ai/remote-enterprise-account-manager-168771": {
     "title": "Enterprise Account Manager",
@@ -9763,7 +9766,7 @@
     "location": "Anywhere",
     "posted_at": "2026-10-20T03:25:16+00:00",
     "first_seen": "2026-10-20T09:05:07.626306+00:00",
-    "link_checked_at": "2026-10-25T02:43:00.176500+00:00"
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.lever.co/jobgether/0ae22137-b5b6-44f1-a9d7-4ad9ff11c08f": {
     "title": "Channel Account Manager",
@@ -10813,7 +10816,8 @@
     "description": "Remote (worldwide) Freelance | ~60 hours/month We are an independent German digital marketing agency with proprietary technology. hurra.ai is our AI product, a growing platform that sits at the intersection of marketing intelligence and artificial intelligence. We are expanding the small, focused team building it. We are looking for an experienced freelance full-stack Django developer to join us on a part-time basis and contribute to the continued development of hurra.ai. Tasks Build and extend features across the full stack of hurra.ai, working primarily in Django with a lightweight frontend layer using HTMX, Alpine.js and Tailwind CSS. Integrate third-party APIs and AI services, including LLM providers such as OpenAI, Anthropic and OpenRouter, as well as marketing data sources. Write clean, maintainable Python code and contribute to a well-structured, evolving codebase. Work independently in a remote environment, manage your own workload, and communicate clearly with a small, senior team. Bring your own ideas and experience to help shape how we build and improve the product. Requirements What you bring 5 years of hands-on experience as a full-stack developer, preferably with Django as your primary framework. Solid Python skills and a track record of building and shipping real products. Experience building AI-powered products using LangChain, LangSmith, OpenAI, OpenRouter or Anthropic APIs. Familiarity with Docker and confident Git workflow management. A working style that c",
     "location": "Stuttgart",
     "posted_at": "2026-10-28T13:05:01+00:00",
-    "first_seen": "2026-10-29T03:54:22.872870+00:00"
+    "first_seen": "2026-10-29T03:54:22.872870+00:00",
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://himalayas.app/companies/peak-one-gmbh/jobs/key-account-manager-100-remote?utm_source=api": {
     "title": "Key Account Manager - 100% Remote",
@@ -10822,7 +10826,8 @@
     "description": "über die position Als erfahrener Key Account Manager bist du auf der Suche nach einem Unternehmen, bei dem du dein Potenzial voll ausschöpfen kannst und das ohne Standortbindung , dafür mit voller Flexibilität? Deine Ziele sind hochgesteckt? Dann werde jetzt Teil von Peak One! Als wachstumsstarke Personalberatung sind wir auf der Suche nach kommunikativen, ehrgeizigen und engagierten neuen Kolleg:innen für unser großartiges Team. Für ambitionierte Berater stehen dir in unserem Key Account-Bereich alle Türen offen – vom Executive bis zum Director! Unsere Themenschwerpunkte liegen auf den Bereichen IT, SAP, Healthcare, Finance und Property & Construction . Als Berater hast auch du hier die Möglichkeit, dich in einem dieser Themen zu spezialisieren und DER Marktkenner zu werden. deine benefits Attraktive Vergütung: Überdurchschnittliches Fixgehalt mit unbegrenzten Provisionsmöglichkeiten. Firmenwagen: Ein Firmenwagen, der dir sowohl beruflich als auch privat maximale Flexibilität und Komfort bietet. Erfolgreicher Einstieg & Karriereentwicklung: Unser Onboarding macht dich schnell startklar. Deine Karriere ist transparent, planbar und leistungsorientiert – Einsatz zählt, nicht Dauer. Starker Teamspirit: Erlebe inspirierende Team-Events und exklusive Reisen für unsere Top-Performer. New Work im FOUR Frankfurt: Arbeite in einem der modernsten Skyline-Gebäude mit Dachterrasse & Foodhall. Mobilität inklusive: Mit unserem Jobticket bist du flexibel und kostengünstig unterwegs. Weiterb",
     "location": "Germany",
     "posted_at": "2026-10-29T01:56:16+00:00",
-    "first_seen": "2026-10-29T03:54:22.872870+00:00"
+    "first_seen": "2026-10-29T03:54:22.872870+00:00",
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.lever.co/jobgether/01857be0-6999-4eea-852d-e7c27985811d": {
     "title": "Senior PHP/Symfony Engineer — Integrations & Automation",
@@ -10831,7 +10836,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior PHP/Symfony Engineer — Integrations & Automation based in Netherlands. Join a remote engineering team responsible for building and scaling a critical business automation platform that connects eCommerce, ERP, CRM, and sales systems. In this senior role, you will help shape the platform’s architecture, improve data synchronization, and ensure reliable operations across essential business workflows. You will work with an existing developer to deliver maintainable integrations, robust asynchronous processing, and effective production monitoring. The role combines backend engineering with API integrations, browser automation, AI-powered product data enrichment, and React-based internal tools. Your contributions will directly support eCommerce and sales operations while improving efficiency, data quality, and system reliability. This is a full-time remote opportunity open across Europe, with working hours that overlap with the team between 10:00 and 19:00 Paris time.",
     "location": "Netherlands / Netherlands",
     "posted_at": "2026-10-28T08:55:07.261000+00:00",
-    "first_seen": "2026-10-29T03:54:22.872870+00:00"
+    "first_seen": "2026-10-29T03:54:22.872870+00:00",
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.lever.co/jobgether/2f3b92e0-96a3-46e7-ac04-30c880fef0fc": {
     "title": "Senior PHP/Symfony Engineer — Integrations & Automation",
@@ -10840,7 +10846,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior PHP/Symfony Engineer — Integrations & Automation based in Switzerland. Join a remote engineering team responsible for building and scaling a critical business automation platform that connects eCommerce, ERP, CRM, and sales systems. In this senior role, you will help shape the platform’s architecture, improve data synchronization, and ensure reliable operations across essential business workflows. You will work with an existing developer to deliver maintainable integrations, robust asynchronous processing, and effective production monitoring. The role combines backend engineering with API integrations, browser automation, AI-powered product data enrichment, and React-based internal tools. Your contributions will directly support eCommerce and sales operations while improving efficiency, data quality, and system reliability. This is a full-time remote opportunity open across Europe, with working hours that overlap with the team between 10:00 and 19:00 Paris time.",
     "location": "Switzerland / Switzerland",
     "posted_at": "2026-10-28T08:56:16.839000+00:00",
-    "first_seen": "2026-10-29T03:54:22.872870+00:00"
+    "first_seen": "2026-10-29T03:54:22.872870+00:00",
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.lever.co/jobgether/5133b115-4b16-413d-9c4a-b09f1fa6f4bc": {
     "title": "Senior PHP/Symfony Engineer — Integrations & Automation",
@@ -10849,7 +10856,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior PHP/Symfony Engineer — Integrations & Automation based in Spain. Join a remote engineering team responsible for building and scaling a critical business automation platform that connects eCommerce, ERP, CRM, and sales systems. In this senior role, you will help shape the platform’s architecture, improve data synchronization, and ensure reliable operations across essential business workflows. You will work with an existing developer to deliver maintainable integrations, robust asynchronous processing, and effective production monitoring. The role combines backend engineering with API integrations, browser automation, AI-powered product data enrichment, and React-based internal tools. Your contributions will directly support eCommerce and sales operations while improving efficiency, data quality, and system reliability. This is a full-time remote opportunity open across Europe, with working hours that overlap with the team between 10:00 and 19:00 Paris time.",
     "location": "Spain / Spain",
     "posted_at": "2026-10-28T08:57:04.890000+00:00",
-    "first_seen": "2026-10-29T03:54:22.872870+00:00"
+    "first_seen": "2026-10-29T03:54:22.872870+00:00",
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.lever.co/jobgether/991b562e-9658-44f6-adb5-54be5538b9fb": {
     "title": "Senior PHP/Symfony Engineer — Integrations & Automation",
@@ -10858,7 +10866,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior PHP/Symfony Engineer — Integrations & Automation based in Ireland. Join a remote engineering team responsible for building and scaling a critical business automation platform that connects eCommerce, ERP, CRM, and sales systems. In this senior role, you will help shape the platform’s architecture, improve data synchronization, and ensure reliable operations across essential business workflows. You will work with an existing developer to deliver maintainable integrations, robust asynchronous processing, and effective production monitoring. The role combines backend engineering with API integrations, browser automation, AI-powered product data enrichment, and React-based internal tools. Your contributions will directly support eCommerce and sales operations while improving efficiency, data quality, and system reliability. This is a full-time remote opportunity open across Europe, with working hours that overlap with the team between 10:00 and 19:00 Paris time.",
     "location": "Ireland / Ireland",
     "posted_at": "2026-10-28T08:55:48.562000+00:00",
-    "first_seen": "2026-10-29T03:54:22.872870+00:00"
+    "first_seen": "2026-10-29T03:54:22.872870+00:00",
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.lever.co/jobgether/aa2dab21-a5d7-4925-a423-2ea9a9334cbf": {
     "title": "Senior PHP/Symfony Engineer — Integrations & Automation",
@@ -10867,7 +10876,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior PHP/Symfony Engineer — Integrations & Automation based in France. Join a remote engineering team responsible for building and scaling a critical business automation platform that connects eCommerce, ERP, CRM, and sales systems. In this senior role, you will help shape the platform’s architecture, improve data synchronization, and ensure reliable operations across essential business workflows. You will work with an existing developer to deliver maintainable integrations, robust asynchronous processing, and effective production monitoring. The role combines backend engineering with API integrations, browser automation, AI-powered product data enrichment, and React-based internal tools. Your contributions will directly support eCommerce and sales operations while improving efficiency, data quality, and system reliability. This is a full-time remote opportunity open across Europe, with working hours that overlap with the team between 10:00 and 19:00 Paris time.",
     "location": "France / France",
     "posted_at": "2026-10-28T08:56:41.142000+00:00",
-    "first_seen": "2026-10-29T03:54:22.872870+00:00"
+    "first_seen": "2026-10-29T03:54:22.872870+00:00",
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.lever.co/jobgether/cb5fb936-7c86-48ed-81a7-87a8a0256190": {
     "title": "Senior PHP/Symfony Engineer — Integrations & Automation",
@@ -10876,7 +10886,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior PHP/Symfony Engineer — Integrations & Automation based in Germany. Join a remote engineering team responsible for building and scaling a critical business automation platform that connects eCommerce, ERP, CRM, and sales systems. In this senior role, you will help shape the platform’s architecture, improve data synchronization, and ensure reliable operations across essential business workflows. You will work with an existing developer to deliver maintainable integrations, robust asynchronous processing, and effective production monitoring. The role combines backend engineering with API integrations, browser automation, AI-powered product data enrichment, and React-based internal tools. Your contributions will directly support eCommerce and sales operations while improving efficiency, data quality, and system reliability. This is a full-time remote opportunity open across Europe, with working hours that overlap with the team between 10:00 and 19:00 Paris time.",
     "location": "Germany / Germany",
     "posted_at": "2026-10-28T08:10:59.998000+00:00",
-    "first_seen": "2026-10-29T03:54:22.872870+00:00"
+    "first_seen": "2026-10-29T03:54:22.872870+00:00",
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
   },
   "https://jobs.ashbyhq.com/posthog/db808740-242e-4a40-ad43-d41f26c049d7": {
     "title": " Technical Support Engineer",
@@ -10885,6 +10896,233 @@
     "description": "ABOUT POSTHOG\n\nPostHog is your product’s context layer. It ingests and stores your analytics, errors, replays, and business data so you and your agents can query and act on it.\n\nWe launched out of Y Combinator's W20 cohort https://posthog.com/handbook/story. We've since shipped more than a dozen products, including:\n\n - A suite of analytics and observability tools, including product analytics https://posthog.com/product-analytics, replay vision https://posthog.com/replay-vision, AI observability https://posthog.com/ai-observability, and error tracking https://posthog.com/error-tracking\n\n - PostHog MCP https://posthog.com/mcp for users and their agents to query and act on their product and business data\n\n - Data warehouse https://posthog.com/context-warehouse/managed-warehouse so users can query product and customer data together using custom SQL insights.\n\nWe are:\n\n 1. Product-led. More than 500K organizations have installed PostHog, mostly driven by word-of-mouth. We have intensely strong product-market fit.\n\n 2. Default alive https://paulgraham.com/aord.html. Revenue is growing incredibly quickly, and we're very efficient. We raise money to push ambition and grow faster, not to keep the lights on.\n\n 3. Well-funded. We've raised more than $180m from some of the world's top investors. We're set up for a long, ambitious journey.\n\nWe're focused on building an awesome product for end users, hiring exceptional teammates, shipping fast, and being as weird as possible https://posth",
     "location": "Remote",
     "posted_at": "2026-10-28T14:43:56.854000+00:00",
-    "first_seen": "2026-10-29T03:54:22.872870+00:00"
+    "first_seen": "2026-10-29T03:54:22.872870+00:00",
+    "hidden": true,
+    "link_checked_at": "2026-10-29T10:38:44.152350+00:00"
+  },
+  "https://jobicy.com/jobs/157727-senior-technical-account-manager-4": {
+    "title": "Senior Technical Account Manager",
+    "url": "https://jobicy.com/jobs/157727-senior-technical-account-manager-4",
+    "source": "Jobicy",
+    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,…",
+    "location": "Türkiye",
+    "posted_at": "2026-10-29T04:04:01+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/02f25077-715d-40f6-83c5-69b5bffcdc08": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/02f25077-715d-40f6-83c5-69b5bffcdc08",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Belgium. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Belgium / Belgium",
+    "posted_at": "2026-10-29T07:07:13.939000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/030a14c0-8fb7-478a-90fe-4c7204738b21": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/030a14c0-8fb7-478a-90fe-4c7204738b21",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Sweden. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Sweden / Sweden",
+    "posted_at": "2026-10-29T07:08:19.157000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/064c5c8f-b6bf-44c9-a893-7d299a5127fe": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/064c5c8f-b6bf-44c9-a893-7d299a5127fe",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Switzerland. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Switzerland / Switzerland",
+    "posted_at": "2026-10-29T07:03:16.955000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/360e0eda-4484-4df2-809d-6cb5b1eefe83": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/360e0eda-4484-4df2-809d-6cb5b1eefe83",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Croatia. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Croatia / Croatia",
+    "posted_at": "2026-10-29T07:12:08.318000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/3b4f4393-6b4f-4ca1-9702-c6931c48d861": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/3b4f4393-6b4f-4ca1-9702-c6931c48d861",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Italy. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Italy / Italy",
+    "posted_at": "2026-10-29T07:04:44.190000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/4a1b3218-8472-419a-8664-67911572f743": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/4a1b3218-8472-419a-8664-67911572f743",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in France. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "France / France",
+    "posted_at": "2026-10-29T07:02:49.741000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/4a84c061-798b-4093-828e-0c5402af81c3": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/4a84c061-798b-4093-828e-0c5402af81c3",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Austria. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Austria / Austria",
+    "posted_at": "2026-10-29T07:08:39.807000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/51d2c736-f922-4feb-a305-4b4d18ef5668": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/51d2c736-f922-4feb-a305-4b4d18ef5668",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Poland. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Poland / Poland",
+    "posted_at": "2026-10-29T07:09:54.335000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/58e7376d-bba4-40d1-b2cf-ba1618ef3b8a": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/58e7376d-bba4-40d1-b2cf-ba1618ef3b8a",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Netherlands. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Netherlands / Netherlands",
+    "posted_at": "2026-10-29T07:04:02.242000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/590445f9-c7cc-4de0-90f4-2f738d34083d": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/590445f9-c7cc-4de0-90f4-2f738d34083d",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Czechia. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Czechia / Czechia",
+    "posted_at": "2026-10-29T07:13:25.388000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/6e79efa8-66af-4d80-9f4f-7e60d383f821": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/6e79efa8-66af-4d80-9f4f-7e60d383f821",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Norway. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Norway / Norway",
+    "posted_at": "2026-10-29T07:12:52.967000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/8c5e8e24-08d0-4759-b760-658904494651": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/8c5e8e24-08d0-4759-b760-658904494651",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Luxembourg. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Luxembourg / Luxembourg",
+    "posted_at": "2026-10-29T07:12:33.515000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/8e20d625-5739-4554-948f-ac4059774497": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/8e20d625-5739-4554-948f-ac4059774497",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Spain. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Spain / Spain",
+    "posted_at": "2026-10-29T07:02:07.604000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/8ffa3581-73d1-481a-b43e-61a0f1b9b263": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/8ffa3581-73d1-481a-b43e-61a0f1b9b263",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Hungary. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Hungary / Hungary",
+    "posted_at": "2026-10-29T07:14:05.170000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/94847560-b181-44ba-a78a-b5e5a2088d9e": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/94847560-b181-44ba-a78a-b5e5a2088d9e",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Turkey. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Turkey / Turkey",
+    "posted_at": "2026-10-29T07:06:34.619000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/94eac299-6587-44f4-9b75-cbb2875a43bc": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/94eac299-6587-44f4-9b75-cbb2875a43bc",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Finland. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Finland / Finland",
+    "posted_at": "2026-10-29T07:13:45.108000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/96a6074a-f657-4b5b-95f4-8ea75a6f0b43": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/96a6074a-f657-4b5b-95f4-8ea75a6f0b43",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Estonia. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Estonia / Estonia",
+    "posted_at": "2026-10-29T07:14:25.430000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/a0137511-a2ab-49a6-b1ff-d3b4c17e8538": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/a0137511-a2ab-49a6-b1ff-d3b4c17e8538",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Ireland. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Ireland / Ireland",
+    "posted_at": "2026-10-29T07:03:37.276000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/a11d8843-a5f7-4c18-8c94-765ecaa8cc3e": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/a11d8843-a5f7-4c18-8c94-765ecaa8cc3e",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Romania. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Romania / Romania",
+    "posted_at": "2026-10-29T07:05:06.997000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/af10f5e0-82a0-4c22-979a-d8cb49ab19ce": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/af10f5e0-82a0-4c22-979a-d8cb49ab19ce",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Bulgaria. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Bulgaria / Bulgaria",
+    "posted_at": "2026-10-29T07:11:38.098000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/bd511f1b-d78f-4671-9ee1-16c849f08e29": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/bd511f1b-d78f-4671-9ee1-16c849f08e29",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Greece. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Greece / Greece",
+    "posted_at": "2026-10-29T07:10:55.805000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/de10f561-1378-498d-aa3f-d6a9edcc545e": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/de10f561-1378-498d-aa3f-d6a9edcc545e",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Portugal. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Portugal / Portugal",
+    "posted_at": "2026-10-29T07:04:23.105000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/eeb39fcd-8dbb-4283-8002-190f10d124e3": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/eeb39fcd-8dbb-4283-8002-190f10d124e3",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Germany. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Germany / Germany",
+    "posted_at": "2026-10-29T07:02:28.961000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+  },
+  "https://jobs.lever.co/jobgether/f987e482-61a3-4180-ae7c-053ac0dee8c6": {
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+    "url": "https://jobs.lever.co/jobgether/f987e482-61a3-4180-ae7c-053ac0dee8c6",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Denmark. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
+    "location": "Denmark / Denmark",
+    "posted_at": "2026-10-29T07:11:16.630000+00:00",
+    "first_seen": "2026-10-29T10:41:40.917566+00:00"
   }
 }
