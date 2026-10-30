@@ -1,4 +1,6 @@
 {
-  "stage": "fetching",
-  "updated_at": "2026-10-30T03:54:39.311314+00:00"
+  "stage": "scoring",
+  "updated_at": "2026-10-30T03:56:35.149805+00:00",
+  "found": 172,
+  "scored": 0
 }
