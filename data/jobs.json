@@ -5399,7 +5399,7 @@
     "location": "Remote U.S.",
     "posted_at": "2026-08-26T19:04:45.475000+00:00",
     "first_seen": "2026-09-08T05:03:15.822191+00:00",
-    "link_checked_at": "2026-10-26T02:40:27.489841+00:00"
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.ashbyhq.com/openai/6aa78bd0-98d6-4671-a98f-d1010c627eb5": {
     "title": "Senior Support Engineer - Toronto",
@@ -5409,7 +5409,7 @@
     "location": "Ontario - Remote",
     "posted_at": "2026-08-15T00:20:15.752000+00:00",
     "first_seen": "2026-09-08T05:03:15.822191+00:00",
-    "link_checked_at": "2026-10-26T02:40:27.489841+00:00"
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.ashbyhq.com/openai/d7a7c653-19d8-43db-800e-ce4dd2abf9ec": {
     "title": "AI Support Engineer - Toronto",
@@ -5419,7 +5419,7 @@
     "location": "Ontario - Remote",
     "posted_at": "2026-08-15T00:22:22.066000+00:00",
     "first_seen": "2026-09-08T05:03:15.822191+00:00",
-    "link_checked_at": "2026-10-26T02:40:27.489841+00:00"
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.ashbyhq.com/openai/48993416-b5f5-4c3f-b7c8-b8ca7c2395e0": {
     "title": "AI Support Engineer, Government - San Francisco, CA",
@@ -5429,7 +5429,7 @@
     "location": "San Francisco",
     "posted_at": "2026-08-31T21:38:54.505000+00:00",
     "first_seen": "2026-09-08T05:03:15.822191+00:00",
-    "link_checked_at": "2026-10-26T02:40:27.489841+00:00"
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.ashbyhq.com/openai/d49e3abe-0d02-4b73-a5b2-cc7f1414c1e8": {
     "title": "Lead, Corporate Technical Accounting and Strategic Transactions",
@@ -8053,7 +8053,7 @@
     "location": "Dublin, Ireland",
     "posted_at": "2026-09-29T17:20:00.809000+00:00",
     "first_seen": "2026-09-30T03:29:45.573132+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.ashbyhq.com/elevenlabs/830e66a8-892c-4c68-b61c-494591236eef": {
     "title": "Account Manager - DACH",
@@ -8063,7 +8063,8 @@
     "location": "Germany / Switzerland",
     "posted_at": "2026-09-29T09:22:37.880000+00:00",
     "first_seen": "2026-09-30T03:29:45.573132+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/0dbdaaf2-f6df-44e6-8612-dae6208d6f2d": {
     "title": "Account Manager (Email Marketing)",
@@ -8938,7 +8939,7 @@
     "location": "Remote",
     "posted_at": "2026-10-13T17:40:46+00:00",
     "first_seen": "2026-10-14T03:05:35.888130+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobicy.com/jobs/155208-account-manager-dutch-speaking": {
     "title": "Account Manager - Dutch speaking",
@@ -8948,7 +8949,7 @@
     "location": "France",
     "posted_at": "2026-10-13T11:55:00+00:00",
     "first_seen": "2026-10-14T03:05:35.888130+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://djinni.co/jobs/840924-account-manager-facebook-traffic/": {
     "title": "Account Manager Facebook Traffic",
@@ -9776,7 +9777,8 @@
     "location": "Germany / Germany",
     "posted_at": "2026-10-21T00:51:55.702000+00:00",
     "first_seen": "2026-10-21T02:53:27.153458+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/12d39373-e59e-4df2-8206-d0e30d117e43": {
     "title": "Channel Account Manager",
@@ -9786,7 +9788,8 @@
     "location": "Spain / Spain",
     "posted_at": "2026-10-21T00:52:15.447000+00:00",
     "first_seen": "2026-10-21T02:53:27.153458+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/4341d744-4661-4d6c-9198-7b47fa96b314": {
     "title": "Channel Account Manager",
@@ -9796,7 +9799,8 @@
     "location": "Ireland / Ireland",
     "posted_at": "2026-10-21T00:50:53.711000+00:00",
     "first_seen": "2026-10-21T02:53:27.153458+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/6ec5c94c-6043-416f-9795-613398fbc8b9": {
     "title": "Channel Account Manager",
@@ -9806,7 +9810,8 @@
     "location": "Netherlands / Netherlands",
     "posted_at": "2026-10-21T00:50:29.040000+00:00",
     "first_seen": "2026-10-21T02:53:27.153458+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/a598c732-0c29-44cf-a02e-85da6f81b27f": {
     "title": "Channel Account Manager",
@@ -9816,7 +9821,8 @@
     "location": "France / France",
     "posted_at": "2026-10-21T00:51:33.790000+00:00",
     "first_seen": "2026-10-21T02:53:27.153458+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/c15e0c39-c992-4f72-bbbc-1b0354ea3f7d": {
     "title": "Channel Account Manager",
@@ -9826,7 +9832,8 @@
     "location": "Switzerland / Switzerland",
     "posted_at": "2026-10-21T00:51:15.193000+00:00",
     "first_seen": "2026-10-21T02:53:27.153458+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00",
+    "hidden": true
   },
   "https://djinni.co/jobs/854385-integration-manager/": {
     "title": "Integration Manager",
@@ -10090,7 +10097,7 @@
     "description": "Junior Account Manager (IT Services) в FrostNode OÜ – Djinni Помилка Відкрити в застосунку Djinni Hi there! We're FrostNode OÜ, a young Estonian company connecting European businesses with skilled IT professionals, primarily from Ukraine. We're looking for an Account Manager to handle client communication and make sure everything runs smoothly between our clients and IT specialists. You don't need years of experience or a technical background. If you speak English confidently, enjoy working with people, and know how to stay organized, we'd love to meet you. WHAT YOU'LL BE DOING • Communicate with European B2B clients in English, both in writing and during online meetings. • Coordinate communication between clients and IT specialists. • Follow up on requests, resolve day-to-day issues, and make sure nothing gets overlooked. • Organize online meetings and keep everyone informed. • Prepare short monthly reports and track important updates. • Stay available during agreed business hours when clients need assistance. WHAT WE'RE LOOKING FOR • English B2+ or C1, with confident spoken communication. • Strong communication and organizational skills. • A responsible, proactive approach to work. • Ability to manage tasks independently. • Basic knowledge of Google Docs, Sheets, and similar tools. • Willingness to learn about IT services and client management. Previous experience in Account Management, Customer Success, Customer Support, or Project Coordination is welcome but not required. We're open to Junior candidates, students, and people looking to move into international client-facing roles. WHAT WE OFFER • Fully remote cooperation from anywhere. • Flexible schedule with agreed availability for client communication. • No exclusivity. You can combine this opportunity with another job, studies, or personal projects. • Independent contractor agreement with an Estonian company. • Recurring monthly compensation based on your active client portfolio. • The opportunity to take on additional clients as our business develops. HOW COMPENSATION WORKS Your monthly compensation depends on the number of active clients and IT specialists assigned to you. You receive €300 per active client per month, plus €100 for each assigned IT specialist. Here are a few examples: 1 client + 3 specialists = €600/month 2 clients + 4 specialists = €1,000/month 3 clients + 6 specialists = €1,500/month 4 clients + 8 specialists = €2,000/month These are examples of potential compensation for full months with active paid assignments, not guaranteed earnings. There is no fixed salary or guaranteed minimum income. Compensation is based on active client assignments and paid service periods. Partial months are calculated proportionally. A BIT ABOUT US FrostNode is a newly established company, and we're currently building our client portfolio. We're looking for someone who would be interested in joining us as client assignments become available. There is no guaranteed paid workload at the beginning. You won't need to sit in front of your computer all day. What matters is staying available when needed, communicating clearly, and making sure your clients are taken care of. We're not looking for a perfect CV. We're looking for someone reliable, easy to communicate with, and willing to learn. INTERESTED? Tell us a little about yourself, your English level, and any relevant experience. We'd be happy to have a conversation and see if we're a good fit for each other. Необхідні навички Управлінський облік, Підтримка, Ведення перемовин, Комунікація Вимоги до володіння мовами Англійська B2 – Вище середнього Опубліковано 24 жовтня 65 переглядів · 9 відгуків Подивитись статистику кандидатів що відгукнулись на цю вакансію 👀 Огляд кандидатів Для відгуку на цю та інші вакансії на Djinni увійдіть або зареєструйтеся . від\n        0.5 років досвіду Також розглядаємо без досвіду Тільки віддалено Весь світ Країни, де розглядаємо кандидатів Англійська B2 – Вище середнього Account Manager Зайняті",
     "region": "Україна",
     "first_seen": "2026-10-25T02:45:28.356059+00:00",
-    "link_checked_at": "2026-10-25T08:52:11.777820+00:00"
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://www.arbeitnow.com/jobs/companies/weiler-consult-gmbh/account-manager-power-bi-customer-success-mit-entscheidungsbefugnis-berlin-273076": {
     "title": "Account Manager (m/w/d) Power BI, Customer Success mit Entscheidungsbefugnis",
@@ -10907,7 +10914,8 @@
     "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,…",
     "location": "Türkiye",
     "posted_at": "2026-10-29T04:04:01+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/02f25077-715d-40f6-83c5-69b5bffcdc08": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -10916,7 +10924,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Belgium. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Belgium / Belgium",
     "posted_at": "2026-10-29T07:07:13.939000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/030a14c0-8fb7-478a-90fe-4c7204738b21": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -10925,7 +10934,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Sweden. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Sweden / Sweden",
     "posted_at": "2026-10-29T07:08:19.157000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/064c5c8f-b6bf-44c9-a893-7d299a5127fe": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -10934,7 +10944,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Switzerland. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Switzerland / Switzerland",
     "posted_at": "2026-10-29T07:03:16.955000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/360e0eda-4484-4df2-809d-6cb5b1eefe83": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -10943,7 +10954,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Croatia. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Croatia / Croatia",
     "posted_at": "2026-10-29T07:12:08.318000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/3b4f4393-6b4f-4ca1-9702-c6931c48d861": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -10952,7 +10964,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Italy. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Italy / Italy",
     "posted_at": "2026-10-29T07:04:44.190000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/4a1b3218-8472-419a-8664-67911572f743": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -10961,7 +10974,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in France. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "France / France",
     "posted_at": "2026-10-29T07:02:49.741000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/4a84c061-798b-4093-828e-0c5402af81c3": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -10970,7 +10984,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Austria. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Austria / Austria",
     "posted_at": "2026-10-29T07:08:39.807000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/51d2c736-f922-4feb-a305-4b4d18ef5668": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -10979,7 +10994,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Poland. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Poland / Poland",
     "posted_at": "2026-10-29T07:09:54.335000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/58e7376d-bba4-40d1-b2cf-ba1618ef3b8a": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -10988,7 +11004,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Netherlands. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Netherlands / Netherlands",
     "posted_at": "2026-10-29T07:04:02.242000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/590445f9-c7cc-4de0-90f4-2f738d34083d": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -10997,7 +11014,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Czechia. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Czechia / Czechia",
     "posted_at": "2026-10-29T07:13:25.388000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/6e79efa8-66af-4d80-9f4f-7e60d383f821": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -11006,7 +11024,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Norway. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Norway / Norway",
     "posted_at": "2026-10-29T07:12:52.967000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/8c5e8e24-08d0-4759-b760-658904494651": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -11015,7 +11034,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Luxembourg. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Luxembourg / Luxembourg",
     "posted_at": "2026-10-29T07:12:33.515000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/8e20d625-5739-4554-948f-ac4059774497": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -11024,7 +11044,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Spain. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Spain / Spain",
     "posted_at": "2026-10-29T07:02:07.604000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/8ffa3581-73d1-481a-b43e-61a0f1b9b263": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -11033,7 +11054,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Hungary. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Hungary / Hungary",
     "posted_at": "2026-10-29T07:14:05.170000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/94847560-b181-44ba-a78a-b5e5a2088d9e": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -11042,7 +11064,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Turkey. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Turkey / Turkey",
     "posted_at": "2026-10-29T07:06:34.619000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/94eac299-6587-44f4-9b75-cbb2875a43bc": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -11051,7 +11074,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Finland. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Finland / Finland",
     "posted_at": "2026-10-29T07:13:45.108000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/96a6074a-f657-4b5b-95f4-8ea75a6f0b43": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -11060,7 +11084,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Estonia. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Estonia / Estonia",
     "posted_at": "2026-10-29T07:14:25.430000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/a0137511-a2ab-49a6-b1ff-d3b4c17e8538": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -11069,7 +11094,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Ireland. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Ireland / Ireland",
     "posted_at": "2026-10-29T07:03:37.276000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/a11d8843-a5f7-4c18-8c94-765ecaa8cc3e": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -11078,7 +11104,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Romania. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Romania / Romania",
     "posted_at": "2026-10-29T07:05:06.997000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/af10f5e0-82a0-4c22-979a-d8cb49ab19ce": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -11087,7 +11114,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Bulgaria. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Bulgaria / Bulgaria",
     "posted_at": "2026-10-29T07:11:38.098000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/bd511f1b-d78f-4671-9ee1-16c849f08e29": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -11096,7 +11124,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Greece. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Greece / Greece",
     "posted_at": "2026-10-29T07:10:55.805000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/de10f561-1378-498d-aa3f-d6a9edcc545e": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -11105,7 +11134,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Portugal. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Portugal / Portugal",
     "posted_at": "2026-10-29T07:04:23.105000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/eeb39fcd-8dbb-4283-8002-190f10d124e3": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -11114,7 +11144,8 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Germany. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Germany / Germany",
     "posted_at": "2026-10-29T07:02:28.961000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
   },
   "https://jobs.lever.co/jobgether/f987e482-61a3-4180-ae7c-053ac0dee8c6": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -11123,6 +11154,16 @@
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Denmark. As a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.",
     "location": "Denmark / Denmark",
     "posted_at": "2026-10-29T07:11:16.630000+00:00",
-    "first_seen": "2026-10-29T10:41:40.917566+00:00"
+    "first_seen": "2026-10-29T10:41:40.917566+00:00",
+    "link_checked_at": "2026-10-30T03:54:13.405334+00:00"
+  },
+  "https://job-boards.greenhouse.io/twilio/jobs/8204407": {
+    "title": "Technical Support Engineer",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8204407",
+    "source": "Greenhouse",
+    "description": "Job Application for Technical Support Engineer at Twilio Back to jobs Technical Support Engineer Remote - Ireland Apply Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands. . Hiring and how we work We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions! Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings. . Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands. See yourself at Twilio Join the team as Twilio’s next Technical Support Engineer 3. About the job This position is needed to support our customers’ use of the Twilio platform, and help customers get the best experience from Twilio’s products. You will function as the voice of Twilio to our customers and partners, and operate as a subject matter expert for Twilio’s APIs and SDKs. We are looking for our next Technical Support Engineer 3 to join our Global Customer Support team, who will be dedicated to understanding and resolving complex customer requests via phone/email/chat/side channel/live support or any other support/communication channel, identify adoption and upsell opportunities for customers and make the appropriate connections. Develops knowledge on multiple specialty areas.  Identifies and responds to customer escalations and thoroughly document every customer interaction Responsibilities In this role, you will: Understands and resolves complex customer requests via phone/email/chat/side channel/live support or any other support/communication channel. Identify adoption and upsell opportunities for customers and make the appropriate connections. Develops knowledge on multiple specialty areas. Communicate complex concepts to customers. Anticipates customer questions and proactively responds with suggestions Identifies and responds to customer escalations. Effectively work multiple support channels (chat, phone, social, etc). Work on one concurrency chat. Prioritize the queue based on status, priority, entitlement. Follow guidance prioritizing caseload to achieve SLA compliance targets.  Meet SLA requirements per channel/role Follow established guidelines on tagging, categorizing, merging tickets. Leverage runbooks/wiki, macros, and other tools to efficiently resolve tickets. Escalate to senior technical resources to drive ticket resolution Leverage Twilio's AI tools and other automations (macros and related tools) to assist and efficiently communicate with customers Mentor or provide training to other team members in case management best practices. Thoroughly document every customer interaction (email, phone, chat, side-channel communications). Thoroughly document every internal interaction (resear",
+    "location": "Remote - Ireland",
+    "posted_at": "2026-10-29T14:28:35+00:00",
+    "first_seen": "2026-10-30T03:56:46.892554+00:00"
   }
 }
