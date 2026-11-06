@@ -1,65 +1,4 @@
 {
-  "https://jobicy.com/jobs/148707-senior-technical-account-manager-spanish-speaking": {
-    "title": "Senior Technical Account Manager (Spanish Speaking)",
-    "url": "https://jobicy.com/jobs/148707-senior-technical-account-manager-spanish-speaking",
-    "source": "Jobicy",
-    "description": "A Little About Us EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world. Serving more than 1,500 customers globally…",
-    "location": "EMEA",
-    "posted_at": "2026-08-07T05:03:29+00:00",
-    "score": 8,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "B2B",
-      "Remote"
-    ],
-    "role_type": "Senior Technical Account Manager",
-    "company_type": "Product company",
-    "salary": "Не вказана",
-    "remote": "Фул-Remote",
-    "region": "Закордон",
-    "pros": [
-      "Good engineering culture",
-      "Async-friendly team"
-    ],
-    "cons": [
-      "Low salary mentioned"
-    ],
-    "first_seen": "2026-08-08T01:08:38.934356+00:00",
-    "link_checked_at": "2026-09-13T08:41:19.825629+00:00",
-    "hidden": true
-  },
-  "https://job-boards.greenhouse.io/remotecom/jobs/7834363003": {
-    "title": "Senior Account Manager - EMEA",
-    "url": "https://job-boards.greenhouse.io/remotecom/jobs/7834363003",
-    "source": "Greenhouse",
-    "description": "Compensation: $80,500 - $181,100 USD. Job Application for Senior Account Manager - EMEA at Remote Back to jobs New Senior Account Manager - EMEA Remote-EMEA Apply About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You can find Remoters working from 6 different continents (Antarctica left to go!) and all of our positions are fully remote. With Innovation as one of the core values, we have built Automation and AI capabilities into the requirements for every role. We encourage every member of the Remote team to bring their talents, experiences and culture to the table to help us build the best-in-class HR platform. If you are energetic, curious, motivated and ambitious, be part of our world. Apply now and define the future of work! What this job can offer you This is an exciting time to join Remote and make a personal difference in the global employment space as a Senior Account Manager , joining our Existing Business team. In this role, you'll manage and grow a portfolio of existing customers across Remote's full product suite — including EOR, Global Payroll, Contractor of Record (COR), and other solutions — expanding relationships with complex, multi-stakeholder organizations. You'll be a trusted advisor to senior buyers, comfortable navigating multi-threaded deals, and driven to find the right solution for the customer rather than getting stuck on obstacles along the way. As a senior member of the team, you'll also have the opportunity to share best practice with peers and help shape how Existing Business approaches multi-product growth. What you bring You can demonstrate a strong track record of growing existing accounts, owning renewals, driving net-new expansion bookings, and cross-selling or upselling across multiple product lines (e.g. EOR, Global Payroll, COR, and other Remote solutions) You can show success building and multi-threading relationships across an account — engaging economic buyers, budget holders, and technical/functional stakeholders in parallel, rather than relying on a single point of contact You're comfortable selling to and building trust with senior stakeholders (VP/C-level, Legal, Finance, HR/People leadership), and can adapt the conversation to what matters to each You have working knowledge of, or a strong aptitude to quickly learn, a structured sales methodology such as MEDPICC to qualify and progress opportunities with rigor You can demonstrate strong sales process discipline, including pipeline development, forecasting, and accurate reporting across a multi-product portfolio You bring a solutions-oriented mindset — quick to focus on what can be done and how to move a deal or relationship forward You think like a deal strategist — you look for creative ways to structure multi-product deals and adapt the structure to what the customer actually needs You're highly self-directed and comfortable navigating with a lot of autonomy — Remote is a distributed, async, multi-timezone environment, and you take ownership of your own follow-ups, keeping things moving smoothly across time zones and channels You're genuinely curious and eager to learn, comfortable picking up new products, markets, and use cases as Remote's portfolio evolves You have an in-depth understanding of Remote's services and its position in the industry, with the curiosity to keep that knowledge current You have excellent verbal and written communication skills, with business fluency in English Desirable characteristics Highly self-motivated, with ambitions to grow into a closing-focused role Comfortable operating in ambiguity and juggling multiple concurrent, multi-threaded deals without losing momentum Strong business acumen",
-    "location": "Remote-EMEA",
-    "posted_at": "2026-08-07T17:00:10+00:00",
-    "score": 9,
-    "tags": [
-      "B2B",
-      "SaaS",
-      "AI",
-      "Remote"
-    ],
-    "role_type": "Senior Account Manager",
-    "company_type": "Product company",
-    "salary": "$80,500 - $181,100 USD",
-    "remote": "Фул-Remote",
-    "region": "Закордон",
-    "pros": [
-      "Fully remote",
-      "Async-friendly team",
-      "Innovation as one of the core values"
-    ],
-    "cons": [
-      "High salary range"
-    ],
-    "first_seen": "2026-08-08T01:08:38.934356+00:00",
-    "link_checked_at": "2026-10-25T02:43:00.176500+00:00",
-    "hidden": true
-  },
   "https://jobs.dou.ua/companies/elevate-core/vacancies/369001/": {
     "title": "Payment Integration Specialist",
     "url": "https://jobs.dou.ua/companies/elevate-core/vacancies/369001/",
@@ -5914,7 +5853,7 @@
     "location": "Germany",
     "posted_at": "2026-10-29T01:56:16+00:00",
     "first_seen": "2026-10-29T03:54:22.872870+00:00",
-    "link_checked_at": "2026-11-02T11:55:23.413803+00:00"
+    "link_checked_at": "2026-11-06T04:38:48.177812+00:00"
   },
   "https://jobs.lever.co/jobgether/01857be0-6999-4eea-852d-e7c27985811d": {
     "title": "Senior PHP/Symfony Engineer — Integrations & Automation",
@@ -5924,7 +5863,8 @@
     "location": "Netherlands / Netherlands",
     "posted_at": "2026-10-28T08:55:07.261000+00:00",
     "first_seen": "2026-10-29T03:54:22.872870+00:00",
-    "link_checked_at": "2026-11-02T11:55:23.413803+00:00"
+    "link_checked_at": "2026-11-06T04:38:48.177812+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/2f3b92e0-96a3-46e7-ac04-30c880fef0fc": {
     "title": "Senior PHP/Symfony Engineer — Integrations & Automation",
@@ -5934,7 +5874,8 @@
     "location": "Switzerland / Switzerland",
     "posted_at": "2026-10-28T08:56:16.839000+00:00",
     "first_seen": "2026-10-29T03:54:22.872870+00:00",
-    "link_checked_at": "2026-11-02T11:55:23.413803+00:00"
+    "link_checked_at": "2026-11-06T04:38:48.177812+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/5133b115-4b16-413d-9c4a-b09f1fa6f4bc": {
     "title": "Senior PHP/Symfony Engineer — Integrations & Automation",
@@ -5944,7 +5885,8 @@
     "location": "Spain / Spain",
     "posted_at": "2026-10-28T08:57:04.890000+00:00",
     "first_seen": "2026-10-29T03:54:22.872870+00:00",
-    "link_checked_at": "2026-11-02T11:55:23.413803+00:00"
+    "link_checked_at": "2026-11-06T04:38:48.177812+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/991b562e-9658-44f6-adb5-54be5538b9fb": {
     "title": "Senior PHP/Symfony Engineer — Integrations & Automation",
@@ -5954,7 +5896,8 @@
     "location": "Ireland / Ireland",
     "posted_at": "2026-10-28T08:55:48.562000+00:00",
     "first_seen": "2026-10-29T03:54:22.872870+00:00",
-    "link_checked_at": "2026-11-02T11:55:23.413803+00:00"
+    "link_checked_at": "2026-11-06T04:38:48.177812+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/aa2dab21-a5d7-4925-a423-2ea9a9334cbf": {
     "title": "Senior PHP/Symfony Engineer — Integrations & Automation",
@@ -5964,7 +5907,8 @@
     "location": "France / France",
     "posted_at": "2026-10-28T08:56:41.142000+00:00",
     "first_seen": "2026-10-29T03:54:22.872870+00:00",
-    "link_checked_at": "2026-11-02T11:55:23.413803+00:00"
+    "link_checked_at": "2026-11-06T04:38:48.177812+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/cb5fb936-7c86-48ed-81a7-87a8a0256190": {
     "title": "Senior PHP/Symfony Engineer — Integrations & Automation",
@@ -5974,7 +5918,8 @@
     "location": "Germany / Germany",
     "posted_at": "2026-10-28T08:10:59.998000+00:00",
     "first_seen": "2026-10-29T03:54:22.872870+00:00",
-    "link_checked_at": "2026-11-02T11:55:23.413803+00:00"
+    "link_checked_at": "2026-11-06T04:38:48.177812+00:00",
+    "hidden": true
   },
   "https://jobs.ashbyhq.com/posthog/db808740-242e-4a40-ad43-d41f26c049d7": {
     "title": " Technical Support Engineer",
@@ -5995,7 +5940,7 @@
     "location": "Türkiye",
     "posted_at": "2026-10-29T04:04:01+00:00",
     "first_seen": "2026-10-29T10:41:40.917566+00:00",
-    "link_checked_at": "2026-11-02T11:55:23.413803+00:00"
+    "link_checked_at": "2026-11-06T04:38:48.177812+00:00"
   },
   "https://jobs.lever.co/jobgether/02f25077-715d-40f6-83c5-69b5bffcdc08": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -6005,7 +5950,8 @@
     "location": "Belgium / Belgium",
     "posted_at": "2026-10-29T07:07:13.939000+00:00",
     "first_seen": "2026-10-29T10:41:40.917566+00:00",
-    "link_checked_at": "2026-11-02T11:55:23.413803+00:00"
+    "link_checked_at": "2026-11-06T04:38:48.177812+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/030a14c0-8fb7-478a-90fe-4c7204738b21": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -6015,7 +5961,8 @@
     "location": "Sweden / Sweden",
     "posted_at": "2026-10-29T07:08:19.157000+00:00",
     "first_seen": "2026-10-29T10:41:40.917566+00:00",
-    "link_checked_at": "2026-11-02T11:55:23.413803+00:00"
+    "link_checked_at": "2026-11-06T04:38:48.177812+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/064c5c8f-b6bf-44c9-a893-7d299a5127fe": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -6025,7 +5972,8 @@
     "location": "Switzerland / Switzerland",
     "posted_at": "2026-10-29T07:03:16.955000+00:00",
     "first_seen": "2026-10-29T10:41:40.917566+00:00",
-    "link_checked_at": "2026-11-02T11:55:23.413803+00:00"
+    "link_checked_at": "2026-11-06T04:38:48.177812+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/360e0eda-4484-4df2-809d-6cb5b1eefe83": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -6035,7 +5983,8 @@
     "location": "Croatia / Croatia",
     "posted_at": "2026-10-29T07:12:08.318000+00:00",
     "first_seen": "2026-10-29T10:41:40.917566+00:00",
-    "link_checked_at": "2026-11-02T11:55:23.413803+00:00"
+    "link_checked_at": "2026-11-06T04:38:48.177812+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/3b4f4393-6b4f-4ca1-9702-c6931c48d861": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -6045,7 +5994,8 @@
     "location": "Italy / Italy",
     "posted_at": "2026-10-29T07:04:44.190000+00:00",
     "first_seen": "2026-10-29T10:41:40.917566+00:00",
-    "link_checked_at": "2026-11-02T11:55:23.413803+00:00"
+    "link_checked_at": "2026-11-06T04:38:48.177812+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/4a1b3218-8472-419a-8664-67911572f743": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -6055,7 +6005,8 @@
     "location": "France / France",
     "posted_at": "2026-10-29T07:02:49.741000+00:00",
     "first_seen": "2026-10-29T10:41:40.917566+00:00",
-    "link_checked_at": "2026-11-02T11:55:23.413803+00:00"
+    "link_checked_at": "2026-11-06T04:38:48.177812+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/4a84c061-798b-4093-828e-0c5402af81c3": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -6065,7 +6016,8 @@
     "location": "Austria / Austria",
     "posted_at": "2026-10-29T07:08:39.807000+00:00",
     "first_seen": "2026-10-29T10:41:40.917566+00:00",
-    "link_checked_at": "2026-11-02T11:55:23.413803+00:00"
+    "link_checked_at": "2026-11-06T04:38:48.177812+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/51d2c736-f922-4feb-a305-4b4d18ef5668": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -6075,7 +6027,8 @@
     "location": "Poland / Poland",
     "posted_at": "2026-10-29T07:09:54.335000+00:00",
     "first_seen": "2026-10-29T10:41:40.917566+00:00",
-    "link_checked_at": "2026-11-02T11:55:23.413803+00:00"
+    "link_checked_at": "2026-11-06T04:38:48.177812+00:00",
+    "hidden": true
   },
   "https://jobs.lever.co/jobgether/58e7376d-bba4-40d1-b2cf-ba1618ef3b8a": {
     "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
@@ -6538,7 +6491,8 @@
     "source": "Djinni",
     "description": "VIP Account Manager в ReTech – Djinni Помилка Відкрити в застосунку Djinni We are looking for an experienced VIP Account Manager who has worked with high-roller clients in gaming. You don't just service accounts — you manage your own portfolio of high-value players and are responsible for your results. You will build a long-term retention strategy and actively work on increasing players' lifetime value. Sounds like a challenge for you? Then check out the details below. We are looking for a Day Shift VIP Manager who will provide 24/7 support for our top clients. Schedule: 2/2, 22:00-10:00 (EEST). What you will do Manage your own portfolio of VIP players and build an individual approach to each one Independently make decisions regarding personalized offers and rewards within established limits. Escalate only critical cases to the Shift Lead Monitor player activity and act proactively: notice changes in behavior, choose the right action, and launch it Be the first to reach out with offers, event invitations, or simply to check in. Don't wait for the player to write first Hand over the shift to the night team so that nothing gets lost: report what happened, who needs follow-up, and what remains open Quickly escalate technical questions and account issues to the Support team and keep the Product team informed about the issues your players encounter most often Your superpowers 2+ years of experience working with your own portfolio of paying clients, including at least one year with a high-value segment. Experience working with VIP players in gaming is a strong signal, but a clear transition from Support or Account Management into VIP is also suitable You are used to having your work evaluated based on specific metrics. Retention, reactivation, deposit frequency, and LTV are familiar metrics to you, and you understand how they affect the performance of your portfolio. In your intro message, name two metrics that you personally managed to improve and explain how you achieved it Practical experience working with CRM and customer engagement platforms (Customer.io or equivalents), ticketing systems (Intercom, LiveChat, Jira or equivalents), and analytical dashboards for segmentation You don't just answer questions but anticipate what the client will need next. Communication quality is evaluated, so this is not simply a nice-to-have You can independently make decisions in non-standard situations without waiting for approval and take responsibility for their outcomes Advanced/Fluent English is mandatory Bonus Points You are part of the CS/CS2 gaming community Knowledge of additional languages will be an advantage Team Perks PRO&BRO team , with whom it's great to create new gaming universes Fully remote from anywhere in the world. If you prefer coworking, we will compensate for its cost Workspace upgrade with a budget for purchasing the necessary equipment Flexible schedule without time trackers, as we are focused on results Semi-annual bonus for team members as recognition of shared achievements Wellness boost for gym, yoga, dancing, massage, psychologist, and more to support your balance and energy Skill development with the Yoda internal knowledge-sharing project , compensation for education, certifications, English and Ukrainian language courses, and access to AI tools Days off and gifts for important dates that you choose yourself (birthday, work anniversary, birth of a child, wedding) JAM activities : twice-yearly workations in different parts of the world, cool offline team-building, CS2 and Dota tournaments, quizzes, lectures, and many other team events As well as relocation, a parents' policy, a referral program , and many other opportunities and perks Необхідний досвід роботи в галузі Gambling 1 рік Вимоги до володіння мовами Англійська B2 – Вище середнього Опубліковано 30 вересня · Оновлено 5 листопада За 30 днів: 57 переглядів · 5 відгуків За весь час: 98 переглядів · 14 відгуків Подивитись статистику кандидатів що відгукнулись ",
     "region": "Україна",
-    "first_seen": "2026-11-05T13:53:15.428763+00:00"
+    "first_seen": "2026-11-05T13:53:15.428763+00:00",
+    "link_checked_at": "2026-11-06T04:38:48.177812+00:00"
   },
   "https://djinni.co/jobs/856855-account-manager/": {
     "title": "Account Manager",
@@ -6546,6 +6500,114 @@
     "source": "Djinni",
     "description": "Account Manager в ClickDealer – Djinni Помилка Відкрити в застосунку Djinni ClickDealer is hiring an Account Manager ClickDealer is one of the top-5 CPA networks worldwide! Since 2012, the company has been operating in performance marketing, partnering with over 10,000 publishers across more than 40 verticals. We're looking for an Account Manager to join our team! If you already have some experience in account management or affiliate marketing and want to take the next step in your career, this could be a great opportunity. You'll work closely with advertisers and internal teams, grow partnerships, and get hands-on experience in the international performance marketing industry. What you'll be doing: Manage relationships with existing and newly assigned advertisers, acting as their main point of contact and identifying opportunities to grow partnerships; Launch and manage advertiser campaigns across affiliate platforms, including offer setup, promotions, creatives, and tracking; Work closely with Sales and Affiliate Managers to promote offers, coordinate campaigns, and keep partners updated on new opportunities; Monitor campaign performance, analyze key metrics, and identify trends, issues, and opportunities for improvement; Coordinate with internal teams on operational and financial matters. What we expect: At least 1 year of relevant experience in account management, affiliate marketing, or a related field; Fluent written and spoken English; Strong analytical skills and confidence working with data and performance metrics; Good communication and relationship-building skills; A proactive approach, strong sense of ownership, and attention to detail. We offer: Competitive fixed salary + performance-driven bonuses; 20 paid vacation days + paid sick leave; 50% coverage for sports, therapy, courses, and language classes; Opportunities for professional growth in an international company. Необхідні навички Управлінський облік, Analytical skills, Комунікація, Affiliate Marketing Вимоги до володіння мовами Англійська B2 – Вище середнього Опубліковано 5 листопада 23 перегляди · 7 відгуків Подивитись статистику кандидатів що відгукнулись на цю вакансію 👀 Огляд кандидатів Для відгуку на цю та інші вакансії на Djinni увійдіть або зареєструйтеся . Виключно\n      \n      \n        від\n        1 року досвіду Офіс, Віддалена робота, Гібридний формат роботи Весь світ Країни, де розглядаємо кандидатів Англійська B2 – Вище середнього Account Manager Зайнятість: Fulltime Домен: Advertising / Marketing Змішана (сервісно-продуктова) Офіс: Польща 📊 Середня зарплатна вилка схожих вакансій у аналітиці → Завантаження... We use cookies to improve your experience. Learn more Okay",
     "region": "Україна",
-    "first_seen": "2026-11-05T13:53:15.428763+00:00"
+    "first_seen": "2026-11-05T13:53:15.428763+00:00",
+    "link_checked_at": "2026-11-06T04:38:48.177812+00:00"
+  },
+  "https://djinni.co/jobs/856951-programmatic-account-manager-adtech/": {
+    "title": "Programmatic Account Manager Adtech",
+    "url": "https://djinni.co/jobs/856951-programmatic-account-manager-adtech/",
+    "source": "Djinni",
+    "description": "Programmatic Account Manager, AdTech в Spalah – Djinni Помилка Відкрити в застосунку Djinni About Spalah We are a Ukrainian venture builder that connects ambitious tech businesses with the international stage, fostering an ecosystem for rapid growth. We unite visionary founders and diverse talent to create companies that drive global progress. Shortly: we launch startups in the AdTech and B2C subscription app sectors and scale them globally. 💫 Our AdTech direction is definitely one of the largest in Eastern Europe and has already grown into an established holding. 💫 Our Mobile direction was launched less than a year ago and is already demonstrating consistent growth. Our portfolio includes over 15 projects across AdTech and Mobile apps. But while we’ve grown into a sizable company, we still preserve the energy and speed of a fast-paced, entrepreneurial environment. 👉 Here are a couple of our publications to help you better understand our approach and perspective. As we scale, we are looking for a Junior Programmatic Account Manager to join one of our Adtech products. What you will be working on: account optimization & revenue growth: Acting as the primary daily contact for supply and demand partners. Identifying growth opportunities, optimizing connection points, and maximizing revenue; inter-team & partner connection: Connecting dots across teams and managing daily communication, troubleshooting issues, and maintaining strong, trust-based partner relationships; data & technical analysis: Monitoring performance metrics on the platform, analyzing data/Excel, and implementing optimization settings; representation & travel: Willingness to travel for industry conferences/networking events to serve as the “face” of operations/company. Your background: understanding of a programmatic platforms ( DSP / SSP ) and OpenRTB, VAST, VPAID, and Prebid.js technologies; relevant background in programmatic, traffic monetization, affiliate marketing, or campaign management; excellent communication and relationship management skills to ensure client satisfaction and manage expectations effectively; strong problem-solving skills to address technical issues and optimize tradings; spoken English level Upper-intermediate+; analytical mindset: you are comfortable working with data and Excel, with a strong interest in understanding the technical aspects behind performance issues. What we offer you: flexibility and freedom: choose fully remote, hybrid, or office-based work yourself; strong team: work alongside some of the industries talent; unlimited growth: grow in multiple directions, get freedom to launch your own product; career development: take courses, attend top-notch conferences, explore digital library for nonstop growth; health support: get medical insurance, paid vacation and sick leaves, and access to a corporate psychologist; fun and culture: enjoy off site parties, team-buildings, sport events, and corporate gifts. Let’s bring things to the next level? Необхідні навички Управлінський облік, B2B sales, Programmatic advertising, Advertising, Analytical skills Demand-Side Platform (DSP) + ще 1 Необхідний досвід роботи в галузі Advertising / Marketing 6 місяців Вимоги до володіння мовами Англійська B2 – Вище середнього Опубліковано 5 листопада 24 перегляди · 3 відгуки Для відгуку на цю та інші вакансії на Djinni увійдіть або зареєструйтеся . Виключно\n      \n      \n        від\n        0.5 років досвіду Тільки віддалено Країни Європи та Україна Країни, де розглядаємо кандидатів Англійська B2 – Вище середнього Account Manager Зайнятість: Fulltime Домен: Advertising / Marketing Продуктова компанія 📊 Середня зарплатна вилка схожих вакансій у аналітиці → Завантаження... We use cookies to improve your experience. Learn more Okay",
+    "region": "Україна",
+    "first_seen": "2026-11-06T04:41:02.966813+00:00"
+  },
+  "https://jobs.lever.co/jobgether/0584af9e-9de5-4cb7-bdaa-4cebbd2446ef": {
+    "title": "Account Manager and B2B Growth Consultant",
+    "url": "https://jobs.lever.co/jobgether/0584af9e-9de5-4cb7-bdaa-4cebbd2446ef",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Account Manager and B2B Growth Consultant based in Belgium. In this role, you will manage and grow a portfolio of B2B clients, helping businesses achieve predictable and sustainable revenue growth. You will act as a strategic partner to founders, executives, and sales leaders, translating their commercial objectives into effective growth strategies. Working with an established outbound engine combining software, AI, and operational expertise, you will coordinate campaign execution and drive measurable results. You will take ownership of client relationships from initial strategy workshops through long-term account development. This position offers direct exposure to ambitious B2B businesses, close collaboration with leadership, and the opportunity to build a valuable professional network. Your impact will be reflected in client retention, account expansion, and overall portfolio performance.",
+    "location": "Belgium / Belgium",
+    "posted_at": "2026-11-05T11:07:11.565000+00:00",
+    "first_seen": "2026-11-06T04:41:02.966813+00:00"
+  },
+  "https://jobs.lever.co/jobgether/15fe6484-7e49-45cd-a687-2458728482b8": {
+    "title": "Account Manager and B2B Growth Consultant",
+    "url": "https://jobs.lever.co/jobgether/15fe6484-7e49-45cd-a687-2458728482b8",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Account Manager and B2B Growth Consultant based in Switzerland. In this role, you will manage and grow a portfolio of B2B clients, helping businesses achieve predictable and sustainable revenue growth. You will act as a strategic partner to founders, executives, and sales leaders, translating their commercial objectives into effective growth strategies. Working with an established outbound engine combining software, AI, and operational expertise, you will coordinate campaign execution and drive measurable results. You will take ownership of client relationships from initial strategy workshops through long-term account development. This position offers direct exposure to ambitious B2B businesses, close collaboration with leadership, and the opportunity to build a valuable professional network. Your impact will be reflected in client retention, account expansion, and overall portfolio performance.",
+    "location": "Switzerland / Switzerland",
+    "posted_at": "2026-11-05T11:10:34.707000+00:00",
+    "first_seen": "2026-11-06T04:41:02.966813+00:00"
+  },
+  "https://jobs.lever.co/jobgether/2eea2cbb-3d11-493d-880d-d038445766d6": {
+    "title": "Account Manager and B2B Growth Consultant",
+    "url": "https://jobs.lever.co/jobgether/2eea2cbb-3d11-493d-880d-d038445766d6",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Account Manager and B2B Growth Consultant based in Romania. In this role, you will manage and grow a portfolio of B2B clients, helping businesses achieve predictable and sustainable revenue growth. You will act as a strategic partner to founders, executives, and sales leaders, translating their commercial objectives into effective growth strategies. Working with an established outbound engine combining software, AI, and operational expertise, you will coordinate campaign execution and drive measurable results. You will take ownership of client relationships from initial strategy workshops through long-term account development. This position offers direct exposure to ambitious B2B businesses, close collaboration with leadership, and the opportunity to build a valuable professional network. Your impact will be reflected in client retention, account expansion, and overall portfolio performance.",
+    "location": "Romania / Romania",
+    "posted_at": "2026-11-05T11:09:01.456000+00:00",
+    "first_seen": "2026-11-06T04:41:02.966813+00:00"
+  },
+  "https://jobs.lever.co/jobgether/3c2c3c26-18d7-49da-98c7-a9bcdc342e52": {
+    "title": "Account Manager and B2B Growth Consultant",
+    "url": "https://jobs.lever.co/jobgether/3c2c3c26-18d7-49da-98c7-a9bcdc342e52",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Account Manager and B2B Growth Consultant based in Turkey. In this role, you will manage and grow a portfolio of B2B clients, helping businesses achieve predictable and sustainable revenue growth. You will act as a strategic partner to founders, executives, and sales leaders, translating their commercial objectives into effective growth strategies. Working with an established outbound engine combining software, AI, and operational expertise, you will coordinate campaign execution and drive measurable results. You will take ownership of client relationships from initial strategy workshops through long-term account development. This position offers direct exposure to ambitious B2B businesses, close collaboration with leadership, and the opportunity to build a valuable professional network. Your impact will be reflected in client retention, account expansion, and overall portfolio performance.",
+    "location": "Turkey / Turkey",
+    "posted_at": "2026-11-05T11:07:48.793000+00:00",
+    "first_seen": "2026-11-06T04:41:02.966813+00:00"
+  },
+  "https://jobs.lever.co/jobgether/5ebfe7a9-fb0a-4388-b152-792b6e7e4b7d": {
+    "title": "Account Manager and B2B Growth Consultant",
+    "url": "https://jobs.lever.co/jobgether/5ebfe7a9-fb0a-4388-b152-792b6e7e4b7d",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Account Manager and B2B Growth Consultant based in Spain. In this role, you will manage and grow a portfolio of B2B clients, helping businesses achieve predictable and sustainable revenue growth. You will act as a strategic partner to founders, executives, and sales leaders, translating their commercial objectives into effective growth strategies. Working with an established outbound engine combining software, AI, and operational expertise, you will coordinate campaign execution and drive measurable results. You will take ownership of client relationships from initial strategy workshops through long-term account development. This position offers direct exposure to ambitious B2B businesses, close collaboration with leadership, and the opportunity to build a valuable professional network. Your impact will be reflected in client retention, account expansion, and overall portfolio performance.",
+    "location": "Spain / Spain",
+    "posted_at": "2026-11-05T11:11:34.529000+00:00",
+    "first_seen": "2026-11-06T04:41:02.966813+00:00"
+  },
+  "https://jobs.lever.co/jobgether/6bb48206-5888-4577-8ffe-79248d6dc1d0": {
+    "title": "Account Manager and B2B Growth Consultant",
+    "url": "https://jobs.lever.co/jobgether/6bb48206-5888-4577-8ffe-79248d6dc1d0",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Account Manager and B2B Growth Consultant based in Italy. In this role, you will manage and grow a portfolio of B2B clients, helping businesses achieve predictable and sustainable revenue growth. You will act as a strategic partner to founders, executives, and sales leaders, translating their commercial objectives into effective growth strategies. Working with an established outbound engine combining software, AI, and operational expertise, you will coordinate campaign execution and drive measurable results. You will take ownership of client relationships from initial strategy workshops through long-term account development. This position offers direct exposure to ambitious B2B businesses, close collaboration with leadership, and the opportunity to build a valuable professional network. Your impact will be reflected in client retention, account expansion, and overall portfolio performance.",
+    "location": "Italy / Italy",
+    "posted_at": "2026-11-05T11:09:18.757000+00:00",
+    "first_seen": "2026-11-06T04:41:02.966813+00:00"
+  },
+  "https://jobs.lever.co/jobgether/6cdbff0b-3edb-4d62-bb5a-4ca30e6ae5f8": {
+    "title": "Account Manager and B2B Growth Consultant",
+    "url": "https://jobs.lever.co/jobgether/6cdbff0b-3edb-4d62-bb5a-4ca30e6ae5f8",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Account Manager and B2B Growth Consultant based in Portugal. In this role, you will manage and grow a portfolio of B2B clients, helping businesses achieve predictable and sustainable revenue growth. You will act as a strategic partner to founders, executives, and sales leaders, translating their commercial objectives into effective growth strategies. Working with an established outbound engine combining software, AI, and operational expertise, you will coordinate campaign execution and drive measurable results. You will take ownership of client relationships from initial strategy workshops through long-term account development. This position offers direct exposure to ambitious B2B businesses, close collaboration with leadership, and the opportunity to build a valuable professional network. Your impact will be reflected in client retention, account expansion, and overall portfolio performance.",
+    "location": "Portugal / Portugal",
+    "posted_at": "2026-11-05T11:09:36.510000+00:00",
+    "first_seen": "2026-11-06T04:41:02.966813+00:00"
+  },
+  "https://jobs.lever.co/jobgether/7096ce92-14d9-4785-ad6f-f294dd326830": {
+    "title": "Account Manager and B2B Growth Consultant",
+    "url": "https://jobs.lever.co/jobgether/7096ce92-14d9-4785-ad6f-f294dd326830",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Account Manager and B2B Growth Consultant based in Ireland. In this role, you will manage and grow a portfolio of B2B clients, helping businesses achieve predictable and sustainable revenue growth. You will act as a strategic partner to founders, executives, and sales leaders, translating their commercial objectives into effective growth strategies. Working with an established outbound engine combining software, AI, and operational expertise, you will coordinate campaign execution and drive measurable results. You will take ownership of client relationships from initial strategy workshops through long-term account development. This position offers direct exposure to ambitious B2B businesses, close collaboration with leadership, and the opportunity to build a valuable professional network. Your impact will be reflected in client retention, account expansion, and overall portfolio performance.",
+    "location": "Ireland / Ireland",
+    "posted_at": "2026-11-05T11:10:16.241000+00:00",
+    "first_seen": "2026-11-06T04:41:02.966813+00:00"
+  },
+  "https://jobs.lever.co/jobgether/9ed24f9a-14b7-4599-8dce-53875f295184": {
+    "title": "Account Manager and B2B Growth Consultant",
+    "url": "https://jobs.lever.co/jobgether/9ed24f9a-14b7-4599-8dce-53875f295184",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Account Manager and B2B Growth Consultant based in Germany. In this role, you will manage and grow a portfolio of B2B clients, helping businesses achieve predictable and sustainable revenue growth. You will act as a strategic partner to founders, executives, and sales leaders, translating their commercial objectives into effective growth strategies. Working with an established outbound engine combining software, AI, and operational expertise, you will coordinate campaign execution and drive measurable results. You will take ownership of client relationships from initial strategy workshops through long-term account development. This position offers direct exposure to ambitious B2B businesses, close collaboration with leadership, and the opportunity to build a valuable professional network. Your impact will be reflected in client retention, account expansion, and overall portfolio performance.",
+    "location": "Germany / Germany",
+    "posted_at": "2026-11-05T11:11:15.720000+00:00",
+    "first_seen": "2026-11-06T04:41:02.966813+00:00"
+  },
+  "https://jobs.lever.co/jobgether/cce5ec60-6bd1-4916-926f-ede61cf4d5c3": {
+    "title": "Account Manager and B2B Growth Consultant",
+    "url": "https://jobs.lever.co/jobgether/cce5ec60-6bd1-4916-926f-ede61cf4d5c3",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Account Manager and B2B Growth Consultant based in France. In this role, you will manage and grow a portfolio of B2B clients, helping businesses achieve predictable and sustainable revenue growth. You will act as a strategic partner to founders, executives, and sales leaders, translating their commercial objectives into effective growth strategies. Working with an established outbound engine combining software, AI, and operational expertise, you will coordinate campaign execution and drive measurable results. You will take ownership of client relationships from initial strategy workshops through long-term account development. This position offers direct exposure to ambitious B2B businesses, close collaboration with leadership, and the opportunity to build a valuable professional network. Your impact will be reflected in client retention, account expansion, and overall portfolio performance.",
+    "location": "France / France",
+    "posted_at": "2026-11-05T11:10:52.688000+00:00",
+    "first_seen": "2026-11-06T04:41:02.966813+00:00"
+  },
+  "https://jobs.lever.co/jobgether/eee07fa8-b245-4791-a464-d52f9796aab7": {
+    "title": "Account Manager and B2B Growth Consultant",
+    "url": "https://jobs.lever.co/jobgether/eee07fa8-b245-4791-a464-d52f9796aab7",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Account Manager and B2B Growth Consultant based in Netherlands. In this role, you will manage and grow a portfolio of B2B clients, helping businesses achieve predictable and sustainable revenue growth. You will act as a strategic partner to founders, executives, and sales leaders, translating their commercial objectives into effective growth strategies. Working with an established outbound engine combining software, AI, and operational expertise, you will coordinate campaign execution and drive measurable results. You will take ownership of client relationships from initial strategy workshops through long-term account development. This position offers direct exposure to ambitious B2B businesses, close collaboration with leadership, and the opportunity to build a valuable professional network. Your impact will be reflected in client retention, account expansion, and overall portfolio performance.",
+    "location": "Netherlands / Netherlands",
+    "posted_at": "2026-11-05T11:09:56.058000+00:00",
+    "first_seen": "2026-11-06T04:41:02.966813+00:00"
   }
 }
