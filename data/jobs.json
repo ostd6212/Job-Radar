@@ -923,7 +923,7 @@
     "description": "Compensation: $900-1200 . Technical Support Specialist в Studiocode – Djinni Помилка Відкрити в застосунку Djinni Ми шукаємо Technical Support Specialist , який відповідатиме за стабільну роботу наших сайтів, доменів, базових серверних процесів та внутрішніх технічних автоматизацій. Ти будеш працювати на стику технічної підтримки, WordPress, доменів, серверів та операційних процесів . У роботі буде багато різнопланових задач, тому нам важлива людина, яка вміє самостійно розібратися в проблемі, уважно працює з деталями та не боїться технічних процесів. Що потрібно буде робити 🌐 Домени та сайти Робота приблизно з 40 доменами на тиждень . Реєстрація та налаштування доменів. Налаштування DNS-записів: A, CNAME, MX, TXT . Робота з панелями реєстраторів та Cloudflare . Деплой сайтів на домени та контроль результату автоматичної розкатки. Діагностика доменів, які не запустилися або перестали працювати. Пошук причин проблем: DNS, SSL, конфігурація веб-сервера, сам сервіс, блокування з боку реєстратора тощо. Відновлення роботи доменів за готовими інструкціями. За необхідності — перенесення сайту на новий домен. Випуск та продовження SSL / Let's Encrypt . Контроль строків продовження та оплати доменів. Ведення актуального реєстру: домен → сайт → сервер → дата оплати → вартість . 🖥️ Сервери та технічна діагностика Базова робота із серверами через SSH або панель керування . Перевірка системних логів. Робота з логами Nginx та PHP-FPM . Перевірка дискового простору та використання пам'яті. Перезапуск сервісів Первинна діагностика помилок 502 / 504 та недоступності сайтів. Виявлення причини падіння сервісу та відновлення роботи за інструкцією. Ескалація проблем розробнику, якщо необхідні зміни в коді. ⚙️ Робота з автоматизаціями Запуск автоматичної розкатки доменів. Контроль того, що автоматизація відпрацювала коректно. Розбір доменів, які не були успішно розгорнуті. Запуск готових Bash/Python-скриптів. Аналіз результату виконання скрипта та визначення місця помилки. Повторний запуск автоматизації за інструкцією. Ескалація проблем, якщо для вирішення потрібні зміни в коді. 💰 Облік Щотижневий розрахунок собівартості хостів і доменів. Складання кошторису на поповнення картки під реєстрації на наступний тиждень і подання його керівнику на затвердження. Контроль коректності роботи внутрішньої автоматизації внесення платежів у Finmap: звірка з фактичними списаннями в платіжних сервісах, виявлення пропущених, дубльованих і некоректно рознесених транзакцій, діагностика збоїв скрипта. 🛠️ Технічна та користувацька підтримка Перша лінія підтримки L1/L2 для внутрішньої команди. Прийом та первинний розбір технічних звернень. Ведення всіх звернень у тікет-системі. Вирішення типових технічних питань за інструкціями. Правки на сайтах WordPress: контент; налаштування; плагіни; теми; доступи; оновлення; відновлення після невдалих оновлень. Щоденна робота з CRM: контроль заявок; актуалізація статусів; перевірка коректності інтеграцій. 🚨 Інциденти та документація Первинне реагування на недоступність сайту, помилки 502/504 та падіння сервісів. Самостійне усунення типових інцидентів за готовими інструкціями. Оперативне інформування команди про статус проблеми. Підготовка bug reports для розробників із необхідною технічною інформацією: логи, конфігурації, кроки відтворення. Підтримка актуальних runbook та інструкцій для повторюваних процесів. Фіксація нових типових проблем та рішень для подальшої автоматизації й оптимізації. Що важливо для цієї позиції WordPress Впевнена робота з WordPress. Плагіни, теми, оновлення, налаштування та доступи. Розуміння, як локалізувати причину помилки без необхідності писати PHP. Буде плюсом знання WP-CLI . Домени, DNS та SSL Практичний досвід роботи з великою кількістю доменів. Розуміння принципів роботи A / CNAME / MX / TXT . Досвід роботи з панелями реєстраторів. Cloudflare . SSL / Let's Encrypt . Розуміння повного циклу роботи з доменом: реєстрація → DNS → деплой → SSL → запуск → продовження . Linux та сервери Базові знання Ubun",
     "region": "Україна",
     "first_seen": "2026-09-09T02:34:37.516745+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://jobicy.com/jobs/152811-support-engineer-emea-weekends": {
     "title": "Support Engineer (EMEA - Weekends)",
@@ -933,7 +933,7 @@
     "location": "EMEA",
     "posted_at": "2026-09-08T17:26:02+00:00",
     "first_seen": "2026-09-09T02:34:37.516745+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://jobs.lever.co/jobgether/345bae2e-87e6-4b30-ae6a-980241f5db81": {
     "title": "Application Integration Developer",
@@ -1020,7 +1020,7 @@
     "location": "London Office",
     "posted_at": "2026-09-08T22:42:56.267000+00:00",
     "first_seen": "2026-09-09T02:34:37.516745+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://jobs.dou.ua/companies/oxtech/vacancies/371452/": {
     "title": "Technical support engineer (night)",
@@ -1029,7 +1029,7 @@
     "description": "Compensation: $900–1300, . Technical support engineer (night) в OxTech, $900–1300, віддалено | DOU Join us for a new WAWTech Live workshop with Ivan Lapa, Senior UI Engineer at Netflix 📅 September 10, 19:00 EEST × Вхід і реєстрація Вакансії Перша робота Тренди Компанії Рейтинг Топ-50 Відгуки Додати компанію OxTech Всі вакансії компанії OxTech offers a wide range of cutting edge products and flexible gaming solutions. We are focused on optimizing the performance of our partner gaming operators through automation and best-of-breed management tools. Всі вакансії / Support / віддалено 31 серпня 2026 Technical support engineer (night) віддалено $900–1300 *Please indicate your salary expectations. We are currently seeking a qualified and experienced Technical support engineer to join our team. Preferred skills: Working experience in gambling support/tech support teams; Working experience with RMG projects. Must have skills: Strong user of Jira Software/Jira service management/Any desk/ Google workspace, etc. Upper-Intermediate level of spoken and written English; Strong verbal and corporate communication skills; Understanding of the software lifecycle; Ability to learn quickly and work as a part of a team; A challenging and inquiring mind; Attention to detail and tenacity; Quick logical thinking; Sociability, communicability; Responsibilities: Monitoring of high-priority services, Testing: performance and the new functionality used; Diagnostics and solution of user problems when working with the software used; Prioritizing user requests; Providing individual solutions for customers based on their business needs. Working hours from 21:00 to 9:00 (2/2) Ready to offer: Social benefits, paid vacations, sick-leaves Career possibilities with growing team. Facebook Twitter LinkedIn Відгукнутися на вакансію Правила відгуків Гарячі Support вакансії Customer Support Representative в Helpware , від $800 , віддалено Technical Support Specialist (IT) в UniTalk , $600–1200 , Київ Founders Associate | Talent Acquisition в Occam Industries , $1500–3000 , Київ Strong Middle Ops в ПУМБ , $2000–2200 , віддалено Recovery manager в Galaktica , Київ, Львів, Одеса, Ларнака (Кіпр), віддалено UAV Support Engineer | Інженер технічної підтримки в Warbirds , Київ Junior Support Manager в UniTalk , $700–900 , Київ Customer Support Specialist в HealthJoy , $900–1050 , віддалено Всі Support вакансії Схожі вакансії Customer Success Lead в Hurma System , віддалено Customer Support Lead в OBRIO , Київ, Львів, Варшава (Польща), віддалено Fortinet Engineer / Network Security Engineer (Part-time) в IT SmartFlex , віддалено Head of Service Desk в Atlaslive , віддалено Senior Support Engineer в Quod Financial , до $3000 , віддалено Junior IT Helpdesk Specialist в Avenga , Львів, Івано-Франківськ, Полтава, віддалено Support Agent (AI & Automation) в Headway Inc , Київ, за кордоном, віддалено Application Support Engineer (FinTech / Payment Systems) в City24 , Київ, віддалено Всі схожі вакансії Скористайтесь акаунтом × Google LinkedIn GitHub Facebook Увійти за поштою . Вхід Реєстрація Відновлення пароля Пошта Пароль Неправильний пароль Увійти Реєстрацію по email закрито Пошта Скинути пароль Ви неправильно вказали свою пошту Або скористайтесь акаунтом . Для того, щоб зробити ваш профіль повноцінним, вкажіть вашу пошту. Ми відправимо вам лист з посиланням для підтвердження. Пошта Зберегти Ви неправильно вказали свою пошту я згоден(-на) з умовами використання сайту і політикою конфіденційності .",
     "region": "Україна",
     "first_seen": "2026-09-09T08:34:25.499324+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://djinni.co/jobs/841969-middle-senior-system-analyst-integration-data/": {
     "title": "Middle Senior System Analyst Integration Data",
@@ -1365,7 +1365,7 @@
     "description": "Digital Account Manager в Universal Parallel – Djinni Помилка Відкрити в застосунку Djinni As a Digital Growth Account Manager , you will own the relationship with newly acquired clients, ensuring a seamless onboarding experience, successful campaign launches, outstanding communication, and long-term account growth. This role combines strategic consulting, client success, operational excellence, and business development. The ideal candidate enjoys building relationships, loves structured processes, communicates proactively, and can confidently coordinate multiple stakeholders without losing attention to detail. What You’ll Do Client Success & Relationship Management Become the primary point of contact throughout the client lifecycle Lead onboarding and campaign kickoff meetings Build trusted long-term client relationships through proactive communication Ensure every client always knows the current project status Maintain high client satisfaction Campaign Launch & Delivery Coordinate media planning and campaign setup Ensure campaigns launch on time and according to agreed KPIs Coordinate reporting schedules and campaign documentation Strategic Growth Identify opportunities for upselling and expanding services Develop long-term account growth strategies Reporting & Analytics Prepare weekly and monthly client reports Present campaign performance and business insights Track account health and delivery KPIs What We’re Looking For: 3+ years of Digital Account Management experience Agency experience is highly preferred Experience managing multiple client accounts simultaneously Experience with international clients Middle East market experience is a strong advantage Technical Skills Strong understanding of: Google Ads,Meta Ads Familiarity with digital media planning Soft Skills We’re looking for someone who is: Highly organized and detail-oriented Proactive rather than reactive Excellent at stakeholder management Confident communicating with senior client representatives Able to simplify complex information Process-driven and systematic Comfortable making decisions and taking ownership Language Requirements English — Upper-Intermediate (B2+) or higher Why Join Universal Parallel? Remote-first culture: Work from anywhere while collaborating with an international team. Warsaw Office: Prefer an office environment? You’re welcome to work from our Warsaw office. Career Growth: Work directly with experienced Digital leaders and gain exposure to international brands. Real Ownership: You’ll influence not only client success but also how our agency operates and scales. Вимоги до володіння мовами Англійська B2 – Вище середнього Опубліковано 7 серпня · Оновлено 16 вересня 195 переглядів · 65 відгуків Активність рекрутера: Середня Відповідали 4 хвилини тому Подивитись статистику кандидатів що відгукнулись на цю вакансію 👀 Огляд кандидатів Для відгуку на цю та інші вакансії на Djinni увійдіть або зареєструйтеся . від\n        2 років досвіду Також розглядаємо з досвідом 1 рік Тільки віддалено Країни Європи та Україна Країни, де розглядаємо кандидатів Англійська B2 – Вище середнього Account Manager Зайнятість: Fulltime Домен: Advertising / Marketing Агенція Є тестове завдання Активність рекрутера: Середня Відповідали 4 хвилини тому 📊 Середня зарплатна вилка схожих вакансій у аналітиці → Завантаження... We use cookies to improve your experience. Learn more Okay",
     "region": "Україна",
     "first_seen": "2026-09-16T09:01:28.345660+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://jobs.dou.ua/companies/uvik-software/vacancies/373529/": {
     "title": "Technical Support Engineer (Weekdays)",
@@ -1752,7 +1752,7 @@
     "location": "Bulgaria,  Italy",
     "posted_at": "2026-09-19T12:43:59+00:00",
     "first_seen": "2026-09-20T02:52:03.139413+00:00",
-    "link_checked_at": "2026-11-22T13:53:12.900035+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://jobs.dou.ua/companies/buketexpress/vacancies/373921/": {
     "title": "AI Integration Specialist / LLM Engineer (Gemini, Месенджери, 3CX / SIP)",
@@ -1819,7 +1819,7 @@
     "description": "Data Integration Specialist в ORIL, Львів, віддалено | DOU Маркетологи, зустрічаємося офлайн!🤩 DOU Marketing Day — 30 жовтня в Києві! × Вхід і реєстрація Вакансії Перша робота Тренди Компанії Рейтинг Топ-50 Відгуки Додати компанію ORIL Всі вакансії компанії ORIL is a custom software development company dedicated to simplifying digital transformation. Our expertise lies in devising advanced tech solutions that enhance business processes and drive growth. We’re committed to delivering impactful results that positively shape the businesses we work with. Всі вакансії / Data Engineer / Львів 22 вересня 2026 Data Integration Specialist Львів, віддалено ORIL is looking for a Data Integration Specialist to lead and manage the data integration architecture of our AI-driven facilities management platform. The ideal candidate will possess strong expertise in optimizing data pipelines, resolving intricate integration issues, and ensuring uncompromising data quality. About the project A platform shaping the future of facilities management by connecting buildings, occupants, service providers, and operatives. It streamlines soft FM services so property managers and service providers can plan, source, and manage their portfolios more efficiently and at lower cost, delivering real-time transparency across every site. The ecosystem spans FM service workflows, IoT-connected building sensors, third-party FM platforms, mobile and web clients, and event-driven microservices. What will you do? Design, build, and maintain scalable data pipelines and integrations across internal microservices, third-party FM platforms, IoT sensors, and external APIs. Design and implement ETL/ELT pipelines on Azure Databricks, building on Delta Lake and Lakehouse architecture to ingest, model, transform, and serve structured and semi-structured data. Define and own the data modelling layer — schemas and domain models that keep data structured and validated before ingestion, avoiding raw data sprawl. Work with event-driven architectures (message queues, pub/sub, event streams) to enable real-time data propagation and workflow automation. Define and enforce data mapping, transformation rules, and validation standards across all data flows. Collaborate with backend engineers, product managers, and data stakeholders to translate integration requirements into robust solutions. Monitor integration health, set up alerting, and diagnose pipeline failures to maintain high availability and data fidelity. Document integration patterns, data contracts, and API specifications for the wider engineering team. Contribute to platform-wide data quality, observability, and reliability standards. What are we looking for? 4+ years of professional experience in a data integration, data engineering, or backend integration role. Hands-on experience with Azure Databricks for data engineering, pipeline orchestration, and large-scale transformations. Strong proficiency in Python for data engineering, pipeline development, and transformation logic. Strong understanding of data modelling, schema design, and data transformation patterns. Experience with relational and/or NoSQL databases (PostgreSQL, Cosmos DB, or similar). Understanding of distributed systems, microservices architectures, and cloud-native environments. High attention to detail and a strong sense of ownership over data quality and integration reliability. Comfort working across engineering, product, and business teams. English: Upper-Intermediate+ Nice to have: Experience with Azure Service Bus or similar event-driven messaging platforms (pub/sub, message queues, async workflows). Exposure to real-time streaming data and sensor telemetry workflows. Knowledge of data governance, lineage tracking, or observability tooling. We offer: Competitive compensation; Accounting support services; Flexibility to work from anywhere (fully remotely or in our office in Lviv); Comprehensive day-off policy, including public holidays and special even",
     "region": "Україна",
     "first_seen": "2026-09-23T02:51:12.096064+00:00",
-    "link_checked_at": "2026-11-22T13:53:12.900035+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://jobicy.com/jobs/153898-technical-support-specialist-hospitality-german-speaking-all-genders": {
     "title": "Technical Support Specialist (Hospitality) German speaking- all genders",
@@ -1916,7 +1916,7 @@
     "description": "Compensation: $1500–3000 . IT Support Engineer L2/L3 (BPMS system) в Kyivstar.Tech, Київ, віддалено | DOU Маркетологи, зустрічаємося офлайн!🤩 DOU Marketing Day — 30 жовтня в Києві! × Вхід і реєстрація Вакансії Перша робота Тренди Компанії Рейтинг Топ-50 Відгуки Додати компанію Kyivstar.Tech Всі вакансії компанії Kyivstar.Tech — нова IT-компанія, резидент Дія City. Компанію створено в січні 2023. Всі вакансії / Support / Київ 23 вересня 2026 IT Support Engineer L2/L3 (BPMS system) Київ, віддалено Команда Київстар.Тех у пошуку нового колеги або коліжанки на роль IT Support Engineer L2/L3 (BPMS system). Ця роль дозволить тобі розвиватися в DevOps-культурі, задіювати та вдосконалювати навички кодування, автоматизації та адміністрування сучасних ІТ-рішень. Про нас Kyivstar.Tech — українська гібридна ІТ-компанія, резидент Дія.City. Ми є дочірньою компанією Київстар, одного з найбільших українських операторів зв’язку. Наша місія — змінювати життя в Україні та у світі, створюючи технологічні рішення і продукти, що реалізують потенціал компаній і потреби користувачів. Понад 700 спеціалістів KS.Tech щодня працюють у різних сферах: мобільні та вебрішення, а також проєктування, розробка, підтримка та технічне обслуговування високопродуктивних систем і сервісів. Ми віримо в інновації, що дійсно приносять якісні зміни, та постійно кидаємо виклик традиційним підходам і рішенням. Кожен з нас є адептом підприємницької культури, яка дозволяє ніколи не зупинятися, розвиватися і створювати нове. Що ти будеш робити Займатись технічною підтримкою системи BPMS (Business Process Management System) Виконувати адміністративні роботи в системі (усунення помилок, інцидентів, відновлення роботи системи, виконання заявок користувачів) Конфігурувати систему BPMS Створювати оперативні звіти з БД (СУБД MS SQL) Розробляти макрокоманди необхідні для автоматизації процесів в системі Налаштовувати метрики моніторингу, контролювати виконання резервування системи Встановлювати та тестувати нові патчі для системи Взаємодіяти з розробниками системи, контролювати виконання поставлених завдань розробникам системи Брати участь в проєктах з розвитку системи Яка кваліфікація та досвід необхідні Не менше 3 років в галузі IT Знання принципів функціонування автоматизованих систем управління підприємством Просунуті навички роботи з Linux OS (написання bash скриптів) Навички роботи з Docker Навички володіння PL/SQL (написання скриптів, процедур) Навички конфігурування системи BPMS (як перевага) Що ми пропонуємо Офіс або ремоут — вирішувати тобі Ремоут онбординг Перформанс бонуси для всіх (річні чи квартальні — залежить від ролі) Навчаємо працівників: є безліч внутрішніх ресурсів і програм від партнерів, власна бібліотека Страхування здоров’я і життя для працівників Wellbeing-програма та корпоративний психолог Компенсація витрат на мобільний зв’язок Київстар Facebook Twitter LinkedIn Відгукнутися на вакансію Правила відгуків Гарячі Support вакансії UAV Support Engineer | Інженер технічної підтримки в Warbirds , Київ Founders Associate | Talent Acquisition в Occam Industries , $1500–3000 , Київ Customer Support Representative в Helpware , від $800 , віддалено Director of support services в Nova Digital , Київ Junior Technical Support Manager в UniTalk , $600–900 , Київ Customer Support Specialist в HealthJoy , $900–1050 , віддалено Всі Support вакансії Схожі вакансії L3 Support Engineer в Glorium Technologies , Київ, Краків (Польща), Пафос (Кіпр), віддалено Customer Support Lead в OBRIO , Київ, Львів, Варшава (Польща), віддалено Керівник відділу сервісу та технічної підтримки в NETRONIC , Київ Middle Support Engineer (ERP systems) в Kyivstar.Tech , Київ, віддалено Customer Success Manager | EN в Forward® , $1000–1500 , Kalynivka, Київ, віддалено Customer / Technical Support Specialist в Corefy , Київ Керівник служби технічної підтримки (Head of Technical Support) в ІнфоПлюс , Київ Applications Administrator в Quipu , $1200 , Київ, віддалено Всі схожі вакансії Скористайтесь акаун",
     "region": "Україна",
     "first_seen": "2026-09-23T09:03:07.418671+00:00",
-    "link_checked_at": "2026-11-22T13:53:12.900035+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://jobicy.com/jobs/149574-linux-platform-integration-ubuntu-systems-senior-engineer": {
     "title": "Linux Platform Integration - Ubuntu Systems Senior Engineer",
@@ -1926,7 +1926,7 @@
     "location": "Anywhere",
     "posted_at": "2026-09-23T04:00:33+00:00",
     "first_seen": "2026-09-23T09:03:07.418671+00:00",
-    "link_checked_at": "2026-11-22T13:53:12.900035+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://job-boards.greenhouse.io/algolia/jobs/6206200004": {
     "title": "Account Manager - Dutch speaking ",
@@ -1936,7 +1936,7 @@
     "location": "Remote - Netherlands",
     "posted_at": "2026-09-23T08:56:53+00:00",
     "first_seen": "2026-09-23T09:03:07.418671+00:00",
-    "link_checked_at": "2026-11-22T13:53:12.900035+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://jobs.lever.co/jobgether/0683ab18-b735-4012-b7b7-4e48ef165a16": {
     "title": "Senior Accountant - Technical Accounting",
@@ -2967,7 +2967,7 @@
     "description": "Technical Support Consultant (German) в 3Shape Ukraine, віддалено | DOU ШІ в дронах уже не майбутнє. Розберемо, що реально працює сьогодні → × Вхід і реєстрація Вакансії Перша робота Тренди Компанії Рейтинг Топ-50 Відгуки Додати компанію 3Shape Ukraine Всі вакансії компанії 3Shape develops 3D scanners and software solutions that enable dental and hearing professionals to treat more people, more effectively. Our products are market leading innovative solutions that make a real difference in the lives of both patients and dental professionals around the world. Всі вакансії / Support / віддалено 29 вересня 2026 Technical Support Consultant (German) віддалено We’re looking for a Customer Support Consultant to join our dynamic, multicultural team — someone who shares our passion for solving problems and building strong relationships with our reselling partners and end-users worldwide. Areas of responsibility: Provide excellent, efficient technical support on 3Shape hardware (3D scanners) and software — via online sessions, phone, email, and occasional on-site events Manage support cases: gather all relevant information from customers according to company procedures, and record it in the company’s CRM Collaborate with other departments and escalate customer feedback as needed To succeed in this role, you should have: A customer-oriented approach Strong communication skills — the ability to ask the right questions and truly listen Strong verbal and written German (B2 level and higher) Upper-Intermediate English or higher (used for internal communication) Problem-solving and logical thinking skills A results-driven, stress-resistant mindset A genuine drive for self-development and continuous learning Analytical, multitasking, and empathetic skills Being the part of us means: Meaningful work that helps to change the future of dentistry Work in a unique professional, friendly and supportive environment Constant professional growth and development A healthy work-life balance Comprehensive benefits incl. 24 working days of annual vacation; medical insurance; paid sick leaves and child sick leaves; maternity and paternity leaves etc Occasional business trips to Western Europe Opportunity to become a part of the success that 3Shape has created over the past 25 years. Facebook Twitter LinkedIn Відгукнутися на вакансію Правила відгуків Гарячі Support вакансії Customer Support Representative в Helpware , від $800 , віддалено Customer Support Team Lead в Growe , віддалено Всі Support вакансії Схожі вакансії Junior Customer Support Consultant (German) в 3Shape , віддалено Customer Support Agent (GDS/Ticketing Experience Required) в DRCT , віддалено L1/L2 Support Specialist в TrueLabel , Лісабон (Португалія), віддалено IT Support Engineer в Kyivstar.Tech , Київ, віддалено FL Support Team Lead в SEOBROTHERS , за кордоном, віддалено Middle Technical Support Specialist (Rotating shift schedule, including weekends. Shifts are from 4 p.m.—1 a.m. and 1 a.m.—9 a.m) в Agiliway , Львів, Чернівці, віддалено Junior Technical Support Engineer в ICONIC21 , віддалено Customer Support Agent в Kolo Wallet , віддалено Всі схожі вакансії Скористайтесь акаунтом × Google LinkedIn GitHub Facebook Увійти за поштою . Вхід Реєстрація Відновлення пароля Пошта Пароль Неправильний пароль Увійти Реєстрацію по email закрито Пошта Скинути пароль Ви неправильно вказали свою пошту Або скористайтесь акаунтом . я згоден(-на) з умовами використання сайту і політикою конфіденційності .",
     "region": "Україна",
     "first_seen": "2026-09-30T03:29:45.573132+00:00",
-    "link_checked_at": "2026-11-22T13:53:12.900035+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://jobs.lever.co/jobgether/4edba0de-1d93-406b-bcf3-544ae21e47dc": {
     "title": "Account Manager (Email Marketing)",
@@ -3882,7 +3882,7 @@
     "location": "Remote",
     "posted_at": "2026-10-13T17:40:46+00:00",
     "first_seen": "2026-10-14T03:05:35.888130+00:00",
-    "link_checked_at": "2026-11-22T13:53:12.900035+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://jobicy.com/jobs/155208-account-manager-dutch-speaking": {
     "title": "Account Manager - Dutch speaking",
@@ -3892,7 +3892,7 @@
     "location": "France",
     "posted_at": "2026-10-13T11:55:00+00:00",
     "first_seen": "2026-10-14T03:05:35.888130+00:00",
-    "link_checked_at": "2026-11-22T13:53:12.900035+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://djinni.co/jobs/840924-account-manager-facebook-traffic/": {
     "title": "Account Manager Facebook Traffic",
@@ -4705,7 +4705,7 @@
     "location": "Europe / Poland ",
     "posted_at": "2026-10-07T16:19:13.024000+00:00",
     "first_seen": "2026-10-20T02:59:23.220929+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://jobicy.com/jobs/151014-associate-linux-support-engineer": {
     "title": "Associate Linux Support Engineer",
@@ -4715,7 +4715,7 @@
     "location": "Anywhere",
     "posted_at": "2026-10-20T03:25:16+00:00",
     "first_seen": "2026-10-20T09:05:07.626306+00:00",
-    "link_checked_at": "2026-11-22T13:53:12.900035+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://jobs.lever.co/jobgether/0ae22137-b5b6-44f1-a9d7-4ad9ff11c08f": {
     "title": "Channel Account Manager",
@@ -5033,7 +5033,7 @@
     "location": "Czechia",
     "posted_at": "2026-10-23T00:00:00+00:00",
     "first_seen": "2026-10-24T02:53:04.304553+00:00",
-    "link_checked_at": "2026-11-22T13:53:12.900035+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://apply.workable.com/j/8DC2107C28": {
     "title": "Enterprise Account Manager (Strategic Renewals) - Poland",
@@ -5043,7 +5043,7 @@
     "location": "Poland",
     "posted_at": "2026-10-23T00:00:00+00:00",
     "first_seen": "2026-10-24T02:53:04.304553+00:00",
-    "link_checked_at": "2026-11-22T13:53:12.900035+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://apply.workable.com/j/6417E70F94": {
     "title": "Enterprise Account Manager (Strategic Renewals) - Romania",
@@ -5053,7 +5053,7 @@
     "location": "Romania",
     "posted_at": "2026-10-23T00:00:00+00:00",
     "first_seen": "2026-10-24T02:53:04.304553+00:00",
-    "link_checked_at": "2026-11-22T13:53:12.900035+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://djinni.co/jobs/854955-junior-account-manager-it-services/": {
     "title": "Junior Account Manager It Services",
@@ -5062,7 +5062,7 @@
     "description": "Junior Account Manager (IT Services) в FrostNode OÜ – Djinni Помилка Відкрити в застосунку Djinni Hi there! We're FrostNode OÜ, a young Estonian company connecting European businesses with skilled IT professionals, primarily from Ukraine. We're looking for an Account Manager to handle client communication and make sure everything runs smoothly between our clients and IT specialists. You don't need years of experience or a technical background. If you speak English confidently, enjoy working with people, and know how to stay organized, we'd love to meet you. WHAT YOU'LL BE DOING • Communicate with European B2B clients in English, both in writing and during online meetings. • Coordinate communication between clients and IT specialists. • Follow up on requests, resolve day-to-day issues, and make sure nothing gets overlooked. • Organize online meetings and keep everyone informed. • Prepare short monthly reports and track important updates. • Stay available during agreed business hours when clients need assistance. WHAT WE'RE LOOKING FOR • English B2+ or C1, with confident spoken communication. • Strong communication and organizational skills. • A responsible, proactive approach to work. • Ability to manage tasks independently. • Basic knowledge of Google Docs, Sheets, and similar tools. • Willingness to learn about IT services and client management. Previous experience in Account Management, Customer Success, Customer Support, or Project Coordination is welcome but not required. We're open to Junior candidates, students, and people looking to move into international client-facing roles. WHAT WE OFFER • Fully remote cooperation from anywhere. • Flexible schedule with agreed availability for client communication. • No exclusivity. You can combine this opportunity with another job, studies, or personal projects. • Independent contractor agreement with an Estonian company. • Recurring monthly compensation based on your active client portfolio. • The opportunity to take on additional clients as our business develops. HOW COMPENSATION WORKS Your monthly compensation depends on the number of active clients and IT specialists assigned to you. You receive €300 per active client per month, plus €100 for each assigned IT specialist. Here are a few examples: 1 client + 3 specialists = €600/month 2 clients + 4 specialists = €1,000/month 3 clients + 6 specialists = €1,500/month 4 clients + 8 specialists = €2,000/month These are examples of potential compensation for full months with active paid assignments, not guaranteed earnings. There is no fixed salary or guaranteed minimum income. Compensation is based on active client assignments and paid service periods. Partial months are calculated proportionally. A BIT ABOUT US FrostNode is a newly established company, and we're currently building our client portfolio. We're looking for someone who would be interested in joining us as client assignments become available. There is no guaranteed paid workload at the beginning. You won't need to sit in front of your computer all day. What matters is staying available when needed, communicating clearly, and making sure your clients are taken care of. We're not looking for a perfect CV. We're looking for someone reliable, easy to communicate with, and willing to learn. INTERESTED? Tell us a little about yourself, your English level, and any relevant experience. We'd be happy to have a conversation and see if we're a good fit for each other. Необхідні навички Управлінський облік, Підтримка, Ведення перемовин, Комунікація Вимоги до володіння мовами Англійська B2 – Вище середнього Опубліковано 24 жовтня 65 переглядів · 9 відгуків Подивитись статистику кандидатів що відгукнулись на цю вакансію 👀 Огляд кандидатів Для відгуку на цю та інші вакансії на Djinni увійдіть або зареєструйтеся . від\n        0.5 років досвіду Також розглядаємо без досвіду Тільки віддалено Весь світ Країни, де розглядаємо кандидатів Англійська B2 – Вище середнього Account Manager Зайняті",
     "region": "Україна",
     "first_seen": "2026-10-25T02:45:28.356059+00:00",
-    "link_checked_at": "2026-11-22T13:53:12.900035+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://www.arbeitnow.com/jobs/companies/weiler-consult-gmbh/account-manager-power-bi-customer-success-mit-entscheidungsbefugnis-berlin-273076": {
     "title": "Account Manager (m/w/d) Power BI, Customer Success mit Entscheidungsbefugnis",
@@ -6276,7 +6276,7 @@
     "description": "Middle/Senior Data and Integration Engineer (Telecom domain) в DevBrother – Djinni Помилка Відкрити в застосунку Djinni ​ About the Project DevBrother is seeking a Data & Integration Engineer for a European telecommunications provider. Working in parallel with the AI Infrastructure Lead, your core mission will be to wrangle, structure, and reconcile complex business and telecom data. You will build the remote pipelines that ultimately feed into the newly established on-premise LLM ecosystem, with periodic travel to Croatia for stakeholder alignment. ​ Key Responsibilities ​ ETL & Data Pipelines: Design and maintain pipelines to import files from numerous external sources, handling varied and inconsistent spreadsheet or CSV layouts. ​ Data Extraction & Structuring: Parse messy, semi-structured data (LLM-assisted extraction experience is a strong advantage). ​ Reconciliation: Match and validate disparate datasets, configuring tolerance levels, exception handling, and automated difference reports. ​ Telecom & Billing Processing: Work heavily with pricing lists, tariffs, invoicing, and complex billing systems. ​ System Integration: Write processed data into legacy or in-house systems via staging tables, APIs, or import files. ​ Database Architecture: Manage and optimize large-scale tables in SQL (preferably MariaDB/MySQL). ​ Business Logic & Testing: Implement configurable business rules, approval workflows, and anomaly flags. Write automated tests for various input formats and matching logic regression. ​ Stakeholder Collaboration: Conduct workshops with business users to translate requirements into technical specifications and support user testing phases. ​ Requirements ​ 4+ years of hands-on experience in Data Engineering, ETL pipelines, and SQL (MariaDB/MySQL). ​ Upper-Intermediate (B2) or Advanced English to conduct workshops and gather requirements directly from business users. ​ Strong Plus: Domain experience in Telecom/VoIP, including familiarity with rate sheets, CDRs, dial codes, and ASR/ACD metrics. ​Proven ability to untangle messy data and build robust reconciliation processes. ​Ability to work independently in a parallel track, ensuring data pipelines are production-ready for final AI model integration. ​Willingness to occasionally travel to Croatia for team collaboration and business alignment sessions. We OFFER: ​A fast-paced, highly professional, international team environment with a flat structure and rapid decision-making. ​Competitive compensation packages commensurate with your background and product portfolio. ​Flexible, remote-first workflow optimized for seamless global alignment. Medical Insurance in Ukraine and a Multisport program in Poland. Offices in Ukraine (Kyiv, Kharkiv) and Poland (Wroclaw) or Remote. Paid vacation, sick leave, and official holidays. Legal & Accounting services. The company provides all necessary equipment. English classes and Education reimbursement. Необхідні навички Python, SQL початковий рівень, ETL, AWS, Docker PostgreSQL, MariaDB + ще 2 Вимоги до володіння мовами Англійська B2 – Вище середнього Українська Носій мови Опубліковано 31 жовтня 29 переглядів · 0 відгуків Для відгуку на цю та інші вакансії на Djinni увійдіть або зареєструйтеся . Виключно\n      \n      \n        від\n        4 років досвіду Тільки віддалено Країни ЄС Країни, де розглядаємо кандидатів Англійська B2 – Вище середнього Українська Носій мови Data Engineer Зайнятість: Fulltime Домен: Telecom / Communications Змішана (сервісно-продуктова) 📊 Середня зарплатна вилка схожих вакансій у аналітиці → Завантаження... We use cookies to improve your experience. Learn more Okay",
     "region": "Україна",
     "first_seen": "2026-11-01T03:47:06.634321+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://djinni.co/jobs/856084-lead-support-engineer/": {
     "title": "Lead Support Engineer",
@@ -6693,7 +6693,7 @@
     "description": "Compensation: $900–1000 . L3 Support Engineer (Technical Escalation & Troubleshooting) в Webitel, віддалено | DOU 300 ₴ 1 ШАНС Ваш квиток до MacBook Pro M5 — це\n    кожні 300 грн донату на НРК для «Азову» Донатити → × Вакансії Перша робота Тренди Компанії Рейтинг Топ-50 Відгуки Додати компанію Webitel Всі вакансії компанії Our company develops own communication platform Webitel for building call-centers of any complexity level.\n\n\nWe provide a full cycle of servicing our own production systems. Our technical experts provide consulting services, perform installation, configuration and remote diagnostics of the system. Всі вакансії / Support / віддалено 3 листопада 2026 бронювання L3 Support Engineer (Technical Escalation & Troubleshooting) віддалено Webitel — продуктова IT-компанія, яка розробляє омніканальну платформу для контакт-центрів та корпоративних комунікацій. Ми створюємо технологічні рішення, що щодня обробляють мільйони взаємодій, поєднуючи голосові канали (VoIP/SIP), чати, автоматизацію процесів та аналітику. Шукаємо досвідченого L3 Support Engineer , який стане провідним технічним експертом нашої команди підтримки, підсилить інженерну експертизу L1/L2 та візьме на себе розбір найскладніших кейсів. Обовʼязки: Deep Troubleshooting: розбір критичних інцидентів платформи, аналіз логів і конфігурацій, виявлення першопричин (RCA) та взаємодія з R&D/DevOps. VoIP & SIP-інтеграції: діагностика проблем із SIP-сигналізацією та медіапотоками (RTP), робота з SIP-транками та провайдерами зв’язку. Менторство: технічна підтримка спеціалістів L1/L2, розбір складних кейсів та проведення внутрішніх навчань. База знань: створення troubleshooting guides, регламентів та оптимізація процесів діагностики. Вимоги: Досвід у технічній підтримці IT-/телекомунікаційних систем (L2/L3) або системному адмініструванні. Впевнене розуміння протоколів SIP, RTP, VoIP та мережевого стека (TCP/IP, UDP, DNS, NAT). Досвід роботи з FreeSWITCH або Asterisk . Практичні навички адміністрування та траблшутингу Linux . Досвід аналізу трафіку за допомогою sngrep, tcpdump, Wireshark . Базові навички роботи з Docker та скриптами ( Bash/Python ). Готовність менторити колег та зрозуміло пояснювати технічні деталі. Буде плюсом: Досвід роботи з реляційними базами даних ( PostgreSQL , MySQL ). Знання систем моніторингу ( Prometheus , Grafana , Zabbix ). Досвід роботи з Jira Service Management. Facebook Twitter LinkedIn Відгукнутися на вакансію Правила відгуків Гарячі Support вакансії Technical Support Engineer — night shifts в Playson , за кордоном, віддалено Technical support specialist в IBWT , $900–1000 , Київ Customer Support Representative (English + German or French) в Ideals , віддалено Head of Customer Experience в Міністерство оборони України , Київ Customer Support Specialist в Reintech , Львів Customer Care Expert — German в WiX , Київ Фахівець технічної підтримки клієнтів в NDA Recruitment , Київ Customer Support Representative в Helpware , від $800 , віддалено Всі Support вакансії Схожі вакансії Customer Success Manager (Upsell & Account Growth) в Indigo - Tech Recruiters , віддалено Customer Success Specialist (Career Services) — Legit в Genesis , віддалено VIP Team Lead (iGaming) в Gypsy Collective , віддалено Support and Customer Success Team Lead в ABM Cloud , віддалено Technical Support Team Lead/L2 в Turbo Stars , віддалено Senior Client Success Manager в Yanarchy , $2000–2500 , віддалено Senior / Lead Full-Stack Support & Maintenance Engineer в DepositSign , $3000–4000 , Київ, віддалено L3 Support Specialist (Processing & Acquiring Platform) в PayPilot , віддалено Всі схожі вакансії Скористайтесь акаунтом × Google LinkedIn GitHub Facebook Увійти за поштою . Вхід Реєстрація Відновлення пароля Пошта Пароль Неправильний пароль Увійти Реєстрацію по email закрито Пошта Скинути пароль Ви неправильно вказали свою пошту Або скористайтесь акаунтом . я згоден(-на) з умовами використання сайту і політикою конфіденційності .",
     "region": "Україна",
     "first_seen": "2026-11-07T04:06:33.946847+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://jobs.ashbyhq.com/PostHog/db808740-242e-4a40-ad43-d41f26c049d7": {
     "title": " Technical Support Engineer",
@@ -6747,7 +6747,7 @@
     "location": "Poland",
     "posted_at": "2026-11-06T11:48:40.225000+00:00",
     "first_seen": "2026-11-07T04:06:33.946847+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://www.arbeitnow.com/jobs/companies/exa/remote-support-engineer-paygo-317778": {
     "title": "Support Engineer, PAYGO",
@@ -6785,7 +6785,7 @@
     "description": "Compensation: $1300–1800 . Technical Support & Integration Specialist (Magento, PunchOut, cXML & JSON) в QA Madness, віддалено | DOU 🥇Проголосуй за свого роботодавця. Твій голос — це той самий missing data point. × Вхід і реєстрація Вакансії Перша робота Тренди Компанії Рейтинг Топ-50 Відгуки Додати компанію QA Madness Всі вакансії компанії QA Madness is a European IT service company with a strong focus on QA and cyber security. Company’s mission is to help businesses around the world release better digital products. Всі вакансії / QA / віддалено 9 листопада 2026 Technical Support & Integration Specialist (Magento, PunchOut, cXML & JSON) віддалено We’re open to candidates with an Integration QA background who have hands-on experience with Magento, APIs, and B2B integrations. This role combines integration testing, technical troubleshooting, and customer support — it is not a classic manual or automation QA position. Candidates with experience in Integration QA, Magento QA, or technical support for e-commerce platforms are welcome to apply. Work type: Remote Technical level: Middle Job category: Technical Support / Integrations English level: Advanced (C1) Responsibilities Troubleshoot PunchOut, order, and invoice integration issues by analyzing cXML/JSON messages, HTTP responses, and system logs. Support and test integrations between Magento-based supplier catalogs and customer eProcurement systems. Analyze API requests and responses to identify integration errors. Reproduce technical issues, identify root causes, and document findings for the development team. Manage customer support tickets from initial triage through resolution. Explain technical issues and solutions to customers in clear, professional English. Answer technical questions from prospects and support sales conversations and RFP responses. Maintain accurate customer records, support notes, and activity in CRM and ticketing systems. Coordinate with Engineering and other internal teams to resolve complex issues. Required Skills Hands-on experience with Magento / Adobe Commerce . Practical experience with JSON and cXML , including reading, writing, and debugging messages independently. Working knowledge of PunchOut and eProcurement workflows . Experience in technical support, QA, integration support, solutions engineering, implementation, or a similar technical role. Understanding of REST APIs, HTTP status codes, headers, and authentication. Experience using Postman or curl to test API requests. Ability to investigate issues using logs, reproduce bugs, and document findings for developers. Advanced written English (C1), with the ability to explain technical issues clearly to customers. Experience working with CRM and ticketing systems. Nice to Have Experience with SAP Ariba, Coupa, or Taulia. Experience with Shopify or BigCommerce. Familiarity with software licensing and customer agreements. Experience in a B2B SaaS, e-commerce, or marketplace environment. What We Offer: Competitive salary in USD or EUR and good compensation package; Corporate English courses; Personal time off (20 calendar days of paid vacation, 12 paid sick leaves); Health insurance; Remote work opportunity; Necessary equipment to perform work tasks; The ability to focus on your work: a lack of bureaucracy and micromanagement (no tracking tools). Interview Process Step 1: Screening interview with a Tech Recruiter Step 2: Interview with technical specialists Step 3: Client interview Please note, this job is a full-time position, and it is relevant only if you meet all requirements. Any candidate who fails to meet the requirements will not be considered for the job. Your application will be considered only once you have completed the questionnaire and uploaded your CV in English. (Click on the hyperlink or copy link into your Internet browser.) Facebook Twitter LinkedIn Відгукнутися на вакансію Правила відгуків Гарячі QA вакансії QA\\QC Embedded Hardware Engineer в NDA Recruitment , Київ Embedded T",
     "region": "Україна",
     "first_seen": "2026-11-10T05:36:45.425768+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://djinni.co/jobs/857504-games-account-manager/": {
     "title": "Games Account Manager",
@@ -6794,7 +6794,7 @@
     "description": "Games Account Manager в TrueLabel – Djinni Помилка Відкрити в застосунку Djinni We are looking for a tech-savvy B2B Casino Operations Specialist to support partner operators, manage game configurations, and ensure seamless day-to-day operations. ⚙️ Your Tasks: Operator Onboarding & Support: Conduct onboarding for B2B operators on Games functionality in Back Office and provide ongoing consultations on its usage; Game Configuration: Adjust game settings (e.g., min/max bets, RTP, etc.) according to operator requests; Big Wins Management: Process verification requests and coordinate marketing activities for Big Wins; Promo Coordination: Log operator requests for participation in promotional campaigns and pass the information to the Promo Manager; Incident Response: React promptly to operational incidents and system alerts; Troubleshooting: Resolve technical issues and restore game provider functionality during system failures or downtime; Data Provisioning: Gather and provide necessary information and reports upon request; B2B Operations: Handle various other operational B2B requests and day-to-day inquiries. 👤 Our Criteria: Experience: 1+ years of experience in the iGaming industry, specifically focusing on casino operations, product management, or game analytics; Casino Knowledge: Understanding of slot mechanics, live casino dynamics, casino mathematics (RTP, volatility, hit frequency), and player psychology; Analytical Mindset: Strong proficiency in working with data, using tools like Excel, Google Analytics, Tableau, or PowerBI to make data-backed decisions; Detail-Oriented: A sharp eye for UX/UI and the overall aesthetic presentation of the casino lobby; Tech-Savvy: Experience working with top casino back-office platforms, CMS, and bonus engines. 💪 Nice to have: Ticketing Systems: Experience working with Jira, Zendesk, Confluence, or similar issue-tracking and knowledge-base tools; Platform Familiarity: Previous experience working with major iGaming aggregators or back-office platforms (SoftSwiss, Soft2bet etc.); Data Handling: Advanced Excel skills for faster data gathering and reporting for B2B clients; B2B Account Management: Prior background in B2B technical support, VIP customer service, or Account Management within the iGaming industry 💼 Our Offer: Flexible work setup — work remotely or from the office, we focus on results, not location; Support for a comfortable work environment — we compensate coworking expenses and EcoFlow power stations to help our team stay productive during power outages in Ukraine; Unlimited vacation and sick leave , because we trust our people to manage their time responsibly; Relocation support for team members who want to move; Regular performance-based bonuses that reward individual and team impact; Learning support — we cover 50% of professional courses and development programs ; Language & wellbeing support — we cover 50% of English classes and psychological consultations ; Career growth opportunities — we prioritize internal promotions and development; Team culture that actually feels like one — regular gifts, company merch, and team events throughout the year; Real impact — we are small enough for every voice to be heard and big enough to turn great ideas into action quickly. Необхідний досвід роботи в галузі Gambling 1 рік Вимоги до володіння мовами Англійська B1 – Середній Українська Носій мови Опубліковано 10 листопада 4 перегляди · 0 відгуків Для відгуку на цю та інші вакансії на Djinni увійдіть або зареєструйтеся . Виключно\n      \n      \n        від\n        2 років досвіду Тільки віддалено Країни Європи та Україна Країни, де розглядаємо кандидатів Англійська B1 – Середній Українська Носій мови Account Manager Зайнятість: Fulltime Домен: Gambling Продуктова компанія 📊 Середня зарплатна вилка схожих вакансій у аналітиці → Завантаження... We use cookies to improve your experience. Learn more Okay",
     "region": "Україна",
     "first_seen": "2026-11-10T14:08:44.019078+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://www.arbeitnow.fr/jobs/companies/veeamsoftware/remote-technical-account-manager-46886": {
     "title": "Technical Account Manager",
@@ -6804,7 +6804,8 @@
     "location": "Remote",
     "posted_at": "2026-11-10T09:55:21+00:00",
     "first_seen": "2026-11-10T14:08:44.019078+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00",
+    "hidden": true
   },
   "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-ma-finance-integration-manager-zurich-433955": {
     "title": "Senior M&A Finance Integration Manager",
@@ -6824,7 +6825,7 @@
     "description": "SAP Integration Suite (CPI) Consultant в Talentuch – Djinni Помилка Відкрити в застосунку Djinni About the Role A global enterprise undergoing a large-scale digital transformation initiative is looking for an experienced SAP Integration Suite (CPI) Consultant to join its integration team. This position is ideal for a hands-on SAP integration professional with solid experience in SAP Cloud Integration (CPI), developing and maintaining integration solutions across SAP and non-SAP environments. The successful candidate will contribute to the development, implementation, and support of integration services, ensuring reliable connectivity between business-critical applications and platforms. What You'll Do Develop, configure, and maintain integration flows using SAP Integration Suite (CPI). Build and enhance iFlows connecting SAP applications with third-party and cloud-based platforms. Implement message mappings, data transformations, and integration scenarios. Participate in integration projects, from technical requirements gathering and development through testing and deployment. Monitor integration processes and troubleshoot technical issues in existing interfaces. Support production integrations and help ensure their stability and performance. Work with SAP functional teams, developers, and other technical stakeholders. Follow established integration standards, security practices, and development guidelines. Contribute to continuous improvements of existing integration solutions. Required Qualifications Professional Experience 4–5+ years of hands-on experience with SAP Cloud Integration (CPI) / SAP Integration Suite. Experience developing and maintaining integration flows (iFlows). Practical experience integrating SAP and non-SAP applications. Experience with message mappings, data transformations, and API-based integrations. Understanding of the integration development lifecycle, including testing, deployment, and troubleshooting. Experience supporting and maintaining integrations in production environments. Good problem-solving and analytical skills. Technical Expertise Practical knowledge of SAP Business Technology Platform (BTP) and SAP Integration Suite. Hands-on experience with: iFlows development and configuration. Message mappings. Data transformations. Groovy scripting. Good understanding of integration technologies and protocols: REST APIs and SOAP Services. OData. IDoc. XML and JSON. Familiarity with connectivity, authentication, and security concepts within SAP BTP. Understanding of integration patterns and communication between enterprise applications. Soft Skills Ability to work independently and take ownership of assigned technical tasks. Good communication and collaboration skills. Strong analytical thinking and troubleshooting abilities. Proactive approach to problem-solving. Ability to work effectively within an international, cross-functional team. Nice to Have Exposure to SAP S/4HANA environments. Experience with SAP PI/PO or related integration technologies. Familiarity with SAP PI/PO to SAP Integration Suite migration projects. Experience with hybrid integration environments (cloud and on-premise). Understanding of enterprise integration architecture and best practices. Необхідні навички SAP CPI, SAP BTP, SAP Integration Suite Вимоги до володіння мовами Англійська B2 – Вище середнього Опубліковано 11 листопада 10 переглядів · 0 відгуків Для відгуку на цю та інші вакансії на Djinni увійдіть або зареєструйтеся . Виключно\n      \n      \n        від\n        4 років досвіду Тільки віддалено Країни Європи та Україна Країни, де розглядаємо кандидатів Англійська B2 – Вище середнього SAP Зайнятість: Fulltime Домен: SaaS Аутстафінгова компанія 📊 Середня зарплатна вилка схожих вакансій у аналітиці → Завантаження... We use cookies to improve your experience. Learn more Okay",
     "region": "Україна",
     "first_seen": "2026-11-11T04:08:35.711196+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://jobs.lever.co/jobgether/00db19d8-c89a-49b6-bff4-10f935701715": {
     "title": "Account Manager",
@@ -7367,7 +7368,7 @@
     "location": "Berlin",
     "posted_at": "2026-11-13T19:30:41+00:00",
     "first_seen": "2026-11-14T04:31:46.527778+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://himalayas.app/companies/mozilla/jobs/senior-software-engineer-os-integration-5113112657?utm_source=api": {
     "title": "Senior Software Engineer, OS Integration",
@@ -7377,7 +7378,7 @@
     "location": "Spain",
     "posted_at": "2026-11-14T01:48:45+00:00",
     "first_seen": "2026-11-14T04:31:46.527778+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-computer-use-integrations-berlin-434731": {
     "title": "Software Engineer (Computer Use & Integrations) (m/w/d)",
@@ -7387,7 +7388,7 @@
     "location": "Remote job",
     "posted_at": "2026-11-14T06:31:30+00:00",
     "first_seen": "2026-11-14T12:51:47.722823+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-128389": {
     "title": "AI Integration & Automation Engineer (m/w/d) GER",
@@ -7445,7 +7446,7 @@
     "description": "Compensation: $2000–2500 . L2 Technical Support Engineer в Geniusee, за кордоном, віддалено | DOU 📊 Хочете бачити реальні оцінки ІТ-компаній? Поділіться своєю думкою за 5 хвилин 📝 × Вхід і реєстрація Вакансії Перша робота Тренди Компанії Рейтинг Топ-50 Відгуки Додати компанію Geniusee Всі вакансії компанії Geniusee is a Ukrainian software engineering and AI company building digital products for clients across the US, UK, and EU. Since 2017, we’ve delivered projects in FinTech, EdTech, Real Estate, Manufacturing, Retail, and other industries. Our approach combines modern technologies, a data-driven mindset, and well-structured delivery processes. Всі вакансії / Support / за кордоном 17 листопада 2026 L2 Technical Support Engineer за кордоном, віддалено At Geniusee, we help businesses thrive through technology partnerships and strengthen the engineering community by sharing knowledge and creating opportunities 🙌 We live by our values: Continuous Growth, Team Synergy, Taking Responsibility, Conscious Openness, and Result-Driven Mindset . Here, you’ll find a safe, inclusive, and supportive environment where your voice is heard, and feedback is welcome 🤗 Whether you want to work from home or from our offices in Kyiv / Lviv / Warsaw with stable electricity and Wi-Fi, we’ve got you covered. Join us and make an impact 💜 Description We are looking for an L2 Technical Support Engineer with strong video streaming (OTT) expertise to cover night and weekend on-call shifts for a video streaming platform. Requirements ● 2+ years of commercial experience in video streaming: HLS/DASH (including Low Latency), DRM (Widevine, FairPlay, PlayReady) ● Hands-on debugging of video players on Web, iOS/tvOS, Android and Smart TVs ● Strong JavaScript, browser DevTools and network trace analysis ● Programming/scripting in Python, Go or Java; solid experience with APIs and SDKs ● Experience with ffmpeg ● Experience with logs and monitoring tools (Grafana, Coralogix or similar) ● Fluent English (B2+/C1): direct communication with enterprise customers and participation in escalation calls ● Readiness for the on-call schedule described below Responsibilities ● Respond to PagerDuty alerts and high-priority customer tickets in Zendesk within agreed SLAs ● Reproduce issues, e.g. by creating small test pages or scripts against the client’s APIs and SDKs ● Analyze logs, manifests and network traces to narrow down the root cause ● Provide the customer with an initial, technically sound response and own the ticket up to that point ● Escalate confirmed or suspected bugs and infrastructure issues to the Engineering on-call team via Jira or PagerDuty, with clear documentation ● Provide eyes-on-glass monitoring during major live events (e.g. sports broadcasts), announced in advance Nice to have ● Live ingest via SRT/RTMP ● VOD encoding ● Experience with PagerDuty, Zendesk, Jira ● Previous L2/L3 support or on-call experience ● Background as a video player developer, support/solutions engineer at a video vendor, or QA on OTT projects Working conditions ● On-call schedule: Monday to Friday 00:00–05:30 CET, plus Saturday and Sunday 24 hours ● Reactive on-call: no constant screen monitoring; you respond to PagerDuty alerts and high-priority tickets ● Response time: within 30 minutes for Blocker incidents; other priorities per the client’s SLAs ● Workload: ~10—20 tickets/incidents and up to ~80 hours of active work per month ● Eyes-on-glass monitoring during major live events (e.g. sports broadcasts), announced in advance ● Shared coverage with a backup engineer, so nights and weekends stay covered during vacations and sick leave ● Fully remote ● 1–2 weeks of onboarding What will you get: Career growth & projects ● Competitive salary based on your skills and experience, and a benefits package. ● Professional development support. ● A modern tech stack across challenging, long-term projects. Work environment & flexibility ● Remote work from anywhere in the world or in one of ou",
     "region": "Україна",
     "first_seen": "2026-11-17T15:50:23.919010+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://www.arbeitnow.fr/jobs/companies/patrique-mercier-recruitment-fr/german-speaking-technical-support-customer-experts-work-remote-in-greece-france-473465": {
     "title": "German Speaking Technical Support Customer Experts - Work Remote In Greece",
@@ -7455,7 +7456,7 @@
     "location": "France",
     "posted_at": "2026-11-17T11:20:23+00:00",
     "first_seen": "2026-11-17T15:50:23.919010+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://jobs.ashbyhq.com/ElevenLabs/71cf2fcc-ec19-45dd-b6c6-439f702779bb": {
     "title": "Account Manager - Poland ",
@@ -7465,7 +7466,7 @@
     "location": "Poland",
     "posted_at": "2026-11-17T15:24:59.053000+00:00",
     "first_seen": "2026-11-17T15:50:23.919010+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://djinni.co/jobs/858870-technical-support-engineer/": {
     "title": "Technical Support Engineer",
@@ -7822,7 +7823,7 @@
     "location": "Europe",
     "posted_at": "2026-11-21T10:34:19+00:00",
     "first_seen": "2026-11-21T14:01:59.781321+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://jobicy.com/jobs/163630-technical-account-manager-14": {
     "title": "Technical Account Manager",
@@ -7832,7 +7833,7 @@
     "location": "France",
     "posted_at": "2026-11-21T10:34:17+00:00",
     "first_seen": "2026-11-21T14:01:59.781321+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://himalayas.app/companies/mozilla/jobs/staff-software-engineer-os-integration-4897383463?utm_source=api": {
     "title": "Staff Software Engineer, OS Integration",
@@ -7842,7 +7843,7 @@
     "location": "Sweden",
     "posted_at": "2026-11-21T12:53:05+00:00",
     "first_seen": "2026-11-21T14:01:59.781321+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://jobs.lever.co/jobgether/49967803-fca4-4200-872e-c6ece467f770": {
     "title": "Middle L1 Technical Support Specialist",
@@ -7852,7 +7853,7 @@
     "location": "Spain / Spain",
     "posted_at": "2026-11-21T10:18:28.538000+00:00",
     "first_seen": "2026-11-21T14:01:59.781321+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://jobs.lever.co/jobgether/8c6802e2-6046-49de-8fb5-73a1cc31ba65": {
     "title": "Middle L1 Technical Support Specialist",
@@ -7862,7 +7863,7 @@
     "location": "Switzerland / Switzerland",
     "posted_at": "2026-11-21T10:19:47.971000+00:00",
     "first_seen": "2026-11-21T14:01:59.781321+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://jobs.lever.co/jobgether/b7d8bfdc-b003-4dcb-ab84-40956321822b": {
     "title": "Middle L1 Technical Support Specialist",
@@ -7872,7 +7873,7 @@
     "location": "France / France",
     "posted_at": "2026-11-21T10:19:26.843000+00:00",
     "first_seen": "2026-11-21T14:01:59.781321+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://jobs.lever.co/jobgether/cda1e476-10f6-4309-8e10-ecfecbea6669": {
     "title": "Middle L1 Technical Support Specialist",
@@ -7882,7 +7883,7 @@
     "location": "Germany / Germany",
     "posted_at": "2026-11-21T10:18:57.962000+00:00",
     "first_seen": "2026-11-21T14:01:59.781321+00:00",
-    "link_checked_at": "2026-11-22T04:32:42.441873+00:00"
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
   },
   "https://www.arbeitnow.nl/jobs/companies/celonis/remote-principal-enterprise-architect-ai-cloud-integrations-162065": {
     "title": "Principal Enterprise Architect - AI & Cloud Integrations",
@@ -8001,6 +8002,61 @@
     "description": "About the Team\n\nThe Supply Chain Technology team within OpenAI's Enterprise Platform & Technology organization builds the systems and data foundations that support our supply chain and partner operations. We connect enterprise applications, improve operational visibility, and automate workflows across planning, purchasing, manufacturing, inventory, fulfillment, and returns. We work closely with engineering and business teams to build reliable systems that can evolve with OpenAI's growth.\n\nAbout the Role\n\nWe are seeking an Integrations Architect to set technical direction for enterprise integrations, with a strong focus on supply chain and external partner ecosystems. You will help evolve a growing integration portfolio into a scalable, maintainable foundation through clear architecture, reusable patterns, and strong engineering practices. You will also help establish shared integration architecture and reusable foundations needed to support Finance and Supply Chain systems.\n\nThis is a hands-on technical leadership role. You will translate business processes into integration designs, evaluate existing implementations, challenge assumptions, and guide improvements from design through production. Your influence will extend across application engineers, integration engineers, platform teams, and business stakeholders.\n\nYou will own integration architecture and partner with the engineering team responsible for the shared integration platform. Through clear requirements, working im",
     "location": "San Francisco",
     "posted_at": "2026-11-24T15:15:44.520000+00:00",
-    "first_seen": "2026-11-25T06:30:45.251920+00:00"
+    "first_seen": "2026-11-25T06:30:45.251920+00:00",
+    "link_checked_at": "2026-11-26T06:20:56.211188+00:00"
+  },
+  "https://jobs.lever.co/jobgether/9df5c391-4860-4c38-89fd-24035415dc69": {
+    "title": "Account Manager – Hungarian Market",
+    "url": "https://jobs.lever.co/jobgether/9df5c391-4860-4c38-89fd-24035415dc69",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Account Manager – Hungarian Market based in Germany. We are looking for a commercially driven Account Manager to manage and develop a portfolio of Hungarian-speaking customers within an international software environment. In this role, you will serve as the primary commercial contact for your accounts, taking ownership of revenue growth, contract renewals and long-term customer relationships. You will identify opportunities for account expansion, develop a strong sales pipeline and ensure sustainable revenue through structured renewal management. Working closely with consulting, support, marketing and product teams, you will connect customer needs with relevant solutions and business opportunities. Through value-based selling and proactive account management, you will help customers maximise the value of their software investments. This is an opportunity to combine commercial ownership, strategic thinking and customer engagement in a collaborative international environment.",
+    "location": "Germany / Germany",
+    "posted_at": "2026-11-25T14:23:33.692000+00:00",
+    "first_seen": "2026-11-26T06:23:43.721943+00:00"
+  },
+  "https://jobs.lever.co/jobgether/8c024101-8e33-4ad5-9910-df9023af6aa6": {
+    "title": "Key Account Manager",
+    "url": "https://jobs.lever.co/jobgether/8c024101-8e33-4ad5-9910-df9023af6aa6",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Key Account Manager based in Spain.\nThe Key Account Manager will drive commercial growth and strengthen strategic customer relationships across the French territory, with a focus on the medical aesthetics and surgical implant markets. This field-based role combines sales development, account management, and in-depth product expertise to deliver an outstanding customer experience. The successful candidate will manage key accounts, identify new business opportunities, and build long-term partnerships with healthcare professionals and medical institutions. Working closely with internal teams and external partners, they will ensure seamless customer support and reliable order fulfillment. The role also involves providing clinical product guidance, including operating room support when required. This is an exciting opportunity to contribute to an innovative and fast-growing international Femtech environment.",
+    "location": "Spain / Spain",
+    "posted_at": "2026-11-26T06:18:42.265000+00:00",
+    "first_seen": "2026-11-26T06:23:43.721943+00:00"
+  },
+  "https://jobs.lever.co/jobgether/952e7035-f4ab-4bb3-a5ff-775dd017400f": {
+    "title": "Key Account Manager",
+    "url": "https://jobs.lever.co/jobgether/952e7035-f4ab-4bb3-a5ff-775dd017400f",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Key Account Manager based in France.\nThe Key Account Manager will drive commercial growth and strengthen strategic customer relationships across the French territory, with a focus on the medical aesthetics and surgical implant markets. This field-based role combines sales development, account management, and in-depth product expertise to deliver an outstanding customer experience. The successful candidate will manage key accounts, identify new business opportunities, and build long-term partnerships with healthcare professionals and medical institutions. Working closely with internal teams and external partners, they will ensure seamless customer support and reliable order fulfillment. The role also involves providing clinical product guidance, including operating room support when required. This is an exciting opportunity to contribute to an innovative and fast-growing international Femtech environment.",
+    "location": "France / France",
+    "posted_at": "2026-11-26T06:17:39.805000+00:00",
+    "first_seen": "2026-11-26T06:23:43.721943+00:00"
+  },
+  "https://jobs.lever.co/jobgether/9d4b7416-16dc-456b-b80d-174f976e7dc3": {
+    "title": "Key Account Manager",
+    "url": "https://jobs.lever.co/jobgether/9d4b7416-16dc-456b-b80d-174f976e7dc3",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Key Account Manager based in Netherlands.\nThe Key Account Manager will drive commercial growth and strengthen strategic customer relationships across the French territory, with a focus on the medical aesthetics and surgical implant markets. This field-based role combines sales development, account management, and in-depth product expertise to deliver an outstanding customer experience. The successful candidate will manage key accounts, identify new business opportunities, and build long-term partnerships with healthcare professionals and medical institutions. Working closely with internal teams and external partners, they will ensure seamless customer support and reliable order fulfillment. The role also involves providing clinical product guidance, including operating room support when required. This is an exciting opportunity to contribute to an innovative and fast-growing international Femtech environment.",
+    "location": "Netherlands / Netherlands",
+    "posted_at": "2026-11-26T06:18:16.640000+00:00",
+    "first_seen": "2026-11-26T06:23:43.721943+00:00"
+  },
+  "https://jobs.lever.co/jobgether/c7f65eac-6af9-4913-a917-813b6a63d88d": {
+    "title": "Key Account Manager",
+    "url": "https://jobs.lever.co/jobgether/c7f65eac-6af9-4913-a917-813b6a63d88d",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Key Account Manager based in Ireland.\nThe Key Account Manager will drive commercial growth and strengthen strategic customer relationships across the French territory, with a focus on the medical aesthetics and surgical implant markets. This field-based role combines sales development, account management, and in-depth product expertise to deliver an outstanding customer experience. The successful candidate will manage key accounts, identify new business opportunities, and build long-term partnerships with healthcare professionals and medical institutions. Working closely with internal teams and external partners, they will ensure seamless customer support and reliable order fulfillment. The role also involves providing clinical product guidance, including operating room support when required. This is an exciting opportunity to contribute to an innovative and fast-growing international Femtech environment.",
+    "location": "Ireland / Ireland",
+    "posted_at": "2026-11-26T06:18:00.394000+00:00",
+    "first_seen": "2026-11-26T06:23:43.721943+00:00"
+  },
+  "https://jobs.lever.co/jobgether/ee18be99-e157-41b4-880e-54253e26947b": {
+    "title": "Key Account Manager",
+    "url": "https://jobs.lever.co/jobgether/ee18be99-e157-41b4-880e-54253e26947b",
+    "source": "Lever",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Key Account Manager based in Switzerland.\nThe Key Account Manager will drive commercial growth and strengthen strategic customer relationships across the French territory, with a focus on the medical aesthetics and surgical implant markets. This field-based role combines sales development, account management, and in-depth product expertise to deliver an outstanding customer experience. The successful candidate will manage key accounts, identify new business opportunities, and build long-term partnerships with healthcare professionals and medical institutions. Working closely with internal teams and external partners, they will ensure seamless customer support and reliable order fulfillment. The role also involves providing clinical product guidance, including operating room support when required. This is an exciting opportunity to contribute to an innovative and fast-growing international Femtech environment.",
+    "location": "Switzerland / Switzerland",
+    "posted_at": "2026-11-26T06:19:04.317000+00:00",
+    "first_seen": "2026-11-26T06:23:43.721943+00:00"
   }
 }
